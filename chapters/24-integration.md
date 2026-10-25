@@ -51,9 +51,30 @@
 
 ![负反馈如何维持动态稳定](../assets/images/24-01.jpg)
 
-**读图：** 按箭头追踪偏离、检测、调节与结果，理解负反馈抵消偏离趋势；稳态不是所有指标永远固定。
+#### 中文读图说明
 
-**标注对应：** stimulus 刺激；receptor 感受器；control center 控制中心；effector 效应器。
+先看左边的通用流程：从最上方刺激开始，沿向下箭头依次到传感环节、控制中心、效应器和反应。左侧粗红线将反应绕回刺激，表示结果反过来影响最初偏离，不能仅按红线理解为进一步放大刺激。
+
+再逐行对应右侧体温例子：体温升高被皮肤和脑中的相关神经细胞检测，脑内调节中心影响汗腺，增加散热。汗液蒸发等作用抵消升温趋势，这种抵消关系才是负反馈的关键。
+
+图以三十七摄氏度作为便于说明的参考值，并非所有人、所有时间和所有测量部位的固定阈值。它只突出汗腺这一条效应路线，还省略皮肤血流等参与散热的调节途径。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Stimulus | 刺激（偏离） | 流程最上端代表引起调节的状态变化 |
+| Sensor | 传感环节（感受器） | 检测相关变量并向调节中心提供信息 |
+| Control Center | 控制中心 | 整合信息并影响效应器活动的环节 |
+| Effector | 效应器 | 接受调节信号并执行相应活动的结构 |
+| Response | 反应 | 效应器活动造成对原有偏离的抵消 |
+| Body temperature exceeds 37°C | 体温超过三十七摄氏度 | 右图用来简化说明升温偏离的参考例 |
+| Nerve cells in skin and brain | 皮肤和脑中的神经细胞 | 右图中承担温度检测相关功能的环节 |
+| Temperature regulatory center in brain | 脑内体温调节中心 | 整合温度信息并组织散热相关反应 |
+| Sweat glands throughout body | 全身汗腺 | 右图选取增加出汗作为效应器活动 |
+| Increased heat loss | 散热增加 | 借散热增强来抵消最初的升温趋势 |
+| Negative feedback loop | 负反馈环路 | 左侧分图展示调节抵消偏离的基本关系 |
+| Body temperature regulation | 体温调节 | 右侧分图将通用环路对应到体温例子 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 1.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

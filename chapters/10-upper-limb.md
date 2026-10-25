@@ -14,9 +14,34 @@
 
 ![肩带怎样连接上肢与躯干](../assets/images/10-01.jpg)
 
-**读图：** 先追踪锁骨到胸骨的骨性连接，再看肩胛骨位于胸廓后方；肩胛骨与胸壁的滑动不是典型滑膜关节。
+#### 中文读图说明
 
-**标注对应：** clavicle 锁骨；scapula 肩胛骨；sternum 胸骨。
+上排左为肩带前面观，右为后面观；先沿锁骨从胸骨侧走到肩峰，再找肩胛骨与肱骨相接的位置。右图肩胛骨盖在胸廓后方，并没有与每一根肋骨形成滑膜关节。
+
+左图浅色带标出喙锁韧带和肋锁韧带，分别加强锁骨与肩胛骨、第一肋区域的联系；肩锁关节在锁骨外端，盂肱关节在其下外侧，两者不能统称为同一个肩关节间隙。
+
+下排两图是同一类锁骨的上面观和下面观，并非两块不同功能的骨。先找外侧肩峰端与内侧胸骨端，再依据Anterior、Posterior判断前后；翻到下面观察后，画面上下不再代表人体前后。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Coracoclavicular ligament | 喙锁韧带 | 连接肩胛骨喙突与锁骨以加强肩带稳定 |
+| Costoclavicular ligament | 肋锁韧带 | 位于锁骨内侧下方联系第一肋区域 |
+| Acromioclavicular joint | 肩锁关节 | 位于锁骨外端与肩胛骨肩峰交接处 |
+| Glenohumeral joint | 盂肱关节（肩关节） | 肱骨头与肩胛骨关节盂相接并参与抬臂 |
+| Clavicle | 锁骨 | 横跨胸骨侧与肩峰侧的弯曲骨性支撑 |
+| Scapula | 肩胛骨 | 位于胸廓后方并提供上肢肌肉附着处 |
+| Rib | 肋骨 | 位于肩胛骨深方共同构成胸廓支架 |
+| Vertebrae | 椎骨 | 位于后方中轴并与胸段肋骨相联系 |
+| Anterior view of pectoral girdle | 肩带前面观 | 上排左图显示锁骨韧带与肩前连接 |
+| Posterior view of pectoral girdle | 肩带后面观 | 上排右图显示肩胛骨覆盖胸廓的关系 |
+| Superior view of clavicle | 锁骨上面观 | 下排上图由上向下查看锁骨弯曲轮廓 |
+| Inferior view of clavicle | 锁骨下面观 | 下排下图翻看同类锁骨的下方表面 |
+| Acromial end | 肩峰端 | 锁骨外侧端与肩胛骨肩峰相接处 |
+| Sternal end | 胸骨端 | 锁骨内侧端与胸骨形成胸锁连接 |
+| Lateral | 外侧 | 此处指向远离人体中线的锁骨肩峰端 |
+| Anterior / Posterior | 前方／后方 | 用于给两种锁骨视图建立人体方向参照 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 8.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -28,13 +53,40 @@
 
 肱二头肌不只参与屈肘，也能参与前臂旋后；肱肌是重要的屈肘肌；肱三头肌位于上臂后方，主要伸肘。多块肌肉的贡献与姿势和负荷有关，肌肉的名字不能直接代替完整动作分析。[来源：OpenStax，8.2 上肢骨](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)；[11.5，Muscles That Move the Forearm](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)
 
-### 图 10-02｜桡尺骨与前臂旋转
+### 图 10-02｜右侧桡骨、尺骨的前面与后面
 
-![桡尺骨与前臂旋转](../assets/images/10-02.jpg)
+![右侧桡骨、尺骨的前面与后面](../assets/images/10-02.jpg)
 
-**读图：** 以肘端与腕端作参照，辨认桡骨靠拇指侧、尺骨靠小指侧；位置描述以解剖姿势为基础。
+#### 中文读图说明
 
-**标注对应：** radius 桡骨；ulna 尺骨；interosseous membrane 骨间膜。
+这不是旋前与旋后的连续动作图。左图明确标为右前臂前面观，右图为右前臂后面观；桡骨因观察方向改变而换到画面另一边，不能据此认为两骨已交叉旋转。
+
+先找近端：尺骨有鹰嘴、滑车切迹和冠突，围出与肱骨相接的区域；桡骨上端则是较小的圆盘形桡骨头，其下为桡骨颈和供肌腱附着的桡骨粗隆。
+
+再向下看，桡骨远端变宽，尺骨头位于靠腕的一端。两骨之间的斜纹是骨间膜，近远端桡尺关节共同允许前臂旋转。腕侧的两处茎突分别属于尺骨和桡骨，是不同骨上的突起。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Radial notch of the ulna | 尺骨桡切迹 | 尺骨近端外侧与桡骨头相接的小关节面 |
+| Head of radius | 桡骨头 | 桡骨近端盘状结构参与肘部及桡尺连接 |
+| Neck of radius | 桡骨颈 | 桡骨头下方较细一段连接近端与骨干 |
+| Radial tuberosity | 桡骨粗隆 | 桡骨近端粗糙突出为肱二头肌腱附着处 |
+| Olecranon process | 鹰嘴 | 尺骨近端后侧突起构成肘后的骨性尖端 |
+| Trochlear notch | 滑车切迹 | 尺骨近端大切迹容纳肱骨滑车关节面 |
+| Coronoid process | 冠突 | 尺骨近端前侧突起参与肘部关节构成 |
+| Proximal radioulnar joint | 桡尺近侧关节 | 靠近肘部的桡尺连接允许桡骨头转动 |
+| Interosseous membrane | 骨间膜 | 连接两骨骨干并参与稳定和负荷传递 |
+| Ulna | 尺骨 | 解剖姿势位于前臂靠小指的内侧 |
+| Radius | 桡骨 | 解剖姿势位于前臂靠拇指的外侧 |
+| Ulnar notch of the radius | 桡骨尺切迹 | 位于桡骨远端内侧并与尺骨头相接 |
+| Head of ulna | 尺骨头 | 尺骨远端的圆隆结构参与远侧桡尺连接 |
+| Distal radioulnar joint | 桡尺远侧关节 | 靠近腕部的桡尺连接配合前臂旋转 |
+| Styloid process of ulna | 尺骨茎突 | 尺骨远端突出是腕部尺侧骨性标志 |
+| Styloid process of radius | 桡骨茎突 | 桡骨远端突出是腕部桡侧骨性标志 |
+| Right forearm, anterior view | 右前臂前面观 | 左幅从前方观察同一侧的前臂骨骼 |
+| Right forearm, posterior view | 右前臂后面观 | 右幅从后方观察而非展示另一只前臂 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 8.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -63,9 +115,33 @@
 
 ![手内在肌：指间精细控制](../assets/images/10-03.jpg)
 
-**读图：** 沿掌骨间隙辨认骨间肌，再找拇指侧和小指侧肌群。很多指运动也依赖从前臂延伸来的长肌腱。
+#### 中文读图说明
 
-**标注对应：** thenar 鱼际；hypothenar 小鱼际；interossei 骨间肌。
+四幅都标示左手，但上左从掌侧看浅层，上右从背侧经过解剖暴露深层，下排再分别看掌侧和背侧的骨间肌。先找拇指作为外侧参照，换视角后它在画面的位置会改变。
+
+上左拇指侧鱼际可见拇短展肌、拇短屈肌等，小指侧有小指展肌和小指短屈肌，掌心细长的是蚓状肌。上右显露较深的对掌肌与拇收肌，不能误以为它们本来裸露在手背皮下。
+
+下左三块掌侧骨间肌与下右四块背侧骨间肌位于掌骨之间，分别参与手指相对中指轴线的内收、外展，并协助关节协调。白色长腱来自更近端肌肉，与图中手内肌共同工作，不是同一块肌肉的另一种颜色。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Opponens pollicis | 拇对掌肌 | 鱼际深部参与拇指根部转位与对掌 |
+| Abductor pollicis brevis | 拇短展肌 | 鱼际较表浅肌肉使拇指离开掌面 |
+| Flexor pollicis brevis | 拇短屈肌 | 位于鱼际参与屈曲拇指掌指关节 |
+| Adductor pollicis | 拇收肌 | 深层扇状肌参与将拇指拉向掌侧中部 |
+| Abductor digiti minimi | 小指展肌 | 小鱼际外缘参与小指相对中指外展 |
+| Flexor digiti minimi brevis | 小指短屈肌 | 小鱼际浅层肌参与小指掌指关节屈曲 |
+| Lumbricalis muscles | 蚓状肌 | 细长肌沿指屈肌腱走行并协调指关节 |
+| Pisometacarpal ligament | 豌豆掌骨韧带 | 从豌豆骨连向第五掌骨的纤维束 |
+| Opponens digiti minimi | 小指对掌肌 | 小鱼际深层肌参与第五掌骨的定位 |
+| Palmar interossei muscles | 掌侧骨间肌 | 三块肌位于掌骨间并主要参与手指内收 |
+| Dorsal interossei muscles | 背侧骨间肌 | 四块肌位于掌骨间并主要参与手指外展 |
+| Superficial muscles of left hand (palmar) | 左手浅层肌（掌侧） | 左上掌侧观察鱼际小鱼际与蚓状肌 |
+| Deep muscles of left hand: (dorsal view) | 左手深层肌（背面观） | 右上经解剖去除遮挡后从背侧看深肌 |
+| Interossei muscles of left hand (palmar view) | 左手骨间肌（掌面观） | 左下从掌侧显示三块掌侧骨间肌位置 |
+| Interossei muscles of left hand (dorsal view) | 左手骨间肌（背面观） | 右下从背侧显示四块背侧骨间肌排列 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 11.28](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

@@ -22,9 +22,42 @@
 
 ![头颅矢状面：骨壳与腔隙](../assets/images/08-01.jpg)
 
-**读图：** 从颅腔向前下方看鼻腔与口腔，辨认硬腭的分隔作用；面部不是贴在一整块实心骨头上的软组织。
+#### 中文读图说明
 
-**标注对应：** cranial cavity 颅腔；nasal cavity 鼻腔；hard palate 硬腭。
+这是沿矢状方向打开头颅后看到的骨性内面，面部朝画面右侧。先用顶骨、额部鼻旁窦与后方枕骨定位：大片颅腔区域原本容纳脑，本图已经去除脑和大部分软组织。
+
+沿鼻中隔向下看，筛骨垂直板与犁骨构成其骨性主体，鼻骨位于前上方。再向下找上颌骨和腭骨，它们形成硬腭的骨性支撑，把鼻腔与口腔前部分隔。
+
+颅底的蝶鞍垂体窝、筛板及后方骨孔提示神经血管的通路，不能当作装饰性凹陷。下颌骨内面的下颌孔与下颌舌骨肌线属于另一组参照；舌骨位于其下方，并不直接与下颌形成关节。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Parietal bone | 顶骨 | 位于颅顶及上外侧构成脑颅骨壳 |
+| Temporal bone | 颞骨 | 位于颅底外侧并容纳耳部深层结构 |
+| Internal acoustic meatus | 内耳道 | 颞骨内面入口通向相关神经行经的骨道 |
+| Hypoglossal canal | 舌下神经管 | 位于枕骨内供舌下神经穿行出颅 |
+| Occipital bone | 枕骨 | 位于颅腔后下方围护后颅窝区域 |
+| Styloid process | 茎突 | 颞骨下伸的细突为肌与韧带附着处 |
+| Medial and lateral pterygoid plates | 翼突内侧板与外侧板 | 蝶骨向下的骨板参与翼肌附着和定位 |
+| Mandibular foramen | 下颌孔 | 下颌支内面的孔通向下颌管内部 |
+| Lingula | 下颌小舌 | 位于下颌孔前缘的细小骨性突出 |
+| Sella turcica: Hypophyseal fossa | 蝶鞍：垂体窝 | 蝶骨上方凹陷是垂体所在骨性位置 |
+| Crista galli | 鸡冠 | 筛骨向颅腔突起处供硬脑膜附着 |
+| Frontal sinus | 额窦 | 位于额骨内部属于与鼻腔相关的鼻旁窦 |
+| Cribriform plate | 筛板 | 位于鼻腔顶的骨板有嗅神经通过小孔 |
+| Perpendicular plate | 筛骨垂直板 | 构成骨性鼻中隔的上方主要部分 |
+| Nasal bone | 鼻骨 | 鼻根鼻梁处的小骨参与外鼻骨性支撑 |
+| Sphenoid bone | 蝶骨 | 颅底中央复杂骨连接多块周围颅骨 |
+| Sphenoid sinus | 蝶窦 | 蝶骨内部含气腔隙属于鼻旁窦之一 |
+| Inferior nasal concha | 下鼻甲 | 位于鼻腔外侧壁向腔内伸出的骨片 |
+| Vomer | 犁骨 | 构成骨性鼻中隔的后下方部分 |
+| Maxilla | 上颌骨 | 承托上牙并参与鼻腔底和硬腭构成 |
+| Palatine bone | 腭骨 | 参与构成硬腭后部的骨性隔板 |
+| Mylohyoid line | 下颌舌骨肌线 | 下颌骨内面斜嵴为同名肌附着处 |
+| Mandible | 下颌骨 | 承托下牙并通过关节完成咀嚼运动 |
+| Hyoid bone | 舌骨 | 位于下颌下方由肌肉韧带悬系支持 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 7.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -40,9 +73,27 @@
 
 ![表情肌与面部软组织](../assets/images/08-02.jpg)
 
-**读图：** 比较眼口周围环形肌与向不同方向牵拉的肌肉；表情肌常止于皮肤，与跨关节牵动骨的典型四肢肌不同。
+#### 中文读图说明
 
-**标注对应：** orbicularis oculi 眼轮匝肌；orbicularis oris 口轮匝肌。
+左图是面部前面观，右图是同类结构的侧面观，不能把画面左右当成人体左右。先找眼裂和口裂周围的环形肌：眼轮匝肌参与闭眼，口轮匝肌参与闭唇与改变唇形。
+
+额部的枕额肌额腹与后枕部的枕腹不是在头顶长成一整块厚肌肉，两者由浅色帽状腱膜连接。右侧面图使这条跨过颅顶的腱膜及前后肌腹关系更加清楚。
+
+皱眉肌位于眉部附近，颊肌构成面颊较深的肌性部分，帮助压缩面颊。图中许多未逐一命名的细肌束共同牵拉皮肤；一副表情由多肌协作，不能把整幅图解释成单块肌肉对应一种情绪。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Epicranial aponeurosis | 帽状腱膜 | 跨过颅顶连接枕额肌前后两个肌腹 |
+| Occipitofrontalis (frontal belly) | 枕额肌（额腹） | 位于额部参与抬眉并牵动前额皮肤 |
+| Corrugator supercilii | 皱眉肌 | 眉内侧附近的小肌参与向内牵拉眉部 |
+| Orbicularis oculi | 眼轮匝肌 | 围绕眼裂分布并参与闭合眼睑动作 |
+| Occipitofrontalis (occipital belly) | 枕额肌（枕腹） | 位于头后部并经帽状腱膜联系额腹 |
+| Orbicularis oris | 口轮匝肌 | 环绕口裂参与闭唇和改变嘴唇形状 |
+| Buccinator | 颊肌 | 位于面颊深处参与压缩颊部并辅助进食 |
+| Facial muscles (anterior view) | 面部肌前面观 | 左图从面前观察肌肉围绕眼口的排列 |
+| Facial muscles (lateral view) | 面部肌侧面观 | 右图显示颅顶腱膜与颊部的前后关系 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 11.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -65,9 +116,25 @@
 
 ![咀嚼肌如何移动下颌](../assets/images/08-03.jpg)
 
-**读图：** 顺着颞肌与咬肌寻找下颌骨附着位置，再注意深部翼肌。不要将所有面部运动都归给表情肌。
+#### 中文读图说明
 
-**标注对应：** temporalis 颞肌；masseter 咬肌；pterygoid 翼肌。
+两幅都从头侧方观察，左边保留较浅层结构，右边把黑框区域中的表浅肌和部分骨性遮挡去除，以显示下颌内侧的深部肌肉；黑框表示观察位置，不是另一块独立器官。
+
+左图扇形颞肌从颞部向下汇聚，肌腱经过颧弓深方到达下颌；咬肌在下颌支外侧形成较厚肌腹。两者主要帮助抬高下颌，而非像表情肌那样主要牵动面部皮肤。
+
+右图上方较横行的是翼外肌，下方偏纵行的是翼内肌。它们与浅层肌共同完成下颌前移、侧向运动和咀嚼协调。图上没有动作箭头，不应仅凭肌纤维方向推断每种收缩的完整运动。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Temporalis | 颞肌 | 侧头部扇形肌参与抬高与后收下颌 |
+| Masseter | 咬肌 | 覆盖下颌支外侧并主要参与闭口咬合 |
+| Area of superficial muscle dissection | 表浅肌解剖去除区域 | 两幅黑框对应同一处由浅入深的观察区 |
+| Lateral pterygoid | 翼外肌 | 位于深部偏上方参与下颌前移与协调 |
+| Medial pterygoid | 翼内肌 | 位于下颌支内侧参与抬颌和咀嚼协调 |
+| Chewing muscles (superficial) | 咀嚼肌（浅层） | 左图保留浅层咬肌并显示颞肌外观 |
+| Chewing muscles (deep) | 咀嚼肌（深层） | 右图去除遮挡以显露内外两块翼肌 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 11.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

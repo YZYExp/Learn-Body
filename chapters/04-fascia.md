@@ -14,14 +14,32 @@
 
 ![疏松结缔组织中的纤维与细胞](../assets/images/04-01.jpg)
 
-**读图：** 把目光从细胞移到细胞之间：纤维与基质也是组织的重要部分。此图解释组织材料，不是全身筋膜的三维地图。
+#### 中文读图说明
 
-**标注对应：** collagen fiber 胶原纤维；elastic fiber 弹性纤维；fibroblast 成纤维细胞。
+左侧是结缔组织构成示意，右侧是染色后的显微照片，二者不是同一视野的逐点复制。先在左图区分粗的胶原纤维、细的弹性纤维与上方网状纤维，再寻找其间的不同细胞。
+
+成纤维细胞参与形成基质，脂肪细胞储存脂滴，巨噬细胞参与防御与清除。图把多种细胞同时放在一个小框中，是为说明组成，不表示真实组织处处按此数量比例分布。
+
+右图箭头分别标出纤维细胞、间充质细胞和脂肪细胞。较空白的圆形区域常与脂肪细胞在制片中的表现有关，不能理解成活体组织内的大空洞；粉红与紫色来自染色，此图也不是全身筋膜的立体地图。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Reticular fibers | 网状纤维 | 左图上方细密分支网提供支持 |
+| Adipocytes | 脂肪细胞 | 左图黄色大细胞储存脂滴 |
+| Mesenchymal cell | 间充质细胞 | 左图细长突起细胞为组织成分示例 |
+| Elastic fibers | 弹性纤维 | 左图较细绿线有助组织伸展回弹 |
+| Collagen fibers | 胶原纤维 | 左图粗的浅色纤维参与承受拉力 |
+| Fibroblast | 成纤维细胞 | 左图中央较大细胞参与产生基质 |
+| Macrophage | 巨噬细胞 | 左图下方细胞参与吞噬与清除 |
+| fibrocyte | 纤维细胞 | 右图右上箭头标出较静息细胞 |
+| mesenchymal | 间充质细胞 | 右图左下箭头指向间充质细胞示例 |
+| adipocyte | 脂肪细胞 | 右图中央箭头指向脂肪细胞截面 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 4.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrograph provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 筋膜提供连续关系，也形成局部分隔
 
@@ -54,14 +72,27 @@
 
 ![致密结缔组织的纤维方向](../assets/images/04-02.jpg)
 
-**读图：** 比较平行排列与多方向交织的胶原纤维，理解组织为何适应不同受力方向。肌腱与真皮都富含胶原，但结构安排不同。
+#### 中文读图说明
 
-**标注对应：** dense regular 致密规则；dense irregular 致密不规则。
+上排（a）为致密规则结缔组织，下排（b）为致密不规则结缔组织；每排左边是简图，右边是显微照片。先只比较纤维走向：上排胶原大体平行，下排胶原束朝多个方向交织。
+
+两排中深色细长小结构是成纤维细胞核，不是更多细小胶原纤维。规则排列适合沿主要方向传递拉力，不规则排列适应较复杂的方向性受力；“不规则”不是没有组织或杂乱失效。
+
+上排简图纵向、照片横向只是取景方向不同，不能据此认定结构相反。照片的粉红来自染色，放大倍数也不同；应比较局部排列关系，而非按画面粗细直接判定两种组织真实纤维尺寸。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| (a) Regular dense | （a）致密规则结缔组织 | 上排纤维大致平行排列的类型 |
+| (b) Irregular dense | （b）致密不规则结缔组织 | 下排纤维束多方向交织的类型 |
+| Collagen fibers | 胶原纤维 | 上排指线定位平行走行的纤维 |
+| Fibroblast nuclei | 成纤维细胞核 | 两排深色细长细胞核位于纤维间 |
+| Collagen fiber bundles | 胶原纤维束 | 下排指线定位多方向的粗纤维束 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 4.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrographs provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 从一张横断面看懂“软组织”
 

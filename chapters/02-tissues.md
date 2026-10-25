@@ -21,14 +21,37 @@
 
 ![四类基本组织](../assets/images/02-01.jpg)
 
-**读图：** 比较覆盖表面的细胞、含基质的支撑组织、收缩组织和传递信息的组织。一个器官通常同时包含多类组织。
+#### 中文读图说明
 
-**标注对应：** epithelial 上皮；connective 结缔；muscle 肌；nervous 神经。
+中央人体图用引线把四类组织连接到代表位置，四周照片则显示不同组织的显微外观。先看左上神经组织与右上肌组织，再看左下紧密成层的上皮和右下含较多细胞间成分的结缔组织。
+
+同一类组织可以出现在多个位置：上皮既覆盖体表，也衬在消化管等空腔器官内面；肌组织分心肌、平滑肌和骨骼肌。右上的照片是心肌实例，并不是三类肌组织同时出现在同一照片里。
+
+骨、肌腱、脂肪都被列入结缔组织，是按组织构成和关系分类，而非只看软硬。引线表示举例定位，不是神经或血管路线；染色照片的粉紫色也不是组织在活体中的自然颜色。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Nervous tissue | 神经组织 | 左上照片及脑脊髓神经位置示例 |
+| Brain | 脑 | 人体头颅内的中枢神经结构 |
+| Spinal cord | 脊髓 | 位于椎管内并与脑连接的结构 |
+| Nerves | 神经 | 图中颈肩部黄色周围神经示例 |
+| Muscle tissue | 肌组织 | 右上以心肌照片示收缩组织 |
+| Cardiac muscle | 心肌 | 引线指向胸部中央心脏位置 |
+| Smooth muscle | 平滑肌 | 引线指向胃等内脏肌性结构 |
+| Skeletal muscle | 骨骼肌 | 引线指向上肢可随意活动的肌肉 |
+| Epithelial tissue | 上皮组织 | 左下照片显示细胞紧密成层 |
+| Lining of GI tract organs and other hollow organs | 消化道及其他空腔器官的衬里 | GI为胃肠道缩写，指向肠内面 |
+| Skin surface (epidermis) | 皮肤表面（表皮） | 人体外缘指线表示覆盖性上皮 |
+| Connective tissue | 结缔组织 | 右下照片示细胞与细胞外成分 |
+| Fat and other soft padding tissue | 脂肪及其他软性缓冲组织 | 引线表示肢体内的缓冲组织示例 |
+| Bone | 骨 | 引线指向肢体内骨性支架结构 |
+| Tendon | 肌腱 | 引线指向肌肉与附着处间索带 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 4.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrographs provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 细胞之间也有结构
 
@@ -60,9 +83,27 @@
 
 ![膜也有不同组成](../assets/images/02-02.jpg)
 
-**读图：** 沿每块示意的表面进入深层，辨认上皮与其下结缔组织。滑膜是重要例外，不能把所有膜都理解成一层上皮。
+#### 中文读图说明
 
-**标注对应：** mucous membrane 黏膜；serous membrane 浆膜；synovial membrane 滑膜。
+图中从上到下有四个英文说明框，圆圈在人体上标出例子。上框连向口与呼吸道附近，表示黏膜衬在与外界相通的管道内；这里展示的是位置，没有单独放大上皮与结缔组织的层次。
+
+第二框指向胸部与腹部，说明浆膜与胸膜腔、心包腔和腹膜腔等空间有关。第三框指向手表面，把皮肤称为皮膜；最下框指向膝部，说明滑膜衬在滑膜关节内面并参与形成滑液。
+
+四种膜的共同点是覆盖或衬里任务，组织组成却不全相同，滑膜不属于典型上皮膜。图中引线不是液体流动路线，也不表示所有黏膜都有同样分泌量；器官颜色仅用于区分位置。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Mucous membranes | 黏膜 | 最上方框指向口及呼吸道附近 |
+| Digestive, respiratory, urinary, and reproductive tracts | 消化道、呼吸道、泌尿道及生殖道 | 上框列举与外界相通的管道 |
+| Secretions of mucous glands | 黏液腺分泌物 | 上框说明黏膜表面可有黏液覆盖 |
+| Serous membranes | 浆膜 | 第二说明框指向胸腹部体腔界面 |
+| Peritoneal, pleural, and pericardial cavities | 腹膜腔、胸膜腔和心包腔 | 第二框列出相关浆膜腔隙名称 |
+| Cutaneous membrane, or the skin | 皮膜，即皮肤 | 第三框圈出手部的身体外表面 |
+| Synovial membranes | 滑膜 | 最下说明框圈出膝部关节位置 |
+| Joint cavities | 关节腔 | 最下框所述滑膜关节内部空间 |
+| Fluid within the joint | 关节内的滑液 | 最下框说明滑膜参与形成滑液 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 4.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

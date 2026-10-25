@@ -16,9 +16,43 @@
 
 ![眼球的光路与感光层](../assets/images/21-01.jpg)
 
-**读图：** 沿光进入的方向从角膜、瞳孔、晶状体走到视网膜，再区分光路与视神经输出方向。
+#### 中文读图说明
 
-**标注对应：** cornea 角膜；lens 晶状体；retina 视网膜。
+先认前后：图右侧透明角膜是眼球前部，左侧为视神经离开的后部。沿角膜、瞳孔、晶状体、玻璃体腔走向视网膜，理解光的传播；图中黑线是标注引线，并不是光路箭头。原图内外侧字样与上下直肌标签不一致，这里只用角膜和视神经判断前后，不按画面上下推断人体上下或内外。
+
+再看眼球壁，从外向内分辨巩膜、脉络膜和视网膜。中央凹位于视网膜上，视盘则是视神经和血管通过的部位，后者没有感光细胞，不能将两处当成同一点。
+
+最后放大图右前部，虹膜把含房水的眼前部腔隙分成前房与后房；后房仍在晶状体前方附近，不是晶状体后面的玻璃体腔。睫状肌、悬韧带与晶状体联系，眼外直肌则负责转动眼球。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Lateral | 外侧 | 意为外侧；原图与上下直肌方位标注冲突 |
+| Medial | 内侧 | 意为内侧；本图不据此推断完整切面方向 |
+| Superior rectus muscle | 上直肌 | 图中眼球外上方所画的眼外肌 |
+| Inferior rectus muscle | 下直肌 | 图中眼球外下方所画的眼外肌 |
+| Sclera | 巩膜 | 形成眼球壁外层大部分的纤维膜 |
+| Choroid | 脉络膜 | 位于巩膜与视网膜之间的血管层 |
+| Retina | 视网膜 | 眼球壁内层包含感光与神经回路 |
+| Fovea centralis | 中央凹 | 视网膜上与精细视觉密切相关的小凹 |
+| Optic (II) nerve | 视神经（第二对脑神经） | 将视网膜神经信号传向中枢的通路 |
+| Central retinal artery and vein | 视网膜中央动脉与静脉 | 经视神经附近通向视网膜的血管 |
+| Optic disc (blind spot) | 视盘（盲点） | 神经纤维汇出且缺少感光细胞的区域 |
+| Posterior cavity | 眼后部腔隙 | 晶状体之后主要为玻璃体占据的空间 |
+| Vitreous chamber | 玻璃体腔 | 位于晶状体与眼后壁视网膜之间 |
+| Scleral venous sinus (canal of Schlemm) | 巩膜静脉窦（施莱姆管） | 位于前房角附近并参与房水引流 |
+| Suspensory ligaments | 晶状体悬韧带 | 连接睫状体与晶状体并传递张力 |
+| Lens | 晶状体 | 位于虹膜后方并参与眼球调焦 |
+| Cornea | 角膜 | 眼球前部透明并有重要折光作用 |
+| Iris | 虹膜 | 位于晶状体前方并围成中央瞳孔 |
+| Pupil | 瞳孔 | 虹膜中央供光线通过的可变大小开口 |
+| Anterior cavity (contains aqueous humor) | 眼前部腔隙（含房水） | 角膜与晶状体之间含前房和后房 |
+| Posterior chamber | 后房 | 虹膜后方与晶状体前方之间的窄隙 |
+| Anterior chamber | 前房 | 角膜后方与虹膜前方之间的空间 |
+| Ciliary body | 睫状体 | 前部血管膜的增厚部分包含睫状肌 |
+| Ciliary process | 睫状突 | 睫状体向内的突起并参与房水形成 |
+| Ciliary muscle | 睫状肌 | 借悬韧带张力变化影响晶状体形状 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 14.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -34,9 +68,34 @@
 
 ![外耳、中耳与内耳](../assets/images/21-02.jpg)
 
-**读图：** 按声能进入方向识别三区，注意内耳同时包含听觉与前庭结构，并非所有部分都负责听。
+#### 中文读图说明
 
-**标注对应：** tympanic membrane 鼓膜；ossicles 听小骨；cochlea 耳蜗。
+沿图下方括号先把耳分成外耳、中耳、内耳，再从左侧耳廓向右沿外耳道找到鼓膜。鼓膜把外耳道与含气的中耳鼓室隔开，不应把整条通道都看成通向内耳的空管。
+
+继续追到与鼓膜相接的锤骨，再到砧骨与镫骨；镫骨底部接在卵圆窗，把振动传向内耳。耳蜗像盘绕的小壳，与上方前庭相邻；耳蜗神经与前庭神经传送的信息不同。
+
+右下斜向下方的咽鼓管连接鼓室与鼻咽部，参与压力平衡，不通入脑内。圆窗位于耳蜗邻近的骨壁，和镫骨所接的卵圆窗是两个不同的膜性窗口，不能混为同一出口。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Auricle | 耳廓 | 外侧可见并帮助收集声音的部分 |
+| Ear canal | 外耳道 | 将声音从耳廓附近传向鼓膜的通道 |
+| Tympanic membrane | 鼓膜 | 外耳道内端随声音振动的薄膜 |
+| Malleus | 锤骨 | 与鼓膜相连的第一块听小骨 |
+| Incus | 砧骨 | 位于锤骨与镫骨之间的听小骨 |
+| Stapes (attached to oval window) | 镫骨（连接卵圆窗） | 其底部将听小骨振动传向内耳 |
+| Tympanic cavity | 鼓室 | 位于鼓膜内侧并容纳听小骨的含气腔 |
+| Vestibule | 前庭 | 内耳中连接半规管与耳蜗邻近的区域 |
+| Vestibular nerve | 前庭神经 | 传送与头位和运动相关的平衡信息 |
+| Cochlear nerve | 耳蜗神经 | 将耳蜗产生的听觉信息传向中枢 |
+| Round window | 圆窗 | 耳蜗邻近由膜封闭的另一窗口 |
+| Cochlea | 耳蜗 | 内耳中盘绕并完成听觉转换的结构 |
+| Eustachian tube | 咽鼓管 | 连接鼓室与鼻咽部以帮助平衡压力 |
+| External ear | 外耳 | 图下左侧括号划定耳廓到鼓膜的部分 |
+| Middle ear | 中耳 | 图下中部括号包含鼓室与听小骨 |
+| Inner ear | 内耳 | 图下右侧括号包含耳蜗与前庭结构 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 14.5](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -52,16 +111,42 @@
 
 ![嗅上皮与嗅觉通路](../assets/images/21-03.jpg)
 
-**读图：** 嗅觉感受区位于鼻腔上部，并非整片鼻黏膜都有相同功能；图中感觉传入与气流路径要区分。
+#### 中文读图说明
+
+先看左上鼻腔侧面图，红箭头是吸入气流，嗅上皮只位于鼻腔顶部的一小片区域。灰色大箭头将这个局部放大到右图，既不是气流，也不是神经信号的传播方向。
+
+右图由下向上读：气味分子随气流到达黏液，接触嗅纤毛及嗅觉感受神经元。它们的轴突汇成嗅神经细丝，穿过筛骨筛板小孔，在嗅球内与后续神经元建立联系，之后接入嗅束。
+
+右图的嗅腺与结缔组织位于上皮的深面，不能把嗅腺当成感受神经元。最下方是染色嗅上皮的显微照片，对照模式图找排列密集的细胞层；原材料来自动物组织，并非人体鼻腔实拍。
 
 **原图样本说明：** 显微部分使用非人灵长类组织样本，供比较通用组织结构；不是人体实测切片。
 
-**标注对应：** olfactory epithelium 嗅上皮；olfactory bulb 嗅球。
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Olfactory bulb | 嗅球 | 位于鼻腔顶部骨板上方的嗅觉中继结构 |
+| Olfactory tract | 嗅束 | 由嗅球向后联系其他脑区的纤维通路 |
+| Olfactory epithelium | 嗅上皮 | 鼻腔上部含嗅觉感受神经元的上皮 |
+| Nasal conchae | 鼻甲 | 鼻腔侧壁向内突出的卷曲骨性结构 |
+| Path of inhaled air | 吸入空气的路径 | 左图红箭头表示空气进入鼻腔方向 |
+| Mitral cells | 僧帽细胞 | 嗅球内接收输入并参与输出的神经元 |
+| Olfactory neurons | 嗅觉神经元 | 原图引线指向嗅球下部的轴突汇聚区 |
+| Ethmoid bone | 筛骨 | 图中多孔骨板属于筛骨的筛板部分 |
+| Filaments of olfactory nerve | 嗅神经细丝 | 嗅觉感受神经元轴突穿筛板形成的细束 |
+| Connective tissue | 结缔组织 | 位于嗅上皮深面并支持血管和腺体 |
+| Olfactory gland | 嗅腺 | 位于上皮深面并向表面分泌的腺体 |
+| Olfactory receptor | 嗅觉感受神经元 | 黄色细长细胞负责感受气味刺激 |
+| Dendrite | 树突 | 从感受神经元胞体伸向表面的突起 |
+| Mucus | 黏液 | 覆盖嗅上皮表面并溶解气味分子 |
+| Olfactory cilia | 嗅纤毛 | 位于上皮表面黏液中并承载感受结构 |
+| Path of inhaled air containing odorant molecules | 含气味分子的吸入气流路径 | 右图底部红箭头表示气流经过上皮表面 |
+| Nasal cavity | 鼻腔 | 左侧分图显示嗅觉区域的整体位置 |
+| Olfactory system | 嗅觉系统 | 右侧分图显示从上皮到嗅球的局部连接 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 14.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrograph provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 感觉转换之后，还需要处理与整合
 

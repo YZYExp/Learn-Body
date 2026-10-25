@@ -14,16 +14,32 @@
 
 ![一条神经中的束与纤维](../assets/images/20-01.jpg)
 
-**读图：** 从整条神经逐级进入神经束、神经纤维，比较它与肌肉成束组织的相似包裹方式；组成和功能并不相同。
+#### 中文读图说明
+
+先看左上整体神经，外层为神经外膜，里面含多个神经束和伴行血管。抽出的圆柱代表其中一个神经束；大弯箭头只是把选中部分放大，表示尺度转换，不是信号流向。
+
+进入神经束后，分清包单束的神经束膜、纤维间的神经内膜和内部轴突。右上原图有层级错位：Axon大括号圈住的整束不等于一根轴突；包围多个束的外边界应按神经外膜理解，不应随其Perineurium引线误认为神经束膜。以左图及下方切片的包裹关系为准。
+
+下半部是神经的染色切片，用圆形或椭圆形束与上图对照，找到包束的结缔组织。黄色是模式图的分类色，并非神经在活体内呈明亮黄色；切片染色也不代表组织原色。
 
 **原图样本说明：** 显微部分使用非人灵长类组织样本，供比较通用组织结构；不是人体实测切片。
 
-**标注对应：** epineurium 神经外膜；perineurium 神经束膜；axon 轴突。
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Spinal nerve | 脊神经 | 包含许多神经纤维与支持组织的整体 |
+| Epineurium | 神经外膜 | 包围整条神经并连接束间的结缔组织 |
+| Blood vessels | 血管 | 分布于神经内并为组织供应血液 |
+| Fascicle | 神经束 | 多根神经纤维构成的束状单位 |
+| Perineurium | 神经束膜 | 包围单个束；右上外边界引线有层级错位 |
+| Endoneurium | 神经内膜 | 位于单根神经纤维周围的细薄结缔组织 |
+| Axon | 轴突 | 神经纤维的传导部分并非整个神经束 |
+| Fascicles | 神经束（复数） | 下方切片中可见的多个束状截面 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 13.21](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrograph provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 后根进、前根出，合并后仍会再分支
 
@@ -37,9 +53,13 @@
 
 ![神经根、脊神经与前后支](../assets/images/20-02.png)
 
-**读图：** 先看两条神经根的不同功能，再看汇合后的脊神经如何分成前后支。后根与后支不是同一结构。此图仅表达连接关系。
+#### 中文读图说明
 
-**标注对应：** 后根 感觉传入；前根 运动传出；前支与后支 均为混合支。
+先从左侧脊髓出发，但要按颜色分别追线：蓝色后根箭头指向脊髓，表示感觉信息传入；红色前根箭头离开脊髓，表示运动信息传出。蓝色椭圆是后根神经节，含感觉神经元胞体。
+
+两根在中部汇合后成为短段脊神经，紫色表示其中兼有感觉和运动纤维。紫线向右分出的后支与前支也都是混合支，不能把后支直接等同于感觉通路，或把前支等同于运动通路。
+
+这幅图只画连接关系，线条长度、夹角和上下位置均不按真实解剖比例。最重要的读图结果是分清靠近脊髓的前后根，与汇合之后再分出的前后支，二者名称相近但层级不同。
 
 *来源：[本书原创连接示意，依据 OpenStax 13.2、13.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system)；本书原创连接示意；结构依据 OpenStax Anatomy and Physiology 2e §13.2、§13.4；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -69,13 +89,69 @@
 
 神经在肌肉间隙、骨孔和结缔组织通道内行走，经常与血管相邻，但两者不是同一种结构。图中颜色用于分类，不代表活体神经本身呈明亮黄色。阅读解剖图时，可以用“从哪来—在哪里换接—到哪里去”追踪一条线路，再用“送回感觉还是送出运动”标明方向；这样就能把神经从一串名称变成有起止、有功能的连接。
 
-### 图 20-03｜副交感通路的两级连接
+### 图 20-03｜交感与副交感通路总览
 
-![副交感通路的两级连接](../assets/images/20-03.jpg)
+![交感与副交感通路总览](../assets/images/20-03.jpg)
 
-**读图：** 先找中枢起点，再看近靶器官的神经节。交感与副交感需要比较，不能由一幅图推出所有器官都有双重支配。
+#### 中文读图说明
 
-**标注对应：** preganglionic 节前；postganglionic 节后；ganglion 神经节。
+先看底部图例：红线为交感纤维，蓝线为副交感纤维，这是一幅同时呈现两者的线路总览。左边长形结构兼画脑干和脊髓相关区域，不能把最上方的脑神经核团也当成脊髓节段。
+
+蓝线从脑干的相关核团经第三、七、九、十对脑神经走向靶器官，下方还有来自骶段的蓝线。圈内的接点表示近器官的终末神经节换接，需区分较长的节前段与较短的节后段。
+
+再对比红线在脊柱旁形成的交感干和胸腰段起点。右列器官用于并置路线，不表示每个器官都具有同样的双重支配；图中的器官位置、线条交叉和距离都是示意，不能当作局部手术定位图。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Region of spinal cord | 脊髓相关区域 | 左列概括中枢起点并含脑干示意 |
+| Associated nerves and terminal ganglia | 相关神经与终末神经节 | 中列展示传出路线及接力的位置 |
+| Target organs (effectors) | 靶器官（效应器） | 右列显示神经输出所影响的组织 |
+| Edinger–Westphal nucleus | 动眼神经副核 | 脑干内与眼部副交感输出相关的核团 |
+| Superior salivatory nucleus | 上泌涎核 | 与面神经携带的副交感输出相关 |
+| Inferior salivatory nucleus | 下泌涎核 | 与舌咽神经携带的副交感输出相关 |
+| Dorsal nucleus of the vagus and nucleus ambiguus | 迷走神经背核与疑核 | 延髓内参与迷走神经输出的核团 |
+| Cranial nerve III | 第三对脑神经（动眼神经） | 携带到睫状神经节的节前纤维 |
+| Cranial nerve VII | 第七对脑神经（面神经） | 携带泪腺与部分唾液腺相关纤维 |
+| Cranial nerve IX | 第九对脑神经（舌咽神经） | 携带经耳神经节通向腮腺的纤维 |
+| Cranial nerve X | 第十对脑神经（迷走神经） | 携带到多种胸腹器官的副交感纤维 |
+| Ciliary ganglion | 睫状神经节 | 位于眼眶内的副交感换接结构 |
+| Pterygopalatine ganglion | 翼腭神经节 | 与泪腺及鼻腭黏膜分泌调节相关 |
+| Submandibular ganglion | 下颌下神经节 | 与下颌下腺和舌下腺分泌调节相关 |
+| Otic ganglion | 耳神经节 | 与腮腺副交感输出相关的换接处 |
+| Eye | 眼 | 接受与瞳孔和调焦相关的神经输出 |
+| Lacrimal gland | 泪腺 | 分泌泪液并接受相关自主神经调节 |
+| Mucous membrane (nose and palate) | 鼻与腭的黏膜 | 包含接受自主神经调节的腺体组织 |
+| Submaxillary gland | 下颌下腺 | 图用旧称表示下颌下部的唾液腺 |
+| Sublingual gland | 舌下腺 | 位于口底并参与唾液分泌的腺体 |
+| Mucous membrane (mouth) | 口腔黏膜 | 图中表示口腔内的相关分泌组织 |
+| Parotid gland | 腮腺 | 位于耳前下方并参与唾液分泌 |
+| Heart | 心脏 | 心率等活动受到自主神经的调节 |
+| Larynx | 喉 | 位于气道上部并与迷走神经联系 |
+| Trachea | 气管 | 连接喉与主支气管的气道部分 |
+| Bronchi | 支气管 | 气管向肺内分支形成的气道结构 |
+| Esophagus | 食管 | 胸腹段活动接受自主神经的调节 |
+| Stomach | 胃 | 分泌与运动受到神经及局部机制调节 |
+| Abdominal blood vessels | 腹部血管 | 在图中作为腹部自主神经路线参照 |
+| Liver and bile duct | 肝与胆管 | 图中并列展示的肝胆相关靶结构 |
+| Pancreas | 胰腺 | 兼有分泌功能并接受自主神经影响 |
+| Adrenal gland | 肾上腺 | 其中髓质受交感节前纤维直接影响 |
+| Small intestine | 小肠 | 消化运动受肠神经与自主神经调节 |
+| Large intestine | 大肠 | 不同区段接受不同来源的副交感联系 |
+| Rectum | 直肠 | 位于大肠末端并接受盆部神经调节 |
+| Kidney | 肾 | 肾血管与肾功能受到相关神经影响 |
+| Bladder | 膀胱 | 储尿和排尿需要多种神经活动协调 |
+| Gonads | 性腺 | 图中概括表示卵巢或睾丸等结构 |
+| External genitalia | 外生殖器 | 血管及平滑肌活动受自主神经影响 |
+| Skin | 皮肤 | 图中左侧示意交感纤维到体表组织 |
+| Spinal cord | 脊髓 | 左侧中枢结构下部的脊髓示意 |
+| Coccygeal ganglia fused together (ganglion impar) | 融合的尾部交感神经节（奇神经节） | 位于两侧交感干最下端的连接处 |
+| Sympathetic fibers | 交感神经纤维 | 图例红色表示交感系统相关路线 |
+| Parasympathetic fibers | 副交感神经纤维 | 图例蓝色表示副交感系统相关路线 |
+| T1 / T2 / T3 / T4 / T5 / T6 / T7 / T8 / T9 / T10 / T11 / T12 | 第一至第十二胸段 | 字母与数字共同标记各胸髓节段 |
+| L1 / L2 / L3 / L4 / L5 | 第一至第五腰段 | 标记腰髓节段而非五条独立外周神经 |
+| S1 / S2 / S3 / S4 / S5 | 第一至第五骶段 | 骶段相关蓝线对应盆部副交感输出 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 15.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/15-1-divisions-of-the-autonomic-nervous-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

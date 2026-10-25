@@ -14,9 +14,24 @@
 
 ![滑膜关节的包裹与间隙](../assets/images/07-01.jpg)
 
-**读图：** 从骨端表面向外找软骨、关节腔和关节囊；韧带加强关节，但不等于连接肌肉的肌腱。
+#### 中文读图说明
 
-**标注对应：** articular cartilage 关节软骨；joint cavity 关节腔；joint capsule 关节囊。
+这是一处滑膜关节的剖面示意。先看上下两块骨：蜂窝状部分表示内部骨组织，蓝灰色薄层只覆盖相对的骨端，代表关节软骨，不是把两骨粘在一起的整块软骨。
+
+再沿右侧引线向外看，关节囊由外层纤维膜与内层滑膜共同构成。红色滑膜衬在囊的内面，抵达软骨边缘；它没有再覆盖整个关节软骨表面。
+
+两骨端之间浅黄色区域为含滑液的关节腔，滑液参与润滑和软骨营养。图把间隙拉开以便辨认，不表示骨端能在大袋子内任意移动；周围肌肉和韧带在这幅简图中被省略。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Bone | 骨 | 上下两端骨组织构成关节的硬性支架 |
+| Articular cartilage | 关节软骨 | 覆盖相对骨端表面以利承载和滑动 |
+| Articular capsule | 关节囊 | 包绕关节外周并围定内部关节腔 |
+| Synovial membrane (inner) | 滑膜（内层） | 衬在囊内面参与产生润滑所需滑液 |
+| Fibrous membrane (outer) | 纤维膜（外层） | 构成囊外层并加强关节连接稳定性 |
+| Joint cavity containing synovial fluid | 含滑液的关节腔 | 位于相对软骨之间并与囊内间隙相连 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 9.8](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -47,9 +62,24 @@
 
 ![关节形状与活动方式](../assets/images/07-02.jpg)
 
-**读图：** 比较接触面的形状，再看运动轴向。人体关节并非理想机械零件，周围软组织同样限制活动。
+#### 中文读图说明
 
-**标注对应：** hinge 铰链；pivot 车轴；ball-and-socket 球窝。
+从中央骨架的黑框出发，沿粗黑箭头找到对应的放大模型；粗箭头只连接示例位置，模型旁灰色弧箭头才表示允许的运动。蓝色接触面是为了突出形状，模型不是骨端的真实外观。
+
+左上(a)车轴关节示意绕轴转动，C1、C2指第一、第二颈椎；左中(b)铰链关节以肘为例，主要屈伸；左下(c)鞍状关节位于拇指根部，两个方向的曲面互相嵌合。
+
+右下(d)平面关节示意小幅滑动，右中(e)椭圆关节以桡腕连接示例，右上(f)髋的球窝关节可向多方向转动。真实活动还受韧带、关节囊和肌肉约束，不能只根据模型箭头估计角度。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| (a) Pivot joint (between C1 and C2 vertebrae) | 车轴关节（寰枢椎之间） | 左上示绕轴旋转并以第一二颈椎举例 |
+| (b) Hinge joint (elbow) | 铰链关节（肘） | 左中示主要沿一个方向完成屈伸活动 |
+| (c) Saddle joint (between trapezium carpal bone and 1st metacarpal bone) | 鞍状关节（大多角骨与第一掌骨间） | 左下示拇指腕掌关节相互嵌合的曲面 |
+| (d) Plane joint (between tarsal bones) | 平面关节（跗骨之间） | 右下平面箭头示接触面的有限滑移 |
+| (e) Condyloid joint (between radius and carpal bones of wrist) | 椭圆关节（桡骨与腕骨间） | 右中示桡腕关节可沿两个主要方向活动 |
+| (f) Ball-and-socket joint (hip joint) | 球窝关节（髋关节） | 右上球头与窝相接并容许多方向转动 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 9.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

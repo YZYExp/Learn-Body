@@ -20,18 +20,41 @@
 
 毛细血管不是完全相同的小管。连续型、窗孔型和血窦样结构的通透性不同，与所在组织任务相配：例如肺和肌肉需要受控交换，肾和某些内分泌器官需要较高的物质通行能力，肝内血窦则有另一种交换环境。“壁薄”不等于什么都能随意漏过去。
 
-### 图 14-01｜动脉、静脉与毛细血管的管壁
+### 图 14-01｜动脉与静脉的管壁比较
 
-![动脉、静脉与毛细血管的管壁](../assets/images/14-01.jpg)
+![动脉与静脉的管壁比较](../assets/images/14-01.jpg)
 
-**读图：** 比较中膜厚度与管腔，再看毛细血管的简化管壁。动静脉由流向心脏的关系定义。
+#### 中文读图说明
 
-**标注对应：** tunica intima 内膜；tunica media 中膜；tunica externa 外膜。
+上方左图为动脉，右图为静脉，下面是两者的组织切片；这张图没有毛细血管分图。先从白色管腔一侧向外看，依次辨认内膜、中膜、外膜，再比较动脉较厚的中膜。
+
+动脉图中的波浪线是弹性膜，细小交错丝线表示弹性纤维；红色细长细胞是平滑肌。管壁内另有滋养血管与神经，它们服务于血管壁，并非大管腔内的血液分支。
+
+最后看下方切片：动脉较圆、壁厚，静脉管腔较不规则且有塌陷。这是本次切片的形态，不能把圆扁作为唯一鉴别标准；还须一起比较管壁层次与相对厚度。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Artery | 动脉 | 上方左图及下方圆形较厚壁血管 |
+| Vein | 静脉 | 上方右图及下方较扁不规则血管 |
+| Tunica intima | 内膜 | 面向管腔的一层，包含内皮等结构 |
+| Tunica media | 中膜 | 内外膜之间，平滑肌及弹性成分较多 |
+| Tunica externa | 外膜 | 最外侧结缔组织层，与周围组织相连 |
+| Smooth muscle | 平滑肌 | 红色细长细胞，参与调节血管管径 |
+| Internal elastic membrane | 内弹性膜 | 动脉图靠近管腔的波浪状弹性界面 |
+| External elastic membrane | 外弹性膜 | 动脉中膜与外膜之间的弹性层次 |
+| Elastic fiber | 弹性纤维 | 动脉壁交错细丝，帮助伸展与回弹 |
+| Endothelium | 内皮 | 紧贴管腔、直接接触血液的细胞衬里 |
+| Vasa vasorum | 滋养血管 | 大血管壁中的小血管，供养管壁组织 |
+| Nervi vasorum | 血管神经 | 管壁中的神经，参与血管活动调节 |
+| (a) | 分图a：动脉示意 | 对应上方左图，重点比较管壁层次 |
+| (b) | 分图b：静脉示意 | 对应上方右图，中膜相对较薄一些 |
+| (c) | 分图c：组织切片 | 对应下方照片，比较真实管壁与管腔 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 20.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrograph provided by the Regents of the University of Michigan Medical School © 2012。*
-
 
 ## 从血液到组织液，再进入淋巴
 
@@ -45,9 +68,31 @@
 
 ![组织液如何进入淋巴毛细管](../assets/images/14-02.jpg)
 
-**读图：** 比较血毛细管与盲端起始的淋巴毛细管；进入后者的组织液称为淋巴。
+#### 中文读图说明
 
-**标注对应：** interstitial fluid 组织液；lymphatic capillary 淋巴毛细管。
+先看左半幅：红色微动脉分成血毛细管网，再汇入蓝色微静脉；绿色盲端管道夹在组织细胞之间，是淋巴毛细管。黑色小箭头提示组织液在血管外间隙中的移动。
+
+灰色弯箭头把一个局部放大到右侧。那里显示淋巴管壁的内皮细胞彼此重叠，形成可开启的瓣片样边缘；组织液从间隙进入后，才称为管内淋巴。
+
+沿右侧黑箭头向下读，可见防回流的瓣样结构。蓝色胶原纤维把管壁锚定在周围组织中。不要把灰色放大箭头当作液体流向，也不要把绿色管道误认成血管网的另一条静脉。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Lymph capillaries in the tissue spaces | 组织间隙中的淋巴毛细管 | 全图主题，强调管道位于细胞之间 |
+| Arteriole | 微动脉 | 左方红色供血小管，接入毛细血管网 |
+| Venule | 微静脉 | 左图右侧蓝色小管，汇集毛细血管血流 |
+| Lymph capillary | 淋巴毛细管 | 左图绿色盲端小管，收集局部组织液 |
+| Lymphatic vessel | 淋巴管 | 左图较大绿色通路，接续淋巴回流 |
+| Tissue fluid | 组织液 | 左图血管外、细胞间隙中的液体 |
+| Tissue cells | 组织细胞 | 浅黄色带红褐色细胞核的周围细胞 |
+| Collagen fiber | 胶原纤维 | 右图蓝色细丝，将淋巴管壁锚定 |
+| Interstitial fluid | 组织间液（组织液） | 右图管道外、细胞之间的液体环境 |
+| Lymph (interstitial fluid) | 淋巴（进入管内的组织液） | 右图绿色管腔内，已进入淋巴回流路线 |
+| Endothelial “flaps” | 内皮瓣片样边缘 | 重叠内皮形成的入口，帮助单向进入 |
+| Lymph vessel endothelial cells | 淋巴管内皮细胞 | 构成绿色管壁，图中可见紫色细胞核 |
+| Backflow prevention valve | 防回流瓣样结构 | 右图下方，帮助限制淋巴向后倒流 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 21.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -69,9 +114,27 @@
 
 ![淋巴系统的回流路线](../assets/images/14-03.jpg)
 
-**读图：** 从肢端向躯干追踪管道，注意淋巴结沿路分布，脾参与过滤血液而非直接过滤淋巴。
+#### 中文读图说明
 
-**标注对应：** lymph node 淋巴结；thoracic duct 胸导管；spleen 脾。
+这是从前方看的全身图，人体左侧在画面右边。绿色细线为淋巴管，沿途小结节为淋巴结；先从手足向躯干追踪，再找颈根部淋巴管接入蓝色静脉的位置。
+
+头部另标腺样体和扁桃体，胸前白色组织是胸腺。灰色弯箭头只把胸腺放大到右上角，那里不是淋巴结剖面，也不表示淋巴从胸部流出到身体外。
+
+右侧画面的紫色脾属于人体左上腹；大腿切开的骨显示骨髓。这些器官共同参与免疫相关工作，却不都负责过滤淋巴：淋巴结处理淋巴，脾主要处理血液，骨髓参与血细胞形成。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Adenoid | 腺样体（咽扁桃体） | 头部较上方黄色组织，邻近鼻咽区域 |
+| Tonsil | 扁桃体 | 头部较下方黄色组织，位于咽部附近 |
+| Right lymphatic duct, entering vein | 右淋巴导管汇入静脉 | 画面左侧颈根部，是人体右侧回流入口 |
+| Lymph nodes | 淋巴结群 | 胸肩及其他区域沿淋巴管分布的小结节 |
+| Lymph node | 淋巴结 | 右侧大腿引线所指的单个绿色结节 |
+| Thymus | 胸腺 | 胸前白色分叶组织，右上为其放大图 |
+| Spleen | 脾 | 画面右侧紫色器官，实际位于左上腹 |
+| Bone marrow | 骨髓 | 大腿骨切开后露出的内部组织区域 |
+| Lymph vessel | 淋巴管 | 四肢与躯干绿色通路，输送淋巴回流 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 21.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

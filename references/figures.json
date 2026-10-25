@@ -11,12 +11,269 @@
     "chapter": "01",
     "id": "01-01",
     "title_zh": "从前后两面认识体表分区",
-    "labels_zh": "anterior 前；posterior 后；thoracic 胸部；abdominal 腹部",
-    "guide_zh": "先把头、躯干和四肢分开，再在前后视图中寻找同一关节。图的左右不等于人体自身的左右。",
+    "labels_zh": "(a) Anterior view （a）前面观；(b) Posterior view （b）后面观；Cephalon or head (cephalic) 头部；Cranium or skull (cranial) 颅部；Frons or forehead (frontal) 额部；Facies or face (facial) 面部；Oculus or eye (orbital or ocular) 眼部、眶部；Bucca or cheek (buccal) 颊部；Auris or ear (otic) 耳部；Nasus or nose (nasal) 鼻部；Oris or mouth (oral) 口部；Mentis or chin (mental) 颏部；Cervicis or neck (cervical) 颈部；Thorcis or thorax, chest (thoracic) 胸部；Mamma or breast (mammary) 乳房区；Abdomen (abdominal) 腹部；Umbilicus or navel (umbilical) 脐部；Hip (coxal) 髋部；Pelvis (pelvic) 盆部；Inguen or groin (inguinal) 腹股沟区；Pubis (pubic) 耻部；Trunk 躯干；Axilla or armpit (axillary) 腋部；Shoulder (acromial) 肩峰区；Brachium or arm (brachial) 上臂；Antecubitis or front of elbow (antecubital) 肘前区；Olecranon or back of elbow (olecranal) 肘后区；Antebrachium or forearm (antebrachial) 前臂；Carpus or wrist (carpal) 腕部；Manus or hand (manual) 手部；Pollex or thumb 拇指；Palma or palm (palmar) 掌部；Digits (phalanges) or fingers (digital or phalangeal) 手指；Dorsum or back (dorsal) 背部；Lumbus or loin (lumbar) 腰部；Sacrum (sacral) 骶部；Gluteus or buttock (gluteal) 臀部；Femur or thigh (femoral) 大腿；Patella or kneecap (patellar) 髌区、膝前区；Popliteus or back of knee (popliteal) 腘部、膝后区；Crus or leg (crural) 小腿；Sura or calf (sural) 小腿后区；Tarsus or ankle (tarsal) 踝部；Pes or foot (pedal) 足部；Digits (phalanges) or toes (digital or phalangeal) 足趾；Hallux or great toe 拇趾；Calcaneus or heel of foot (calcaneal) 足跟区；Planta or sole of foot (plantar) 足底区；Upper limb 上肢；Lower limb 下肢",
+    "guide_zh": "左边（a）是前面观，右边（b）是后面观，两图均按解剖学姿势命名。先用大括号辨认头、躯干、上肢和下肢，再沿指示线寻找局部；正面图里，人体自身的右侧位于读者左边。 头部标注把额、眼、耳、鼻、口和颏分开；上肢依次是上臂、肘、前臂、腕和手。注意掌、拇指和其余手指另有名称，“arm”在此专指上臂，不包括整个上肢。 再从大腿沿膝、小腿、踝到足，和背面的腘窝、小腿肚、足跟、足底逐项对照。深浅色块只帮助区分表面区域，红色边界并非真实切口；这些名称描述体表分区，不直接显示内部骨或器官。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/01-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "左边（a）是前面观，右边（b）是后面观，两图均按解剖学姿势命名。先用大括号辨认头、躯干、上肢和下肢，再沿指示线寻找局部；正面图里，人体自身的右侧位于读者左边。",
+      "头部标注把额、眼、耳、鼻、口和颏分开；上肢依次是上臂、肘、前臂、腕和手。注意掌、拇指和其余手指另有名称，“arm”在此专指上臂，不包括整个上肢。",
+      "再从大腿沿膝、小腿、踝到足，和背面的腘窝、小腿肚、足跟、足底逐项对照。深浅色块只帮助区分表面区域，红色边界并非真实切口；这些名称描述体表分区，不直接显示内部骨或器官。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "(a) Anterior view",
+        "zh": "（a）前面观",
+        "note": "左侧人体从前方观察的视角"
+      },
+      {
+        "en": "(b) Posterior view",
+        "zh": "（b）后面观",
+        "note": "右侧人体从后方观察的视角"
+      },
+      {
+        "en": "Cephalon or head (cephalic)",
+        "zh": "头部",
+        "note": "后图头旁大括号概括整个头部"
+      },
+      {
+        "en": "Cranium or skull (cranial)",
+        "zh": "颅部",
+        "note": "前图上方指向颅骨覆盖区域"
+      },
+      {
+        "en": "Frons or forehead (frontal)",
+        "zh": "额部",
+        "note": "前图头部指向双眼上方额面"
+      },
+      {
+        "en": "Facies or face (facial)",
+        "zh": "面部",
+        "note": "前图指向头部前方面容区域"
+      },
+      {
+        "en": "Oculus or eye (orbital or ocular)",
+        "zh": "眼部、眶部",
+        "note": "前图眼旁指线定位眼及眼眶区"
+      },
+      {
+        "en": "Bucca or cheek (buccal)",
+        "zh": "颊部",
+        "note": "位于口角外侧的面颊区域"
+      },
+      {
+        "en": "Auris or ear (otic)",
+        "zh": "耳部",
+        "note": "前图头部外侧指向外耳附近"
+      },
+      {
+        "en": "Nasus or nose (nasal)",
+        "zh": "鼻部",
+        "note": "前图面中部指向鼻的区域"
+      },
+      {
+        "en": "Oris or mouth (oral)",
+        "zh": "口部",
+        "note": "前图指向口唇和口周区域"
+      },
+      {
+        "en": "Mentis or chin (mental)",
+        "zh": "颏部",
+        "note": "位于口下方与下颌前方区域"
+      },
+      {
+        "en": "Cervicis or neck (cervical)",
+        "zh": "颈部",
+        "note": "前后图均标出头与躯干之间"
+      },
+      {
+        "en": "Thorcis or thorax, chest (thoracic)",
+        "zh": "胸部",
+        "note": "前图指向躯干上部胸前区域"
+      },
+      {
+        "en": "Mamma or breast (mammary)",
+        "zh": "乳房区",
+        "note": "前图指向胸前乳房所在区域"
+      },
+      {
+        "en": "Abdomen (abdominal)",
+        "zh": "腹部",
+        "note": "前图胸部下方至骨盆上方"
+      },
+      {
+        "en": "Umbilicus or navel (umbilical)",
+        "zh": "脐部",
+        "note": "前图腹部中央指向肚脐位置"
+      },
+      {
+        "en": "Hip (coxal)",
+        "zh": "髋部",
+        "note": "前图指向躯干与下肢交界外侧"
+      },
+      {
+        "en": "Pelvis (pelvic)",
+        "zh": "盆部",
+        "note": "前图指向躯干最下部区域"
+      },
+      {
+        "en": "Inguen or groin (inguinal)",
+        "zh": "腹股沟区",
+        "note": "前图腹部与大腿交界的斜行区"
+      },
+      {
+        "en": "Pubis (pubic)",
+        "zh": "耻部",
+        "note": "前图腹下方外生殖器上方区域"
+      },
+      {
+        "en": "Trunk",
+        "zh": "躯干",
+        "note": "前图大括号概括胸腹盆部"
+      },
+      {
+        "en": "Axilla or armpit (axillary)",
+        "zh": "腋部",
+        "note": "前图上肢与胸壁之间的凹区"
+      },
+      {
+        "en": "Shoulder (acromial)",
+        "zh": "肩峰区",
+        "note": "后图肩外上方的体表区域"
+      },
+      {
+        "en": "Brachium or arm (brachial)",
+        "zh": "上臂",
+        "note": "前后图均指肩与肘之间的区域"
+      },
+      {
+        "en": "Antecubitis or front of elbow (antecubital)",
+        "zh": "肘前区",
+        "note": "前图上臂与前臂之间前面"
+      },
+      {
+        "en": "Olecranon or back of elbow (olecranal)",
+        "zh": "肘后区",
+        "note": "后图指向肘尖及其附近区域"
+      },
+      {
+        "en": "Antebrachium or forearm (antebrachial)",
+        "zh": "前臂",
+        "note": "前后图肘与腕之间的区域"
+      },
+      {
+        "en": "Carpus or wrist (carpal)",
+        "zh": "腕部",
+        "note": "前图前臂与手相连的狭窄区域"
+      },
+      {
+        "en": "Manus or hand (manual)",
+        "zh": "手部",
+        "note": "后图手旁大括号概括整个手部"
+      },
+      {
+        "en": "Pollex or thumb",
+        "zh": "拇指",
+        "note": "前图手外侧较短粗的一指"
+      },
+      {
+        "en": "Palma or palm (palmar)",
+        "zh": "掌部",
+        "note": "前图指向手的掌侧中央区域"
+      },
+      {
+        "en": "Digits (phalanges) or fingers (digital or phalangeal)",
+        "zh": "手指",
+        "note": "前图指向拇指之外的手指区域"
+      },
+      {
+        "en": "Dorsum or back (dorsal)",
+        "zh": "背部",
+        "note": "后图躯干后面上中部区域"
+      },
+      {
+        "en": "Lumbus or loin (lumbar)",
+        "zh": "腰部",
+        "note": "后图背部下方骨盆上方区域"
+      },
+      {
+        "en": "Sacrum (sacral)",
+        "zh": "骶部",
+        "note": "后图臀裂上方正中的区域"
+      },
+      {
+        "en": "Gluteus or buttock (gluteal)",
+        "zh": "臀部",
+        "note": "后图骨盆后方的隆起区域"
+      },
+      {
+        "en": "Femur or thigh (femoral)",
+        "zh": "大腿",
+        "note": "前后图髋与膝之间的区域"
+      },
+      {
+        "en": "Patella or kneecap (patellar)",
+        "zh": "髌区、膝前区",
+        "note": "前图指向膝关节前面的区域"
+      },
+      {
+        "en": "Popliteus or back of knee (popliteal)",
+        "zh": "腘部、膝后区",
+        "note": "后图指向膝后方的凹陷区域"
+      },
+      {
+        "en": "Crus or leg (crural)",
+        "zh": "小腿",
+        "note": "前图指膝与踝之间的小腿前部"
+      },
+      {
+        "en": "Sura or calf (sural)",
+        "zh": "小腿后区",
+        "note": "后图指向小腿肚所在区域"
+      },
+      {
+        "en": "Tarsus or ankle (tarsal)",
+        "zh": "踝部",
+        "note": "前图小腿与足相连的区域"
+      },
+      {
+        "en": "Pes or foot (pedal)",
+        "zh": "足部",
+        "note": "前图足旁大括号概括整个足部"
+      },
+      {
+        "en": "Digits (phalanges) or toes (digital or phalangeal)",
+        "zh": "足趾",
+        "note": "前图指向足前端的各趾区域"
+      },
+      {
+        "en": "Hallux or great toe",
+        "zh": "拇趾",
+        "note": "前图足内侧最大的一枚足趾"
+      },
+      {
+        "en": "Calcaneus or heel of foot (calcaneal)",
+        "zh": "足跟区",
+        "note": "后图指向足后部跟骨覆盖区域"
+      },
+      {
+        "en": "Planta or sole of foot (plantar)",
+        "zh": "足底区",
+        "note": "后图指向足的下表面区域"
+      },
+      {
+        "en": "Upper limb",
+        "zh": "上肢",
+        "note": "后图大括号概括肩至手区域"
+      },
+      {
+        "en": "Lower limb",
+        "zh": "下肢",
+        "note": "后图大括号概括髋至足区域"
+      }
+    ]
   },
   {
     "section": "1-6-anatomical-terminology",
@@ -30,12 +287,39 @@
     "chapter": "01",
     "id": "01-02",
     "title_zh": "三个基本切面",
-    "labels_zh": "sagittal 矢状；frontal 冠状；transverse 横断",
-    "guide_zh": "矢状面分左右，冠状面分前后，横断面分上下。切面是观察方向，不是身体中天然存在的隔板。",
+    "labels_zh": "Sagittal plane 矢状面；Frontal (coronal) plane 额状面、冠状面；Transverse plane 横断面；Oblique plane 斜面",
+    "guide_zh": "图中人体呈斜前方视角，蓝边绿色透明板代表假想切面。先找贯穿头与躯干、把身体分成左和右的矢状面；图示接近正中位置，偏离正中的平行切面仍属于矢状面。 另一个竖直面是冠状面，它分开身体前部和后部；腰部近水平的板是横断面，分开上部与下部。足踝附近倾斜的小板是斜面，说明实际观察也可以采用不平行于基本切面的方向。 这些板不是人体中的真实膜或分隔，也没有画出切开后的内部组织。透明颜色和交线只为展示空间方向；阅读后续剖面时，还要另行确认切到的高度、前后和左右标记。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/01-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "图中人体呈斜前方视角，蓝边绿色透明板代表假想切面。先找贯穿头与躯干、把身体分成左和右的矢状面；图示接近正中位置，偏离正中的平行切面仍属于矢状面。",
+      "另一个竖直面是冠状面，它分开身体前部和后部；腰部近水平的板是横断面，分开上部与下部。足踝附近倾斜的小板是斜面，说明实际观察也可以采用不平行于基本切面的方向。",
+      "这些板不是人体中的真实膜或分隔，也没有画出切开后的内部组织。透明颜色和交线只为展示空间方向；阅读后续剖面时，还要另行确认切到的高度、前后和左右标记。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Sagittal plane",
+        "zh": "矢状面",
+        "note": "竖直经过身体并区分左侧与右侧"
+      },
+      {
+        "en": "Frontal (coronal) plane",
+        "zh": "额状面、冠状面",
+        "note": "竖直经过身体并区分前部与后部"
+      },
+      {
+        "en": "Transverse plane",
+        "zh": "横断面",
+        "note": "图中腰部水平切面区分上下部"
+      },
+      {
+        "en": "Oblique plane",
+        "zh": "斜面",
+        "note": "图中足踝附近倾斜的切面示例"
+      }
+    ]
   },
   {
     "section": "1-6-anatomical-terminology",
@@ -49,12 +333,89 @@
     "chapter": "01",
     "id": "01-03",
     "title_zh": "体腔与分隔",
-    "labels_zh": "cranial cavity 颅腔；vertebral cavity 椎管；diaphragm 膈",
-    "guide_zh": "从颅腔沿椎管向下，再看膈如何把胸腔和腹盆腔隔开。腹腔与盆腔之间没有同样完整的横向隔膜。",
+    "labels_zh": "Lateral view 侧面观；Anterior view 前面观；Cranial cavity 颅腔；Vertebral cavity 椎管；Dorsal body cavity 背侧体腔；Thoracic cavity 胸腔；Superior mediastinum 上纵隔；Pleural cavity 胸膜腔；Pericardial cavity within the mediastinum 纵隔内的心包腔；Diaphragm 膈；Abdominal cavity 腹腔；Pelvic cavity 盆腔；Abdominopelvic cavity 腹盆腔；Ventral body cavity (both thoracic and abdominopelvic cavities) 腹侧体腔",
+    "guide_zh": "先比较左侧面观与右前面观：红色颅腔向下接细长的椎管，左侧大括号把它们归为背侧体腔。它们的轮廓说明脑与脊髓的容纳空间，并不表示里面没有组织。 再看胸部：紫色两侧区域标示胸膜腔的位置，中央上方是上纵隔，心包腔位于纵隔内。胸部下界的膈把胸腔与腹盆腔分开；粉色腹部与绿色盆部则向下连续。 右侧大括号给出腹盆腔与腹侧体腔的归属关系。图把胸膜腔、心包腔画得宽大以便定位，真实正常浆膜腔只是薄的潜在间隙；区域色块不代表器官或液体的真实颜色。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/01-03.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "先比较左侧面观与右前面观：红色颅腔向下接细长的椎管，左侧大括号把它们归为背侧体腔。它们的轮廓说明脑与脊髓的容纳空间，并不表示里面没有组织。",
+      "再看胸部：紫色两侧区域标示胸膜腔的位置，中央上方是上纵隔，心包腔位于纵隔内。胸部下界的膈把胸腔与腹盆腔分开；粉色腹部与绿色盆部则向下连续。",
+      "右侧大括号给出腹盆腔与腹侧体腔的归属关系。图把胸膜腔、心包腔画得宽大以便定位，真实正常浆膜腔只是薄的潜在间隙；区域色块不代表器官或液体的真实颜色。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Lateral view",
+        "zh": "侧面观",
+        "note": "左侧剖示图呈现体腔前后关系"
+      },
+      {
+        "en": "Anterior view",
+        "zh": "前面观",
+        "note": "右侧图呈现胸腹与左右分区"
+      },
+      {
+        "en": "Cranial cavity",
+        "zh": "颅腔",
+        "note": "颅骨内红色区域容纳脑组织"
+      },
+      {
+        "en": "Vertebral cavity",
+        "zh": "椎管",
+        "note": "脊柱内细长通道容纳脊髓等结构"
+      },
+      {
+        "en": "Dorsal body cavity",
+        "zh": "背侧体腔",
+        "note": "左侧括号合称颅腔与椎管"
+      },
+      {
+        "en": "Thoracic cavity",
+        "zh": "胸腔",
+        "note": "位于膈上方并含纵隔及两侧区域"
+      },
+      {
+        "en": "Superior mediastinum",
+        "zh": "上纵隔",
+        "note": "两肺之间纵隔较上部的区域"
+      },
+      {
+        "en": "Pleural cavity",
+        "zh": "胸膜腔",
+        "note": "胸膜层间薄隙在图中被扩大显示"
+      },
+      {
+        "en": "Pericardial cavity within the mediastinum",
+        "zh": "纵隔内的心包腔",
+        "note": "胸部中央心包浆膜层间的间隙"
+      },
+      {
+        "en": "Diaphragm",
+        "zh": "膈",
+        "note": "胸腔与腹盆腔之间的肌性分隔"
+      },
+      {
+        "en": "Abdominal cavity",
+        "zh": "腹腔",
+        "note": "膈下方盆腔上方的腹部空间"
+      },
+      {
+        "en": "Pelvic cavity",
+        "zh": "盆腔",
+        "note": "腹腔向下连续进入骨盆内空间"
+      },
+      {
+        "en": "Abdominopelvic cavity",
+        "zh": "腹盆腔",
+        "note": "右侧小括号概括腹腔与盆腔"
+      },
+      {
+        "en": "Ventral body cavity (both thoracic and abdominopelvic cavities)",
+        "zh": "腹侧体腔",
+        "note": "右侧大括号概括胸腔及腹盆腔"
+      }
+    ]
   },
   {
     "section": "4-1-types-of-tissues",
@@ -68,13 +429,95 @@
     "chapter": "02",
     "id": "02-01",
     "title_zh": "四类基本组织",
-    "labels_zh": "epithelial 上皮；connective 结缔；muscle 肌；nervous 神经",
-    "guide_zh": "比较覆盖表面的细胞、含基质的支撑组织、收缩组织和传递信息的组织。一个器官通常同时包含多类组织。",
+    "labels_zh": "Nervous tissue 神经组织；Brain 脑；Spinal cord 脊髓；Nerves 神经；Muscle tissue 肌组织；Cardiac muscle 心肌；Smooth muscle 平滑肌；Skeletal muscle 骨骼肌；Epithelial tissue 上皮组织；Lining of GI tract organs and other hollow organs 消化道及其他空腔器官的衬里；Skin surface (epidermis) 皮肤表面（表皮）；Connective tissue 结缔组织；Fat and other soft padding tissue 脂肪及其他软性缓冲组织；Bone 骨；Tendon 肌腱",
+    "guide_zh": "中央人体图用引线把四类组织连接到代表位置，四周照片则显示不同组织的显微外观。先看左上神经组织与右上肌组织，再看左下紧密成层的上皮和右下含较多细胞间成分的结缔组织。 同一类组织可以出现在多个位置：上皮既覆盖体表，也衬在消化管等空腔器官内面；肌组织分心肌、平滑肌和骨骼肌。右上的照片是心肌实例，并不是三类肌组织同时出现在同一照片里。 骨、肌腱、脂肪都被列入结缔组织，是按组织构成和关系分类，而非只看软硬。引线表示举例定位，不是神经或血管路线；染色照片的粉紫色也不是组织在活体中的自然颜色。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/02-01.jpg",
     "after_section": 1,
-    "additional_credit": "Micrographs provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrographs provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "中央人体图用引线把四类组织连接到代表位置，四周照片则显示不同组织的显微外观。先看左上神经组织与右上肌组织，再看左下紧密成层的上皮和右下含较多细胞间成分的结缔组织。",
+      "同一类组织可以出现在多个位置：上皮既覆盖体表，也衬在消化管等空腔器官内面；肌组织分心肌、平滑肌和骨骼肌。右上的照片是心肌实例，并不是三类肌组织同时出现在同一照片里。",
+      "骨、肌腱、脂肪都被列入结缔组织，是按组织构成和关系分类，而非只看软硬。引线表示举例定位，不是神经或血管路线；染色照片的粉紫色也不是组织在活体中的自然颜色。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Nervous tissue",
+        "zh": "神经组织",
+        "note": "左上照片及脑脊髓神经位置示例"
+      },
+      {
+        "en": "Brain",
+        "zh": "脑",
+        "note": "人体头颅内的中枢神经结构"
+      },
+      {
+        "en": "Spinal cord",
+        "zh": "脊髓",
+        "note": "位于椎管内并与脑连接的结构"
+      },
+      {
+        "en": "Nerves",
+        "zh": "神经",
+        "note": "图中颈肩部黄色周围神经示例"
+      },
+      {
+        "en": "Muscle tissue",
+        "zh": "肌组织",
+        "note": "右上以心肌照片示收缩组织"
+      },
+      {
+        "en": "Cardiac muscle",
+        "zh": "心肌",
+        "note": "引线指向胸部中央心脏位置"
+      },
+      {
+        "en": "Smooth muscle",
+        "zh": "平滑肌",
+        "note": "引线指向胃等内脏肌性结构"
+      },
+      {
+        "en": "Skeletal muscle",
+        "zh": "骨骼肌",
+        "note": "引线指向上肢可随意活动的肌肉"
+      },
+      {
+        "en": "Epithelial tissue",
+        "zh": "上皮组织",
+        "note": "左下照片显示细胞紧密成层"
+      },
+      {
+        "en": "Lining of GI tract organs and other hollow organs",
+        "zh": "消化道及其他空腔器官的衬里",
+        "note": "GI为胃肠道缩写，指向肠内面"
+      },
+      {
+        "en": "Skin surface (epidermis)",
+        "zh": "皮肤表面（表皮）",
+        "note": "人体外缘指线表示覆盖性上皮"
+      },
+      {
+        "en": "Connective tissue",
+        "zh": "结缔组织",
+        "note": "右下照片示细胞与细胞外成分"
+      },
+      {
+        "en": "Fat and other soft padding tissue",
+        "zh": "脂肪及其他软性缓冲组织",
+        "note": "引线表示肢体内的缓冲组织示例"
+      },
+      {
+        "en": "Bone",
+        "zh": "骨",
+        "note": "引线指向肢体内骨性支架结构"
+      },
+      {
+        "en": "Tendon",
+        "zh": "肌腱",
+        "note": "引线指向肌肉与附着处间索带"
+      }
+    ]
   },
   {
     "section": "4-1-types-of-tissues",
@@ -88,12 +531,64 @@
     "chapter": "02",
     "id": "02-02",
     "title_zh": "膜也有不同组成",
-    "labels_zh": "mucous membrane 黏膜；serous membrane 浆膜；synovial membrane 滑膜",
-    "guide_zh": "沿每块示意的表面进入深层，辨认上皮与其下结缔组织。滑膜是重要例外，不能把所有膜都理解成一层上皮。",
+    "labels_zh": "Mucous membranes 黏膜；Digestive, respiratory, urinary, and reproductive tracts 消化道、呼吸道、泌尿道及生殖道；Secretions of mucous glands 黏液腺分泌物；Serous membranes 浆膜；Peritoneal, pleural, and pericardial cavities 腹膜腔、胸膜腔和心包腔；Cutaneous membrane, or the skin 皮膜，即皮肤；Synovial membranes 滑膜；Joint cavities 关节腔；Fluid within the joint 关节内的滑液",
+    "guide_zh": "图中从上到下有四个英文说明框，圆圈在人体上标出例子。上框连向口与呼吸道附近，表示黏膜衬在与外界相通的管道内；这里展示的是位置，没有单独放大上皮与结缔组织的层次。 第二框指向胸部与腹部，说明浆膜与胸膜腔、心包腔和腹膜腔等空间有关。第三框指向手表面，把皮肤称为皮膜；最下框指向膝部，说明滑膜衬在滑膜关节内面并参与形成滑液。 四种膜的共同点是覆盖或衬里任务，组织组成却不全相同，滑膜不属于典型上皮膜。图中引线不是液体流动路线，也不表示所有黏膜都有同样分泌量；器官颜色仅用于区分位置。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/02-02.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "图中从上到下有四个英文说明框，圆圈在人体上标出例子。上框连向口与呼吸道附近，表示黏膜衬在与外界相通的管道内；这里展示的是位置，没有单独放大上皮与结缔组织的层次。",
+      "第二框指向胸部与腹部，说明浆膜与胸膜腔、心包腔和腹膜腔等空间有关。第三框指向手表面，把皮肤称为皮膜；最下框指向膝部，说明滑膜衬在滑膜关节内面并参与形成滑液。",
+      "四种膜的共同点是覆盖或衬里任务，组织组成却不全相同，滑膜不属于典型上皮膜。图中引线不是液体流动路线，也不表示所有黏膜都有同样分泌量；器官颜色仅用于区分位置。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Mucous membranes",
+        "zh": "黏膜",
+        "note": "最上方框指向口及呼吸道附近"
+      },
+      {
+        "en": "Digestive, respiratory, urinary, and reproductive tracts",
+        "zh": "消化道、呼吸道、泌尿道及生殖道",
+        "note": "上框列举与外界相通的管道"
+      },
+      {
+        "en": "Secretions of mucous glands",
+        "zh": "黏液腺分泌物",
+        "note": "上框说明黏膜表面可有黏液覆盖"
+      },
+      {
+        "en": "Serous membranes",
+        "zh": "浆膜",
+        "note": "第二说明框指向胸腹部体腔界面"
+      },
+      {
+        "en": "Peritoneal, pleural, and pericardial cavities",
+        "zh": "腹膜腔、胸膜腔和心包腔",
+        "note": "第二框列出相关浆膜腔隙名称"
+      },
+      {
+        "en": "Cutaneous membrane, or the skin",
+        "zh": "皮膜，即皮肤",
+        "note": "第三框圈出手部的身体外表面"
+      },
+      {
+        "en": "Synovial membranes",
+        "zh": "滑膜",
+        "note": "最下说明框圈出膝部关节位置"
+      },
+      {
+        "en": "Joint cavities",
+        "zh": "关节腔",
+        "note": "最下框所述滑膜关节内部空间"
+      },
+      {
+        "en": "Fluid within the joint",
+        "zh": "关节内的滑液",
+        "note": "最下框说明滑膜参与形成滑液"
+      }
+    ]
   },
   {
     "section": "5-1-layers-of-the-skin",
@@ -107,12 +602,104 @@
     "chapter": "03",
     "id": "03-01",
     "title_zh": "皮肤与皮下组织的连续层次",
-    "labels_zh": "epidermis 表皮；dermis 真皮；hypodermis 皮下组织",
-    "guide_zh": "从表面向下依次找表皮、真皮和皮下组织，随后追踪毛囊、汗腺与血管。皮下组织与皮肤紧密相接，但严格说并非皮肤本体的一层。",
+    "labels_zh": "Epidermis 表皮；Dermis 真皮；Hypodermis 皮下组织；Hair shaft 毛干；Hair follicle 毛囊；Hair root 毛根；Arrector pili muscle 立毛肌；Sebaceous (oil) gland 皮脂腺；Hair root plexus 毛根神经丛；Hair follicle receptor 毛囊感受器；Sensory nerve fiber 感觉神经纤维；Motor nerve fiber 运动性神经纤维；Adipose tissue 脂肪组织；Pore of sweat gland duct 汗腺导管开口（汗孔）；Eccrine sweat gland 小汗腺（外泌汗腺）；Pacinian corpuscle 环层小体（帕西尼小体）；Cutaneous vascular plexus 皮肤血管丛",
+    "guide_zh": "先看右侧括号：最上方表皮覆盖表面，中部真皮含毛囊、腺体、神经和血管，更深处是有黄色脂肪团的皮下组织。皮下组织与皮肤紧密相接，但严格说不属于皮肤本体的第三层。 沿一根毛向下，可见毛囊、毛根和周围神经丛；斜行红色束是立毛肌，旁边黄色分叶结构是皮脂腺。右侧卷曲小汗腺另有导管通向表面汗孔，并非借毛干排汗。 再找深处同心层状的环层小体和底部血管丛。黄线表示神经，红蓝线表示血管，都是识别配色；图把多种结构集中并放大，不能按画面比例推算皮肤厚度、感受器大小或每处皮肤的配置。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/03-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "先看右侧括号：最上方表皮覆盖表面，中部真皮含毛囊、腺体、神经和血管，更深处是有黄色脂肪团的皮下组织。皮下组织与皮肤紧密相接，但严格说不属于皮肤本体的第三层。",
+      "沿一根毛向下，可见毛囊、毛根和周围神经丛；斜行红色束是立毛肌，旁边黄色分叶结构是皮脂腺。右侧卷曲小汗腺另有导管通向表面汗孔，并非借毛干排汗。",
+      "再找深处同心层状的环层小体和底部血管丛。黄线表示神经，红蓝线表示血管，都是识别配色；图把多种结构集中并放大，不能按画面比例推算皮肤厚度、感受器大小或每处皮肤的配置。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Epidermis",
+        "zh": "表皮",
+        "note": "右侧最上括号所示无血管上皮层"
+      },
+      {
+        "en": "Dermis",
+        "zh": "真皮",
+        "note": "右侧中部括号含纤维血管神经等"
+      },
+      {
+        "en": "Hypodermis",
+        "zh": "皮下组织",
+        "note": "右侧深部括号含脂肪及疏松组织"
+      },
+      {
+        "en": "Hair shaft",
+        "zh": "毛干",
+        "note": "伸出皮肤表面的角化毛发部分"
+      },
+      {
+        "en": "Hair follicle",
+        "zh": "毛囊",
+        "note": "包围毛根并向皮肤深部延伸"
+      },
+      {
+        "en": "Hair root",
+        "zh": "毛根",
+        "note": "位于皮表以下且嵌于毛囊内"
+      },
+      {
+        "en": "Arrector pili muscle",
+        "zh": "立毛肌",
+        "note": "斜连毛囊与浅层组织的平滑肌"
+      },
+      {
+        "en": "Sebaceous (oil) gland",
+        "zh": "皮脂腺",
+        "note": "毛囊旁分叶状腺体向毛囊分泌"
+      },
+      {
+        "en": "Hair root plexus",
+        "zh": "毛根神经丛",
+        "note": "毛根周围感受毛发活动的神经网"
+      },
+      {
+        "en": "Hair follicle receptor",
+        "zh": "毛囊感受器",
+        "note": "指向毛囊周围的感觉神经末梢"
+      },
+      {
+        "en": "Sensory nerve fiber",
+        "zh": "感觉神经纤维",
+        "note": "传递来自皮肤等部位的感觉信息"
+      },
+      {
+        "en": "Motor nerve fiber",
+        "zh": "运动性神经纤维",
+        "note": "图示通向腺体或平滑肌的调节纤维"
+      },
+      {
+        "en": "Adipose tissue",
+        "zh": "脂肪组织",
+        "note": "深部黄色团块参与缓冲与储能"
+      },
+      {
+        "en": "Pore of sweat gland duct",
+        "zh": "汗腺导管开口（汗孔）",
+        "note": "表皮表面的排汗出口位置"
+      },
+      {
+        "en": "Eccrine sweat gland",
+        "zh": "小汗腺（外泌汗腺）",
+        "note": "右侧卷曲分泌部经导管直达表面"
+      },
+      {
+        "en": "Pacinian corpuscle",
+        "zh": "环层小体（帕西尼小体）",
+        "note": "深部洋葱状结构感受压力振动"
+      },
+      {
+        "en": "Cutaneous vascular plexus",
+        "zh": "皮肤血管丛",
+        "note": "底部红蓝血管再向真皮分支"
+      }
+    ]
   },
   {
     "section": "5-2-accessory-structures-of-the-skin",
@@ -126,12 +713,74 @@
     "chapter": "03",
     "id": "03-02",
     "title_zh": "毛囊及其附属结构",
-    "labels_zh": "hair shaft 毛干；hair follicle 毛囊；sebaceous gland 皮脂腺",
-    "guide_zh": "顺着毛干向下找毛根，再辨认旁侧腺体和立毛肌。图中呈现的是有毛皮肤，并不能代表掌跖厚皮。",
+    "labels_zh": "Hair shaft 毛干；Medulla 毛髓质；Cortex 毛皮质；Cuticle 毛小皮；Sebaceous gland 皮脂腺；Arrector pili muscle 立毛肌；Inner root sheath 内根鞘；Outer root sheath 外根鞘；Hair bulb 毛球；Hair matrix 毛母质；Hair papilla 毛乳头",
+    "guide_zh": "顺着棕色毛干从表面向下，毛囊末端膨大形成毛球。右上括号把毛干拆成髓质、皮质和毛小皮三个同心部分；这些是毛发自身的组成，不能与包围毛根的根鞘混为一层。 在毛根两侧辨认内根鞘与外根鞘，再看毛球底部的毛母质和毛乳头：前者参与产生毛发细胞，后者是伸入毛球的结缔组织结构，图中画有进入其内的血管。 旁侧黄色分叶结构是皮脂腺，斜行红束是立毛肌。本图没有汗腺，不能把皮脂腺当作排汗结构；各层颜色与厚度经过示意化，毛乳头不是毛干最下面的一截，外根鞘也不只局限在毛球。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/03-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "顺着棕色毛干从表面向下，毛囊末端膨大形成毛球。右上括号把毛干拆成髓质、皮质和毛小皮三个同心部分；这些是毛发自身的组成，不能与包围毛根的根鞘混为一层。",
+      "在毛根两侧辨认内根鞘与外根鞘，再看毛球底部的毛母质和毛乳头：前者参与产生毛发细胞，后者是伸入毛球的结缔组织结构，图中画有进入其内的血管。",
+      "旁侧黄色分叶结构是皮脂腺，斜行红束是立毛肌。本图没有汗腺，不能把皮脂腺当作排汗结构；各层颜色与厚度经过示意化，毛乳头不是毛干最下面的一截，外根鞘也不只局限在毛球。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Hair shaft",
+        "zh": "毛干",
+        "note": "表面伸出的毛发并在图中局部剖开"
+      },
+      {
+        "en": "Medulla",
+        "zh": "毛髓质",
+        "note": "毛干中心部分，部分毛发不明显"
+      },
+      {
+        "en": "Cortex",
+        "zh": "毛皮质",
+        "note": "毛干中间主要角化结构区域"
+      },
+      {
+        "en": "Cuticle",
+        "zh": "毛小皮",
+        "note": "毛干最外层薄的角化保护结构"
+      },
+      {
+        "en": "Sebaceous gland",
+        "zh": "皮脂腺",
+        "note": "右侧分叶腺体把皮脂送入毛囊"
+      },
+      {
+        "en": "Arrector pili muscle",
+        "zh": "立毛肌",
+        "note": "左侧斜行红色平滑肌牵连毛囊"
+      },
+      {
+        "en": "Inner root sheath",
+        "zh": "内根鞘",
+        "note": "毛根周围靠内侧的鞘性结构"
+      },
+      {
+        "en": "Outer root sheath",
+        "zh": "外根鞘",
+        "note": "内根鞘外方并与表皮连续的结构"
+      },
+      {
+        "en": "Hair bulb",
+        "zh": "毛球",
+        "note": "毛囊最下端膨大的生长相关区域"
+      },
+      {
+        "en": "Hair matrix",
+        "zh": "毛母质",
+        "note": "毛乳头周围增殖细胞参与毛发生长"
+      },
+      {
+        "en": "Hair papilla",
+        "zh": "毛乳头",
+        "note": "毛球底部结缔组织突起含血管"
+      }
+    ]
   },
   {
     "section": "4-3-connective-tissue-supports-and-protects",
@@ -145,13 +794,70 @@
     "chapter": "04",
     "id": "04-01",
     "title_zh": "疏松结缔组织中的纤维与细胞",
-    "labels_zh": "collagen fiber 胶原纤维；elastic fiber 弹性纤维；fibroblast 成纤维细胞",
-    "guide_zh": "把目光从细胞移到细胞之间：纤维与基质也是组织的重要部分。此图解释组织材料，不是全身筋膜的三维地图。",
+    "labels_zh": "Reticular fibers 网状纤维；Adipocytes 脂肪细胞；Mesenchymal cell 间充质细胞；Elastic fibers 弹性纤维；Collagen fibers 胶原纤维；Fibroblast 成纤维细胞；Macrophage 巨噬细胞；fibrocyte 纤维细胞；mesenchymal 间充质细胞；adipocyte 脂肪细胞",
+    "guide_zh": "左侧是结缔组织构成示意，右侧是染色后的显微照片，二者不是同一视野的逐点复制。先在左图区分粗的胶原纤维、细的弹性纤维与上方网状纤维，再寻找其间的不同细胞。 成纤维细胞参与形成基质，脂肪细胞储存脂滴，巨噬细胞参与防御与清除。图把多种细胞同时放在一个小框中，是为说明组成，不表示真实组织处处按此数量比例分布。 右图箭头分别标出纤维细胞、间充质细胞和脂肪细胞。较空白的圆形区域常与脂肪细胞在制片中的表现有关，不能理解成活体组织内的大空洞；粉红与紫色来自染色，此图也不是全身筋膜的立体地图。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/04-01.jpg",
     "after_section": 1,
-    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "左侧是结缔组织构成示意，右侧是染色后的显微照片，二者不是同一视野的逐点复制。先在左图区分粗的胶原纤维、细的弹性纤维与上方网状纤维，再寻找其间的不同细胞。",
+      "成纤维细胞参与形成基质，脂肪细胞储存脂滴，巨噬细胞参与防御与清除。图把多种细胞同时放在一个小框中，是为说明组成，不表示真实组织处处按此数量比例分布。",
+      "右图箭头分别标出纤维细胞、间充质细胞和脂肪细胞。较空白的圆形区域常与脂肪细胞在制片中的表现有关，不能理解成活体组织内的大空洞；粉红与紫色来自染色，此图也不是全身筋膜的立体地图。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Reticular fibers",
+        "zh": "网状纤维",
+        "note": "左图上方细密分支网提供支持"
+      },
+      {
+        "en": "Adipocytes",
+        "zh": "脂肪细胞",
+        "note": "左图黄色大细胞储存脂滴"
+      },
+      {
+        "en": "Mesenchymal cell",
+        "zh": "间充质细胞",
+        "note": "左图细长突起细胞为组织成分示例"
+      },
+      {
+        "en": "Elastic fibers",
+        "zh": "弹性纤维",
+        "note": "左图较细绿线有助组织伸展回弹"
+      },
+      {
+        "en": "Collagen fibers",
+        "zh": "胶原纤维",
+        "note": "左图粗的浅色纤维参与承受拉力"
+      },
+      {
+        "en": "Fibroblast",
+        "zh": "成纤维细胞",
+        "note": "左图中央较大细胞参与产生基质"
+      },
+      {
+        "en": "Macrophage",
+        "zh": "巨噬细胞",
+        "note": "左图下方细胞参与吞噬与清除"
+      },
+      {
+        "en": "fibrocyte",
+        "zh": "纤维细胞",
+        "note": "右图右上箭头标出较静息细胞"
+      },
+      {
+        "en": "mesenchymal",
+        "zh": "间充质细胞",
+        "note": "右图左下箭头指向间充质细胞示例"
+      },
+      {
+        "en": "adipocyte",
+        "zh": "脂肪细胞",
+        "note": "右图中央箭头指向脂肪细胞截面"
+      }
+    ]
   },
   {
     "section": "4-3-connective-tissue-supports-and-protects",
@@ -165,13 +871,45 @@
     "chapter": "04",
     "id": "04-02",
     "title_zh": "致密结缔组织的纤维方向",
-    "labels_zh": "dense regular 致密规则；dense irregular 致密不规则",
-    "guide_zh": "比较平行排列与多方向交织的胶原纤维，理解组织为何适应不同受力方向。肌腱与真皮都富含胶原，但结构安排不同。",
+    "labels_zh": "(a) Regular dense （a）致密规则结缔组织；(b) Irregular dense （b）致密不规则结缔组织；Collagen fibers 胶原纤维；Fibroblast nuclei 成纤维细胞核；Collagen fiber bundles 胶原纤维束",
+    "guide_zh": "上排（a）为致密规则结缔组织，下排（b）为致密不规则结缔组织；每排左边是简图，右边是显微照片。先只比较纤维走向：上排胶原大体平行，下排胶原束朝多个方向交织。 两排中深色细长小结构是成纤维细胞核，不是更多细小胶原纤维。规则排列适合沿主要方向传递拉力，不规则排列适应较复杂的方向性受力；“不规则”不是没有组织或杂乱失效。 上排简图纵向、照片横向只是取景方向不同，不能据此认定结构相反。照片的粉红来自染色，放大倍数也不同；应比较局部排列关系，而非按画面粗细直接判定两种组织真实纤维尺寸。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/04-02.jpg",
     "after_section": 3,
-    "additional_credit": "Micrographs provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrographs provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "上排（a）为致密规则结缔组织，下排（b）为致密不规则结缔组织；每排左边是简图，右边是显微照片。先只比较纤维走向：上排胶原大体平行，下排胶原束朝多个方向交织。",
+      "两排中深色细长小结构是成纤维细胞核，不是更多细小胶原纤维。规则排列适合沿主要方向传递拉力，不规则排列适应较复杂的方向性受力；“不规则”不是没有组织或杂乱失效。",
+      "上排简图纵向、照片横向只是取景方向不同，不能据此认定结构相反。照片的粉红来自染色，放大倍数也不同；应比较局部排列关系，而非按画面粗细直接判定两种组织真实纤维尺寸。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "(a) Regular dense",
+        "zh": "（a）致密规则结缔组织",
+        "note": "上排纤维大致平行排列的类型"
+      },
+      {
+        "en": "(b) Irregular dense",
+        "zh": "（b）致密不规则结缔组织",
+        "note": "下排纤维束多方向交织的类型"
+      },
+      {
+        "en": "Collagen fibers",
+        "zh": "胶原纤维",
+        "note": "上排指线定位平行走行的纤维"
+      },
+      {
+        "en": "Fibroblast nuclei",
+        "zh": "成纤维细胞核",
+        "note": "两排深色细长细胞核位于纤维间"
+      },
+      {
+        "en": "Collagen fiber bundles",
+        "zh": "胶原纤维束",
+        "note": "下排指线定位多方向的粗纤维束"
+      }
+    ]
   },
   {
     "section": "10-2-skeletal-muscle",
@@ -185,12 +923,64 @@
     "chapter": "05",
     "id": "05-01",
     "title_zh": "一块肌肉内部的包裹层",
-    "labels_zh": "epimysium 肌外膜；perimysium 肌束膜；endomysium 肌内膜",
-    "guide_zh": "沿整块肌肉、肌束、肌纤维三个尺度逐级放大；这些是包裹和连接关系，不能当成三种独立肌肉。",
+    "labels_zh": "Skeletal muscle 骨骼肌；Epimysium 肌外膜；Muscle fascicle 肌束；Perimysium 肌束膜；Endomysium 肌内膜；Muscle fiber 肌纤维；Satellite cell 卫星细胞；Sarcolemma 肌膜；Myofibril 肌原纤维",
+    "guide_zh": "从最上方整块骨骼肌开始，先找包在整体外面的肌外膜，再看被抽出放大的肌束。灰色箭头表示逐级放大，并非肌肉收缩方向；肌束周围的结缔组织称肌束膜。 中间把一个肌束再次放大，显示里面的多条肌纤维，每条外周有肌内膜。肌纤维其实是一条肌细胞；图右侧的卫星细胞贴近肌纤维表面，与肌纤维内的小圆结构并不是同一类成分。 最下方继续放大一条肌纤维，肌膜围住细胞，内部平行排列许多肌原纤维。肌外膜、肌束膜、肌内膜是结缔组织层次，肌膜则是细胞膜；各级放大不同比例，不能把图中抽出的部分看作活体里游离的绳索。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/05-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "从最上方整块骨骼肌开始，先找包在整体外面的肌外膜，再看被抽出放大的肌束。灰色箭头表示逐级放大，并非肌肉收缩方向；肌束周围的结缔组织称肌束膜。",
+      "中间把一个肌束再次放大，显示里面的多条肌纤维，每条外周有肌内膜。肌纤维其实是一条肌细胞；图右侧的卫星细胞贴近肌纤维表面，与肌纤维内的小圆结构并不是同一类成分。",
+      "最下方继续放大一条肌纤维，肌膜围住细胞，内部平行排列许多肌原纤维。肌外膜、肌束膜、肌内膜是结缔组织层次，肌膜则是细胞膜；各级放大不同比例，不能把图中抽出的部分看作活体里游离的绳索。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Skeletal muscle",
+        "zh": "骨骼肌",
+        "note": "上方整块肌肉器官的外观示例"
+      },
+      {
+        "en": "Epimysium",
+        "zh": "肌外膜",
+        "note": "围绕整块肌肉的结缔组织外层"
+      },
+      {
+        "en": "Muscle fascicle",
+        "zh": "肌束",
+        "note": "多条肌纤维组成并被继续放大"
+      },
+      {
+        "en": "Perimysium",
+        "zh": "肌束膜",
+        "note": "包围一束肌纤维的结缔组织层"
+      },
+      {
+        "en": "Endomysium",
+        "zh": "肌内膜",
+        "note": "每条肌纤维外周的薄结缔组织"
+      },
+      {
+        "en": "Muscle fiber",
+        "zh": "肌纤维",
+        "note": "中下图所示一条细长骨骼肌细胞"
+      },
+      {
+        "en": "Satellite cell",
+        "zh": "卫星细胞",
+        "note": "肌纤维表面附近的修复相关细胞"
+      },
+      {
+        "en": "Sarcolemma",
+        "zh": "肌膜",
+        "note": "围住肌纤维细胞的质膜结构"
+      },
+      {
+        "en": "Myofibril",
+        "zh": "肌原纤维",
+        "note": "肌纤维内部平行细丝状收缩结构"
+      }
+    ]
   },
   {
     "section": "10-2-skeletal-muscle",
@@ -204,12 +994,119 @@
     "chapter": "05",
     "id": "05-02",
     "title_zh": "肌节的基本结构",
-    "labels_zh": "sarcomere 肌节；actin 肌动蛋白；myosin 肌球蛋白",
-    "guide_zh": "先找相邻两条Z线，把两线之间视为一个肌节，再比较粗细肌丝的位置。",
+    "labels_zh": "Sarcomere 肌节；Z line Z线；H zone H带；M line M线；Lighter I band 较浅的I带（明带）；Darker A band 较深的A带（暗带）；Portion of a thick filament 一段粗肌丝；Portion of a thin filament 一段细肌丝；Head 头部；Troponin 肌钙蛋白；Actin 肌动蛋白；Tropomyosin 原肌球蛋白；Actin-binding sites 肌动蛋白结合位点；ATP-binding site ATP结合位点；Tail 尾部；Heads 头部；Myosin molecule 肌球蛋白分子；Flexible hinge region 可屈曲铰链区；Binding site for myosin 肌球蛋白结合位点；Actin subunits 肌动蛋白亚基",
+    "guide_zh": "上图以两条Z线之间标出一个肌节。绿色细肌丝从两端向中央伸入，紫色粗肌丝居中；A带跨越粗肌丝全长，I带只有细肌丝，H带是中央不与细肌丝重叠的区域，M线位于中央。 沿灰箭头向下，左边把粗肌丝放大成带许多头部的结构，右边显示细肌丝的肌动蛋白、原肌球蛋白和肌钙蛋白。再看最下方，肌球蛋白分子的头部同时具有与肌动蛋白、ATP结合的位点。 这些位点与头部活动解释了肌丝如何相互作用。颜色只为区分蛋白，图中各层放大倍数不同；Z线不是细肌丝本身，粗肌丝也不是只有一个肌球蛋白分子，不能把分子图与整条肌丝等同。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/05-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "上图以两条Z线之间标出一个肌节。绿色细肌丝从两端向中央伸入，紫色粗肌丝居中；A带跨越粗肌丝全长，I带只有细肌丝，H带是中央不与细肌丝重叠的区域，M线位于中央。",
+      "沿灰箭头向下，左边把粗肌丝放大成带许多头部的结构，右边显示细肌丝的肌动蛋白、原肌球蛋白和肌钙蛋白。再看最下方，肌球蛋白分子的头部同时具有与肌动蛋白、ATP结合的位点。",
+      "这些位点与头部活动解释了肌丝如何相互作用。颜色只为区分蛋白，图中各层放大倍数不同；Z线不是细肌丝本身，粗肌丝也不是只有一个肌球蛋白分子，不能把分子图与整条肌丝等同。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Sarcomere",
+        "zh": "肌节",
+        "note": "相邻两条Z线之间的收缩结构单位"
+      },
+      {
+        "en": "Z line",
+        "zh": "Z线",
+        "note": "肌节边界并锚定细肌丝的位置"
+      },
+      {
+        "en": "H zone",
+        "zh": "H带",
+        "note": "肌节中央仅有粗肌丝的区域"
+      },
+      {
+        "en": "M line",
+        "zh": "M线",
+        "note": "肌节中央联系粗肌丝的结构"
+      },
+      {
+        "en": "Lighter I band",
+        "zh": "较浅的I带（明带）",
+        "note": "仅有细肌丝区域并跨越Z线"
+      },
+      {
+        "en": "Darker A band",
+        "zh": "较深的A带（暗带）",
+        "note": "对应粗肌丝全长含重叠区域"
+      },
+      {
+        "en": "Portion of a thick filament",
+        "zh": "一段粗肌丝",
+        "note": "中左放大结构由许多肌球蛋白组成"
+      },
+      {
+        "en": "Portion of a thin filament",
+        "zh": "一段细肌丝",
+        "note": "中右放大结构含肌动及调节蛋白"
+      },
+      {
+        "en": "Head",
+        "zh": "头部",
+        "note": "粗肌丝上突出的肌球蛋白头部"
+      },
+      {
+        "en": "Troponin",
+        "zh": "肌钙蛋白",
+        "note": "细肌丝上参与钙调节的蛋白复合物"
+      },
+      {
+        "en": "Actin",
+        "zh": "肌动蛋白",
+        "note": "绿色珠状结构组成细肌丝骨架"
+      },
+      {
+        "en": "Tropomyosin",
+        "zh": "原肌球蛋白",
+        "note": "沿肌动蛋白延伸的长链调节蛋白"
+      },
+      {
+        "en": "Actin-binding sites",
+        "zh": "肌动蛋白结合位点",
+        "note": "下左肌球蛋白头与细肌丝作用处"
+      },
+      {
+        "en": "ATP-binding site",
+        "zh": "ATP结合位点",
+        "note": "肌球蛋白头利用ATP相关能量变化"
+      },
+      {
+        "en": "Tail",
+        "zh": "尾部",
+        "note": "肌球蛋白分子较长的杆状部分"
+      },
+      {
+        "en": "Heads",
+        "zh": "头部",
+        "note": "一分子肌球蛋白的两个球状头"
+      },
+      {
+        "en": "Myosin molecule",
+        "zh": "肌球蛋白分子",
+        "note": "下左显示双头和长尾的单个分子"
+      },
+      {
+        "en": "Flexible hinge region",
+        "zh": "可屈曲铰链区",
+        "note": "肌球蛋白头尾连接附近的活动区"
+      },
+      {
+        "en": "Binding site for myosin",
+        "zh": "肌球蛋白结合位点",
+        "note": "下右肌动蛋白上与肌球蛋白相接处"
+      },
+      {
+        "en": "Actin subunits",
+        "zh": "肌动蛋白亚基",
+        "note": "下右一颗颗绿色单位构成肌动蛋白链"
+      }
+    ]
   },
   {
     "section": "10-3-muscle-fiber-contraction-and-relaxation",
@@ -223,12 +1120,44 @@
     "chapter": "05",
     "id": "05-03",
     "title_zh": "收缩时缩短的是肌节",
-    "labels_zh": "sliding filament 肌丝滑行；Z disc Z线",
-    "guide_zh": "对照收缩前后Z线距离与重叠区；肌丝彼此滑行，并非粗细肌丝本身同步变短。",
+    "labels_zh": "Z Z线；M M线；H H带；Lighter I band 较浅的I带（明带）；Darker A band 较深的A带（暗带）",
+    "guide_zh": "上下两图比较同一类肌节在较长和缩短状态下的排列。先固定中央M线，再找到左右Z线：下图两端Z线靠近，黑色大箭头提示两端向内的相对移动，表示肌节整体缩短。 绿色细肌丝由两侧向中央滑入，紫色粗肌丝长度保持不变，两者重叠增加。对比底部括号可见I带缩小，中央H带也变窄，而对应粗肌丝全长的A带宽度基本不变。 下图画出肌球蛋白头与细肌丝接触的关系，强调滑行而非肌丝自身缩短。绿色和紫色是蛋白识别色，黑箭头不是外力必须从外侧推压肌肉，也不表示所有收缩都必然让整块肌肉缩短。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/05-03.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "上下两图比较同一类肌节在较长和缩短状态下的排列。先固定中央M线，再找到左右Z线：下图两端Z线靠近，黑色大箭头提示两端向内的相对移动，表示肌节整体缩短。",
+      "绿色细肌丝由两侧向中央滑入，紫色粗肌丝长度保持不变，两者重叠增加。对比底部括号可见I带缩小，中央H带也变窄，而对应粗肌丝全长的A带宽度基本不变。",
+      "下图画出肌球蛋白头与细肌丝接触的关系，强调滑行而非肌丝自身缩短。绿色和紫色是蛋白识别色，黑箭头不是外力必须从外侧推压肌肉，也不表示所有收缩都必然让整块肌肉缩短。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Z",
+        "zh": "Z线",
+        "note": "左右肌节边界随图示缩短相互靠近"
+      },
+      {
+        "en": "M",
+        "zh": "M线",
+        "note": "中央标记便于比较粗肌丝的位置"
+      },
+      {
+        "en": "H",
+        "zh": "H带",
+        "note": "中央仅有粗肌丝的区域缩小时变窄"
+      },
+      {
+        "en": "Lighter I band",
+        "zh": "较浅的I带（明带）",
+        "note": "两侧仅有细肌丝的区域在下图缩小"
+      },
+      {
+        "en": "Darker A band",
+        "zh": "较深的A带（暗带）",
+        "note": "粗肌丝对应区域在两图宽度基本相同"
+      }
+    ]
   },
   {
     "section": "7-1-divisions-of-the-skeletal-system",
@@ -242,12 +1171,169 @@
     "chapter": "06",
     "id": "06-01",
     "title_zh": "中轴骨与附肢骨",
-    "labels_zh": "axial skeleton 中轴骨；appendicular skeleton 附肢骨",
-    "guide_zh": "先看颅骨、脊柱、胸廓组成的中轴，再沿肩带和骨盆带连接四肢；骨骼不是独立散件的清单。",
+    "labels_zh": "Anterior view 前面观；Posterior view 后面观；Key 图例；Axial skeleton 中轴骨骼；Appendicular skeleton 附肢骨骼；Skull 颅骨；Cranial portion 脑颅部分；Facial portion 面颅部分；Pectoral (shoulder) girdle 肩带；Clavicle 锁骨；Scapula 肩胛骨；Thoracic cage 胸廓；Sternum 胸骨；Ribs 肋骨；Vertebral column 脊柱；Upper limb 上肢；Humerus 肱骨；Ulna 尺骨；Radius 桡骨；Carpals 腕骨；Metacarpals 掌骨；Phalanges 指骨、趾骨；Pelvic girdle (hip bones) 骨盆带（髋骨）；Lower limb 下肢；Femur 股骨；Patella 髌骨；Tibia 胫骨；Fibula 腓骨；Tarsals 跗骨；Metatarsals 跖骨",
+    "guide_zh": "左边是前面观，右边是后面观，先用右下图例分组：米灰色中轴骨骼包括颅骨、脊柱和胸廓，浅绿色附肢骨骼包括肩带、骨盆带及四肢。蓝色关节区域只是辅助显示，不属于第三类骨骼。 沿上肢从锁骨和肩胛骨到肱骨，再到尺桡骨、腕骨、掌骨和指骨；前面观手掌朝前，桡骨在拇指侧。沿下肢从髋骨到股骨，再看髌骨、胫腓骨、跗骨、跖骨和趾骨。 两图共同显示被前方遮住的肩胛骨与脊柱关系，不能把前后图当成两套不同骨架。特别注意骶骨属于中轴骨骼，而两侧髋骨属于骨盆带；分组颜色说明连接归属，不是骨头的自然颜色。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/06-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "左边是前面观，右边是后面观，先用右下图例分组：米灰色中轴骨骼包括颅骨、脊柱和胸廓，浅绿色附肢骨骼包括肩带、骨盆带及四肢。蓝色关节区域只是辅助显示，不属于第三类骨骼。",
+      "沿上肢从锁骨和肩胛骨到肱骨，再到尺桡骨、腕骨、掌骨和指骨；前面观手掌朝前，桡骨在拇指侧。沿下肢从髋骨到股骨，再看髌骨、胫腓骨、跗骨、跖骨和趾骨。",
+      "两图共同显示被前方遮住的肩胛骨与脊柱关系，不能把前后图当成两套不同骨架。特别注意骶骨属于中轴骨骼，而两侧髋骨属于骨盆带；分组颜色说明连接归属，不是骨头的自然颜色。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Anterior view",
+        "zh": "前面观",
+        "note": "左侧骨架从身体正前方观察"
+      },
+      {
+        "en": "Posterior view",
+        "zh": "后面观",
+        "note": "右侧骨架从身体正后方观察"
+      },
+      {
+        "en": "Key",
+        "zh": "图例",
+        "note": "右下方颜色说明骨骼分组归属"
+      },
+      {
+        "en": "Axial skeleton",
+        "zh": "中轴骨骼",
+        "note": "米灰色标示颅骨脊柱及胸廓"
+      },
+      {
+        "en": "Appendicular skeleton",
+        "zh": "附肢骨骼",
+        "note": "浅绿色标示肢带和四肢骨骼"
+      },
+      {
+        "en": "Skull",
+        "zh": "颅骨",
+        "note": "顶部总称脑颅与面颅的骨性结构"
+      },
+      {
+        "en": "Cranial portion",
+        "zh": "脑颅部分",
+        "note": "颅骨上后部围护脑的骨性结构"
+      },
+      {
+        "en": "Facial portion",
+        "zh": "面颅部分",
+        "note": "颅骨前下部构成面部的骨性结构"
+      },
+      {
+        "en": "Pectoral (shoulder) girdle",
+        "zh": "肩带",
+        "note": "锁骨与肩胛骨连接上肢和躯干"
+      },
+      {
+        "en": "Clavicle",
+        "zh": "锁骨",
+        "note": "胸廓上方横行连接胸骨与肩部"
+      },
+      {
+        "en": "Scapula",
+        "zh": "肩胛骨",
+        "note": "胸廓后方扁骨在后面观更清楚"
+      },
+      {
+        "en": "Thoracic cage",
+        "zh": "胸廓",
+        "note": "由肋骨胸骨及胸椎等构成框架"
+      },
+      {
+        "en": "Sternum",
+        "zh": "胸骨",
+        "note": "前胸正中纵向扁骨与肋软骨相连"
+      },
+      {
+        "en": "Ribs",
+        "zh": "肋骨",
+        "note": "胸廓两侧弧形骨性围护结构"
+      },
+      {
+        "en": "Vertebral column",
+        "zh": "脊柱",
+        "note": "躯干中央支撑并形成椎管的骨柱"
+      },
+      {
+        "en": "Upper limb",
+        "zh": "上肢",
+        "note": "肩带之外上臂前臂及手的分组"
+      },
+      {
+        "en": "Humerus",
+        "zh": "肱骨",
+        "note": "上臂内从肩到肘的一根长骨"
+      },
+      {
+        "en": "Ulna",
+        "zh": "尺骨",
+        "note": "前臂小指侧并参与形成肘部结构"
+      },
+      {
+        "en": "Radius",
+        "zh": "桡骨",
+        "note": "前臂拇指侧并参与腕部连接"
+      },
+      {
+        "en": "Carpals",
+        "zh": "腕骨",
+        "note": "手掌近端多块小骨构成腕部"
+      },
+      {
+        "en": "Metacarpals",
+        "zh": "掌骨",
+        "note": "腕骨与指骨之间构成手掌支架"
+      },
+      {
+        "en": "Phalanges",
+        "zh": "指骨、趾骨",
+        "note": "手指与足趾内多节排列的骨骼"
+      },
+      {
+        "en": "Pelvic girdle (hip bones)",
+        "zh": "骨盆带（髋骨）",
+        "note": "两侧髋骨连接下肢与中轴骨骼"
+      },
+      {
+        "en": "Lower limb",
+        "zh": "下肢",
+        "note": "骨盆带之外大腿小腿及足的分组"
+      },
+      {
+        "en": "Femur",
+        "zh": "股骨",
+        "note": "大腿内从髋到膝的一根长骨"
+      },
+      {
+        "en": "Patella",
+        "zh": "髌骨",
+        "note": "膝关节前方肌腱中的骨性结构"
+      },
+      {
+        "en": "Tibia",
+        "zh": "胫骨",
+        "note": "小腿内侧较粗并承担主要重量"
+      },
+      {
+        "en": "Fibula",
+        "zh": "腓骨",
+        "note": "小腿外侧较细长骨并参与踝部稳定"
+      },
+      {
+        "en": "Tarsals",
+        "zh": "跗骨",
+        "note": "足近端构成踝和后足等区域"
+      },
+      {
+        "en": "Metatarsals",
+        "zh": "跖骨",
+        "note": "跗骨与趾骨之间支撑足前部"
+      }
+    ]
   },
   {
     "section": "6-3-bone-structure",
@@ -261,12 +1347,89 @@
     "chapter": "06",
     "id": "06-02",
     "title_zh": "长骨的外形与内部",
-    "labels_zh": "diaphysis 骨干；epiphysis 骨骺；medullary cavity 骨髓腔",
-    "guide_zh": "沿长轴观察骨干与两端，再看皮质骨、松质骨和髓腔；不要把松质骨理解为软骨。",
+    "labels_zh": "Proximal epiphysis 近端骨骺；Metaphysis 干骺端；Diaphysis 骨干；Distal epiphysis 远端骨骺；Articular cartilage 关节软骨；Spongy bone 松质骨；Epiphyseal line 骨骺线；Red bone marrow 红骨髓；Medullary cavity 骨髓腔；Compact bone 密质骨；Endosteum 骨内膜；Yellow bone marrow 黄骨髓；Periosteum 骨膜；Nutrient artery 滋养动脉",
+    "guide_zh": "先沿左侧括号由上向下读：近端骨骺、干骺端、骨干，再到另一端的干骺端与远端骨骺。“近端”表示更靠近肢体与躯干连接处，图把上半部剖开，让外形与内部同时可见。 骨干较厚的密质骨围住骨髓腔，骨端的松质骨呈骨小梁网络，其间可有红骨髓。关节面上的蓝灰色是关节软骨，骨骺线则是生长板骨化后的标志，两者的位置和功能不同。 在骨干下部辨认揭开的骨膜、内面的骨内膜与进入骨内的滋养动脉。黄骨髓被简化成柱状方便认读，并非真实独立圆柱；红黄骨髓分布随年龄及部位改变，不能把示意的颜色范围当作人人一致。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/06-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "先沿左侧括号由上向下读：近端骨骺、干骺端、骨干，再到另一端的干骺端与远端骨骺。“近端”表示更靠近肢体与躯干连接处，图把上半部剖开，让外形与内部同时可见。",
+      "骨干较厚的密质骨围住骨髓腔，骨端的松质骨呈骨小梁网络，其间可有红骨髓。关节面上的蓝灰色是关节软骨，骨骺线则是生长板骨化后的标志，两者的位置和功能不同。",
+      "在骨干下部辨认揭开的骨膜、内面的骨内膜与进入骨内的滋养动脉。黄骨髓被简化成柱状方便认读，并非真实独立圆柱；红黄骨髓分布随年龄及部位改变，不能把示意的颜色范围当作人人一致。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Proximal epiphysis",
+        "zh": "近端骨骺",
+        "note": "长骨靠近肢体根部的膨大骨端"
+      },
+      {
+        "en": "Metaphysis",
+        "zh": "干骺端",
+        "note": "骨干与骨骺之间逐渐过渡的区域"
+      },
+      {
+        "en": "Diaphysis",
+        "zh": "骨干",
+        "note": "长骨中间较长的管状主体部分"
+      },
+      {
+        "en": "Distal epiphysis",
+        "zh": "远端骨骺",
+        "note": "长骨远离肢体根部的另一骨端"
+      },
+      {
+        "en": "Articular cartilage",
+        "zh": "关节软骨",
+        "note": "骨端关节表面的蓝灰色覆盖结构"
+      },
+      {
+        "en": "Spongy bone",
+        "zh": "松质骨",
+        "note": "骨端内部骨小梁组成有隙网络"
+      },
+      {
+        "en": "Epiphyseal line",
+        "zh": "骨骺线",
+        "note": "生长板骨化后留在干骺交界的标志"
+      },
+      {
+        "en": "Red bone marrow",
+        "zh": "红骨髓",
+        "note": "骨小梁间的造血相关骨髓示例"
+      },
+      {
+        "en": "Medullary cavity",
+        "zh": "骨髓腔",
+        "note": "骨干密质骨围成的内部空间"
+      },
+      {
+        "en": "Compact bone",
+        "zh": "密质骨",
+        "note": "骨干外周较致密坚实的骨皮质"
+      },
+      {
+        "en": "Endosteum",
+        "zh": "骨内膜",
+        "note": "衬在髓腔等内部骨表面的薄层"
+      },
+      {
+        "en": "Yellow bone marrow",
+        "zh": "黄骨髓",
+        "note": "图中含较多脂肪的黄色骨髓示例"
+      },
+      {
+        "en": "Periosteum",
+        "zh": "骨膜",
+        "note": "图中揭开显示骨外表面的包膜"
+      },
+      {
+        "en": "Nutrient artery",
+        "zh": "滋养动脉",
+        "note": "进入骨内部并提供血供的动脉"
+      }
+    ]
   },
   {
     "section": "6-3-bone-structure",
@@ -280,13 +1443,120 @@
     "chapter": "06",
     "id": "06-03",
     "title_zh": "皮质骨的骨单位",
-    "labels_zh": "osteon 骨单位；central canal 中央管；lamellae 骨板",
-    "guide_zh": "沿中央管看血管通道，再看围绕它排列的骨板。骨组织有细胞、血供和更新活动。",
+    "labels_zh": "(a) （a）骨组织立体示意；(b) （b）骨单位显微照片；Compact bone 密质骨；Spongy bone 松质骨；Medullary cavity 骨髓腔；Periosteum 骨膜；Outer fibrous layer 外纤维层；Inner osteogenic layer 内成骨层；Circumferential lamellae 环骨板；Concentric lamellae 同心骨板；Osteon 骨单位；Interstitial lamellae 间骨板；Perforating canal 穿通管；Central canal 中央管；Periosteal artery 骨膜动脉；Periosteal vein 骨膜静脉；Blood vessels 血管；Lymphatic vessel 淋巴管；Nerve 神经；Trabeculae 骨小梁",
+    "guide_zh": "左上小长骨定位本次放大的密质骨区域，灰箭头导向上方（a）立体示意。先找黑圈圈出的骨单位：中央管内通过血管等结构，周围同心骨板层层排列；骨单位不是只有中间一根血管。 再从左向右看骨膜、外周环骨板、骨单位与间骨板，直至右侧松质骨的骨小梁。横向穿通管连接不同通道，和纵向中央管共同解释坚硬骨组织为何仍能获得血供与神经联系。 下方（b）是真实显微照片，可见较大的中央管截面及周围骨板、许多细小暗点，不能把暗点都当作血管。立体图把通道和颜色夸张以便认读，显微照片也不与上图一一对应，二者需按结构关系比较。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/06-03.jpg",
     "after_section": 3,
-    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "左上小长骨定位本次放大的密质骨区域，灰箭头导向上方（a）立体示意。先找黑圈圈出的骨单位：中央管内通过血管等结构，周围同心骨板层层排列；骨单位不是只有中间一根血管。",
+      "再从左向右看骨膜、外周环骨板、骨单位与间骨板，直至右侧松质骨的骨小梁。横向穿通管连接不同通道，和纵向中央管共同解释坚硬骨组织为何仍能获得血供与神经联系。",
+      "下方（b）是真实显微照片，可见较大的中央管截面及周围骨板、许多细小暗点，不能把暗点都当作血管。立体图把通道和颜色夸张以便认读，显微照片也不与上图一一对应，二者需按结构关系比较。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "(a)",
+        "zh": "（a）骨组织立体示意",
+        "note": "上方大图解释密质骨内通道关系"
+      },
+      {
+        "en": "(b)",
+        "zh": "（b）骨单位显微照片",
+        "note": "下方照片呈现骨单位的切面外观"
+      },
+      {
+        "en": "Compact bone",
+        "zh": "密质骨",
+        "note": "主图大部分坚实骨组织与左上定位"
+      },
+      {
+        "en": "Spongy bone",
+        "zh": "松质骨",
+        "note": "主图右侧及小长骨两端的网架区"
+      },
+      {
+        "en": "Medullary cavity",
+        "zh": "骨髓腔",
+        "note": "松质骨邻近骨内空间在图右标出"
+      },
+      {
+        "en": "Periosteum",
+        "zh": "骨膜",
+        "note": "主图左侧揭开并显示两层结构"
+      },
+      {
+        "en": "Outer fibrous layer",
+        "zh": "外纤维层",
+        "note": "骨膜外层纤维性支持与连接部分"
+      },
+      {
+        "en": "Inner osteogenic layer",
+        "zh": "内成骨层",
+        "note": "骨膜内侧含成骨相关细胞的部分"
+      },
+      {
+        "en": "Circumferential lamellae",
+        "zh": "环骨板",
+        "note": "沿骨表面周向排列的较外侧骨板"
+      },
+      {
+        "en": "Concentric lamellae",
+        "zh": "同心骨板",
+        "note": "围绕中央管层层排列的骨基质薄层"
+      },
+      {
+        "en": "Osteon",
+        "zh": "骨单位",
+        "note": "黑圈圈出中央管及周围同心骨板"
+      },
+      {
+        "en": "Interstitial lamellae",
+        "zh": "间骨板",
+        "note": "填在相邻骨单位之间的不完整骨板"
+      },
+      {
+        "en": "Perforating canal",
+        "zh": "穿通管",
+        "note": "横向或斜向联系骨内通道的结构"
+      },
+      {
+        "en": "Central canal",
+        "zh": "中央管",
+        "note": "骨单位中央纵行的血管神经通道"
+      },
+      {
+        "en": "Periosteal artery",
+        "zh": "骨膜动脉",
+        "note": "左侧骨膜附近红色血管供血示例"
+      },
+      {
+        "en": "Periosteal vein",
+        "zh": "骨膜静脉",
+        "note": "左侧骨膜附近蓝色血管回流示例"
+      },
+      {
+        "en": "Blood vessels",
+        "zh": "血管",
+        "note": "主图红蓝管道示动静脉等结构"
+      },
+      {
+        "en": "Lymphatic vessel",
+        "zh": "淋巴管",
+        "note": "主图绿色细管示组织液回流通道"
+      },
+      {
+        "en": "Nerve",
+        "zh": "神经",
+        "note": "主图黄色细索与血管伴行的结构"
+      },
+      {
+        "en": "Trabeculae",
+        "zh": "骨小梁",
+        "note": "右侧松质骨中交叉连接的骨性支架"
+      }
+    ]
   },
   {
     "section": "9-4-synovial-joints",
@@ -300,12 +1570,49 @@
     "chapter": "07",
     "id": "07-01",
     "title_zh": "滑膜关节的包裹与间隙",
-    "labels_zh": "articular cartilage 关节软骨；joint cavity 关节腔；joint capsule 关节囊",
-    "guide_zh": "从骨端表面向外找软骨、关节腔和关节囊；韧带加强关节，但不等于连接肌肉的肌腱。",
+    "labels_zh": "Bone 骨；Articular cartilage 关节软骨；Articular capsule 关节囊；Synovial membrane (inner) 滑膜（内层）；Fibrous membrane (outer) 纤维膜（外层）；Joint cavity containing synovial fluid 含滑液的关节腔",
+    "guide_zh": "这是一处滑膜关节的剖面示意。先看上下两块骨：蜂窝状部分表示内部骨组织，蓝灰色薄层只覆盖相对的骨端，代表关节软骨，不是把两骨粘在一起的整块软骨。 再沿右侧引线向外看，关节囊由外层纤维膜与内层滑膜共同构成。红色滑膜衬在囊的内面，抵达软骨边缘；它没有再覆盖整个关节软骨表面。 两骨端之间浅黄色区域为含滑液的关节腔，滑液参与润滑和软骨营养。图把间隙拉开以便辨认，不表示骨端能在大袋子内任意移动；周围肌肉和韧带在这幅简图中被省略。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/07-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "这是一处滑膜关节的剖面示意。先看上下两块骨：蜂窝状部分表示内部骨组织，蓝灰色薄层只覆盖相对的骨端，代表关节软骨，不是把两骨粘在一起的整块软骨。",
+      "再沿右侧引线向外看，关节囊由外层纤维膜与内层滑膜共同构成。红色滑膜衬在囊的内面，抵达软骨边缘；它没有再覆盖整个关节软骨表面。",
+      "两骨端之间浅黄色区域为含滑液的关节腔，滑液参与润滑和软骨营养。图把间隙拉开以便辨认，不表示骨端能在大袋子内任意移动；周围肌肉和韧带在这幅简图中被省略。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Bone",
+        "zh": "骨",
+        "note": "上下两端骨组织构成关节的硬性支架"
+      },
+      {
+        "en": "Articular cartilage",
+        "zh": "关节软骨",
+        "note": "覆盖相对骨端表面以利承载和滑动"
+      },
+      {
+        "en": "Articular capsule",
+        "zh": "关节囊",
+        "note": "包绕关节外周并围定内部关节腔"
+      },
+      {
+        "en": "Synovial membrane (inner)",
+        "zh": "滑膜（内层）",
+        "note": "衬在囊内面参与产生润滑所需滑液"
+      },
+      {
+        "en": "Fibrous membrane (outer)",
+        "zh": "纤维膜（外层）",
+        "note": "构成囊外层并加强关节连接稳定性"
+      },
+      {
+        "en": "Joint cavity containing synovial fluid",
+        "zh": "含滑液的关节腔",
+        "note": "位于相对软骨之间并与囊内间隙相连"
+      }
+    ]
   },
   {
     "section": "9-4-synovial-joints",
@@ -319,12 +1626,49 @@
     "chapter": "07",
     "id": "07-02",
     "title_zh": "关节形状与活动方式",
-    "labels_zh": "hinge 铰链；pivot 车轴；ball-and-socket 球窝",
-    "guide_zh": "比较接触面的形状，再看运动轴向。人体关节并非理想机械零件，周围软组织同样限制活动。",
+    "labels_zh": "(a) Pivot joint (between C1 and C2 vertebrae) 车轴关节（寰枢椎之间）；(b) Hinge joint (elbow) 铰链关节（肘）；(c) Saddle joint (between trapezium carpal bone and 1st metacarpal bone) 鞍状关节（大多角骨与第一掌骨间）；(d) Plane joint (between tarsal bones) 平面关节（跗骨之间）；(e) Condyloid joint (between radius and carpal bones of wrist) 椭圆关节（桡骨与腕骨间）；(f) Ball-and-socket joint (hip joint) 球窝关节（髋关节）",
+    "guide_zh": "从中央骨架的黑框出发，沿粗黑箭头找到对应的放大模型；粗箭头只连接示例位置，模型旁灰色弧箭头才表示允许的运动。蓝色接触面是为了突出形状，模型不是骨端的真实外观。 左上(a)车轴关节示意绕轴转动，C1、C2指第一、第二颈椎；左中(b)铰链关节以肘为例，主要屈伸；左下(c)鞍状关节位于拇指根部，两个方向的曲面互相嵌合。 右下(d)平面关节示意小幅滑动，右中(e)椭圆关节以桡腕连接示例，右上(f)髋的球窝关节可向多方向转动。真实活动还受韧带、关节囊和肌肉约束，不能只根据模型箭头估计角度。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/07-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "从中央骨架的黑框出发，沿粗黑箭头找到对应的放大模型；粗箭头只连接示例位置，模型旁灰色弧箭头才表示允许的运动。蓝色接触面是为了突出形状，模型不是骨端的真实外观。",
+      "左上(a)车轴关节示意绕轴转动，C1、C2指第一、第二颈椎；左中(b)铰链关节以肘为例，主要屈伸；左下(c)鞍状关节位于拇指根部，两个方向的曲面互相嵌合。",
+      "右下(d)平面关节示意小幅滑动，右中(e)椭圆关节以桡腕连接示例，右上(f)髋的球窝关节可向多方向转动。真实活动还受韧带、关节囊和肌肉约束，不能只根据模型箭头估计角度。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "(a) Pivot joint (between C1 and C2 vertebrae)",
+        "zh": "车轴关节（寰枢椎之间）",
+        "note": "左上示绕轴旋转并以第一二颈椎举例"
+      },
+      {
+        "en": "(b) Hinge joint (elbow)",
+        "zh": "铰链关节（肘）",
+        "note": "左中示主要沿一个方向完成屈伸活动"
+      },
+      {
+        "en": "(c) Saddle joint (between trapezium carpal bone and 1st metacarpal bone)",
+        "zh": "鞍状关节（大多角骨与第一掌骨间）",
+        "note": "左下示拇指腕掌关节相互嵌合的曲面"
+      },
+      {
+        "en": "(d) Plane joint (between tarsal bones)",
+        "zh": "平面关节（跗骨之间）",
+        "note": "右下平面箭头示接触面的有限滑移"
+      },
+      {
+        "en": "(e) Condyloid joint (between radius and carpal bones of wrist)",
+        "zh": "椭圆关节（桡骨与腕骨间）",
+        "note": "右中示桡腕关节可沿两个主要方向活动"
+      },
+      {
+        "en": "(f) Ball-and-socket joint (hip joint)",
+        "zh": "球窝关节（髋关节）",
+        "note": "右上球头与窝相接并容许多方向转动"
+      }
+    ]
   },
   {
     "section": "7-2-the-skull",
@@ -338,12 +1682,139 @@
     "chapter": "08",
     "id": "08-01",
     "title_zh": "头颅矢状面：骨壳与腔隙",
-    "labels_zh": "cranial cavity 颅腔；nasal cavity 鼻腔；hard palate 硬腭",
-    "guide_zh": "从颅腔向前下方看鼻腔与口腔，辨认硬腭的分隔作用；面部不是贴在一整块实心骨头上的软组织。",
+    "labels_zh": "Parietal bone 顶骨；Temporal bone 颞骨；Internal acoustic meatus 内耳道；Hypoglossal canal 舌下神经管；Occipital bone 枕骨；Styloid process 茎突；Medial and lateral pterygoid plates 翼突内侧板与外侧板；Mandibular foramen 下颌孔；Lingula 下颌小舌；Sella turcica: Hypophyseal fossa 蝶鞍：垂体窝；Crista galli 鸡冠；Frontal sinus 额窦；Cribriform plate 筛板；Perpendicular plate 筛骨垂直板；Nasal bone 鼻骨；Sphenoid bone 蝶骨；Sphenoid sinus 蝶窦；Inferior nasal concha 下鼻甲；Vomer 犁骨；Maxilla 上颌骨；Palatine bone 腭骨；Mylohyoid line 下颌舌骨肌线；Mandible 下颌骨；Hyoid bone 舌骨",
+    "guide_zh": "这是沿矢状方向打开头颅后看到的骨性内面，面部朝画面右侧。先用顶骨、额部鼻旁窦与后方枕骨定位：大片颅腔区域原本容纳脑，本图已经去除脑和大部分软组织。 沿鼻中隔向下看，筛骨垂直板与犁骨构成其骨性主体，鼻骨位于前上方。再向下找上颌骨和腭骨，它们形成硬腭的骨性支撑，把鼻腔与口腔前部分隔。 颅底的蝶鞍垂体窝、筛板及后方骨孔提示神经血管的通路，不能当作装饰性凹陷。下颌骨内面的下颌孔与下颌舌骨肌线属于另一组参照；舌骨位于其下方，并不直接与下颌形成关节。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/08-01.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "这是沿矢状方向打开头颅后看到的骨性内面，面部朝画面右侧。先用顶骨、额部鼻旁窦与后方枕骨定位：大片颅腔区域原本容纳脑，本图已经去除脑和大部分软组织。",
+      "沿鼻中隔向下看，筛骨垂直板与犁骨构成其骨性主体，鼻骨位于前上方。再向下找上颌骨和腭骨，它们形成硬腭的骨性支撑，把鼻腔与口腔前部分隔。",
+      "颅底的蝶鞍垂体窝、筛板及后方骨孔提示神经血管的通路，不能当作装饰性凹陷。下颌骨内面的下颌孔与下颌舌骨肌线属于另一组参照；舌骨位于其下方，并不直接与下颌形成关节。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Parietal bone",
+        "zh": "顶骨",
+        "note": "位于颅顶及上外侧构成脑颅骨壳"
+      },
+      {
+        "en": "Temporal bone",
+        "zh": "颞骨",
+        "note": "位于颅底外侧并容纳耳部深层结构"
+      },
+      {
+        "en": "Internal acoustic meatus",
+        "zh": "内耳道",
+        "note": "颞骨内面入口通向相关神经行经的骨道"
+      },
+      {
+        "en": "Hypoglossal canal",
+        "zh": "舌下神经管",
+        "note": "位于枕骨内供舌下神经穿行出颅"
+      },
+      {
+        "en": "Occipital bone",
+        "zh": "枕骨",
+        "note": "位于颅腔后下方围护后颅窝区域"
+      },
+      {
+        "en": "Styloid process",
+        "zh": "茎突",
+        "note": "颞骨下伸的细突为肌与韧带附着处"
+      },
+      {
+        "en": "Medial and lateral pterygoid plates",
+        "zh": "翼突内侧板与外侧板",
+        "note": "蝶骨向下的骨板参与翼肌附着和定位"
+      },
+      {
+        "en": "Mandibular foramen",
+        "zh": "下颌孔",
+        "note": "下颌支内面的孔通向下颌管内部"
+      },
+      {
+        "en": "Lingula",
+        "zh": "下颌小舌",
+        "note": "位于下颌孔前缘的细小骨性突出"
+      },
+      {
+        "en": "Sella turcica: Hypophyseal fossa",
+        "zh": "蝶鞍：垂体窝",
+        "note": "蝶骨上方凹陷是垂体所在骨性位置"
+      },
+      {
+        "en": "Crista galli",
+        "zh": "鸡冠",
+        "note": "筛骨向颅腔突起处供硬脑膜附着"
+      },
+      {
+        "en": "Frontal sinus",
+        "zh": "额窦",
+        "note": "位于额骨内部属于与鼻腔相关的鼻旁窦"
+      },
+      {
+        "en": "Cribriform plate",
+        "zh": "筛板",
+        "note": "位于鼻腔顶的骨板有嗅神经通过小孔"
+      },
+      {
+        "en": "Perpendicular plate",
+        "zh": "筛骨垂直板",
+        "note": "构成骨性鼻中隔的上方主要部分"
+      },
+      {
+        "en": "Nasal bone",
+        "zh": "鼻骨",
+        "note": "鼻根鼻梁处的小骨参与外鼻骨性支撑"
+      },
+      {
+        "en": "Sphenoid bone",
+        "zh": "蝶骨",
+        "note": "颅底中央复杂骨连接多块周围颅骨"
+      },
+      {
+        "en": "Sphenoid sinus",
+        "zh": "蝶窦",
+        "note": "蝶骨内部含气腔隙属于鼻旁窦之一"
+      },
+      {
+        "en": "Inferior nasal concha",
+        "zh": "下鼻甲",
+        "note": "位于鼻腔外侧壁向腔内伸出的骨片"
+      },
+      {
+        "en": "Vomer",
+        "zh": "犁骨",
+        "note": "构成骨性鼻中隔的后下方部分"
+      },
+      {
+        "en": "Maxilla",
+        "zh": "上颌骨",
+        "note": "承托上牙并参与鼻腔底和硬腭构成"
+      },
+      {
+        "en": "Palatine bone",
+        "zh": "腭骨",
+        "note": "参与构成硬腭后部的骨性隔板"
+      },
+      {
+        "en": "Mylohyoid line",
+        "zh": "下颌舌骨肌线",
+        "note": "下颌骨内面斜嵴为同名肌附着处"
+      },
+      {
+        "en": "Mandible",
+        "zh": "下颌骨",
+        "note": "承托下牙并通过关节完成咀嚼运动"
+      },
+      {
+        "en": "Hyoid bone",
+        "zh": "舌骨",
+        "note": "位于下颌下方由肌肉韧带悬系支持"
+      }
+    ]
   },
   {
     "section": "11-3-axial-muscles-of-the-head-neck-and-back",
@@ -357,12 +1828,64 @@
     "chapter": "08",
     "id": "08-02",
     "title_zh": "表情肌与面部软组织",
-    "labels_zh": "orbicularis oculi 眼轮匝肌；orbicularis oris 口轮匝肌",
-    "guide_zh": "比较眼口周围环形肌与向不同方向牵拉的肌肉；表情肌常止于皮肤，与跨关节牵动骨的典型四肢肌不同。",
+    "labels_zh": "Epicranial aponeurosis 帽状腱膜；Occipitofrontalis (frontal belly) 枕额肌（额腹）；Corrugator supercilii 皱眉肌；Orbicularis oculi 眼轮匝肌；Occipitofrontalis (occipital belly) 枕额肌（枕腹）；Orbicularis oris 口轮匝肌；Buccinator 颊肌；Facial muscles (anterior view) 面部肌前面观；Facial muscles (lateral view) 面部肌侧面观",
+    "guide_zh": "左图是面部前面观，右图是同类结构的侧面观，不能把画面左右当成人体左右。先找眼裂和口裂周围的环形肌：眼轮匝肌参与闭眼，口轮匝肌参与闭唇与改变唇形。 额部的枕额肌额腹与后枕部的枕腹不是在头顶长成一整块厚肌肉，两者由浅色帽状腱膜连接。右侧面图使这条跨过颅顶的腱膜及前后肌腹关系更加清楚。 皱眉肌位于眉部附近，颊肌构成面颊较深的肌性部分，帮助压缩面颊。图中许多未逐一命名的细肌束共同牵拉皮肤；一副表情由多肌协作，不能把整幅图解释成单块肌肉对应一种情绪。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/08-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "左图是面部前面观，右图是同类结构的侧面观，不能把画面左右当成人体左右。先找眼裂和口裂周围的环形肌：眼轮匝肌参与闭眼，口轮匝肌参与闭唇与改变唇形。",
+      "额部的枕额肌额腹与后枕部的枕腹不是在头顶长成一整块厚肌肉，两者由浅色帽状腱膜连接。右侧面图使这条跨过颅顶的腱膜及前后肌腹关系更加清楚。",
+      "皱眉肌位于眉部附近，颊肌构成面颊较深的肌性部分，帮助压缩面颊。图中许多未逐一命名的细肌束共同牵拉皮肤；一副表情由多肌协作，不能把整幅图解释成单块肌肉对应一种情绪。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Epicranial aponeurosis",
+        "zh": "帽状腱膜",
+        "note": "跨过颅顶连接枕额肌前后两个肌腹"
+      },
+      {
+        "en": "Occipitofrontalis (frontal belly)",
+        "zh": "枕额肌（额腹）",
+        "note": "位于额部参与抬眉并牵动前额皮肤"
+      },
+      {
+        "en": "Corrugator supercilii",
+        "zh": "皱眉肌",
+        "note": "眉内侧附近的小肌参与向内牵拉眉部"
+      },
+      {
+        "en": "Orbicularis oculi",
+        "zh": "眼轮匝肌",
+        "note": "围绕眼裂分布并参与闭合眼睑动作"
+      },
+      {
+        "en": "Occipitofrontalis (occipital belly)",
+        "zh": "枕额肌（枕腹）",
+        "note": "位于头后部并经帽状腱膜联系额腹"
+      },
+      {
+        "en": "Orbicularis oris",
+        "zh": "口轮匝肌",
+        "note": "环绕口裂参与闭唇和改变嘴唇形状"
+      },
+      {
+        "en": "Buccinator",
+        "zh": "颊肌",
+        "note": "位于面颊深处参与压缩颊部并辅助进食"
+      },
+      {
+        "en": "Facial muscles (anterior view)",
+        "zh": "面部肌前面观",
+        "note": "左图从面前观察肌肉围绕眼口的排列"
+      },
+      {
+        "en": "Facial muscles (lateral view)",
+        "zh": "面部肌侧面观",
+        "note": "右图显示颅顶腱膜与颊部的前后关系"
+      }
+    ]
   },
   {
     "section": "11-3-axial-muscles-of-the-head-neck-and-back",
@@ -376,12 +1899,54 @@
     "chapter": "08",
     "id": "08-03",
     "title_zh": "咀嚼肌如何移动下颌",
-    "labels_zh": "temporalis 颞肌；masseter 咬肌；pterygoid 翼肌",
-    "guide_zh": "顺着颞肌与咬肌寻找下颌骨附着位置，再注意深部翼肌。不要将所有面部运动都归给表情肌。",
+    "labels_zh": "Temporalis 颞肌；Masseter 咬肌；Area of superficial muscle dissection 表浅肌解剖去除区域；Lateral pterygoid 翼外肌；Medial pterygoid 翼内肌；Chewing muscles (superficial) 咀嚼肌（浅层）；Chewing muscles (deep) 咀嚼肌（深层）",
+    "guide_zh": "两幅都从头侧方观察，左边保留较浅层结构，右边把黑框区域中的表浅肌和部分骨性遮挡去除，以显示下颌内侧的深部肌肉；黑框表示观察位置，不是另一块独立器官。 左图扇形颞肌从颞部向下汇聚，肌腱经过颧弓深方到达下颌；咬肌在下颌支外侧形成较厚肌腹。两者主要帮助抬高下颌，而非像表情肌那样主要牵动面部皮肤。 右图上方较横行的是翼外肌，下方偏纵行的是翼内肌。它们与浅层肌共同完成下颌前移、侧向运动和咀嚼协调。图上没有动作箭头，不应仅凭肌纤维方向推断每种收缩的完整运动。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/08-03.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "两幅都从头侧方观察，左边保留较浅层结构，右边把黑框区域中的表浅肌和部分骨性遮挡去除，以显示下颌内侧的深部肌肉；黑框表示观察位置，不是另一块独立器官。",
+      "左图扇形颞肌从颞部向下汇聚，肌腱经过颧弓深方到达下颌；咬肌在下颌支外侧形成较厚肌腹。两者主要帮助抬高下颌，而非像表情肌那样主要牵动面部皮肤。",
+      "右图上方较横行的是翼外肌，下方偏纵行的是翼内肌。它们与浅层肌共同完成下颌前移、侧向运动和咀嚼协调。图上没有动作箭头，不应仅凭肌纤维方向推断每种收缩的完整运动。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Temporalis",
+        "zh": "颞肌",
+        "note": "侧头部扇形肌参与抬高与后收下颌"
+      },
+      {
+        "en": "Masseter",
+        "zh": "咬肌",
+        "note": "覆盖下颌支外侧并主要参与闭口咬合"
+      },
+      {
+        "en": "Area of superficial muscle dissection",
+        "zh": "表浅肌解剖去除区域",
+        "note": "两幅黑框对应同一处由浅入深的观察区"
+      },
+      {
+        "en": "Lateral pterygoid",
+        "zh": "翼外肌",
+        "note": "位于深部偏上方参与下颌前移与协调"
+      },
+      {
+        "en": "Medial pterygoid",
+        "zh": "翼内肌",
+        "note": "位于下颌支内侧参与抬颌和咀嚼协调"
+      },
+      {
+        "en": "Chewing muscles (superficial)",
+        "zh": "咀嚼肌（浅层）",
+        "note": "左图保留浅层咬肌并显示颞肌外观"
+      },
+      {
+        "en": "Chewing muscles (deep)",
+        "zh": "咀嚼肌（深层）",
+        "note": "右图去除遮挡以显露内外两块翼肌"
+      }
+    ]
   },
   {
     "section": "7-3-the-vertebral-column",
@@ -395,12 +1960,54 @@
     "chapter": "09",
     "id": "09-01",
     "title_zh": "脊柱的分区与生理曲度",
-    "labels_zh": "cervical 颈段；thoracic 胸段；lumbar 腰段；sacrum 骶骨",
-    "guide_zh": "先从侧面看曲线，再从上向下辨认分区。侧面正常曲度不同于冠状面上的侧弯。",
+    "labels_zh": "7 Cervical vertebrae (C1–C7) form cervical curve 七块颈椎构成颈曲；12 Thoracic vertbrae (T1–T12) form thoracic curve 十二块胸椎构成胸曲；5 Lumbar vertebrae (L1–L5) form lumbar curve 五块腰椎构成腰曲；Intervertebral disc 椎间盘；Sacrum 骶骨；Coccyx 尾骨；Fused vertebrae of sacrum and coccyx form sacrococcygeal curve 融合的骶尾椎形成骶尾曲",
+    "guide_zh": "左图显示脊柱的正面排列，右图是侧面，右侧人物面朝画面右方。先按括线从上到下找颈、胸、腰三段；C、T、L分别是颈椎、胸椎和腰椎的英文编号前缀。 颈椎七块、胸椎十二块、腰椎五块，编号在每一段重新开始。浅色横带表示椎间盘，骶骨和尾骨位于腰段以下；图中骶尾区由融合骨段构成，不是又一串同样活动的腰椎。 再看右图曲度：颈腰段向前凸、胸骶段向后凸，是侧面正常空间安排。左图用于理解排列与分区，右图用于看前后弯曲，不能把侧面曲线误认作从正面观察到的脊柱侧弯。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/09-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "左图显示脊柱的正面排列，右图是侧面，右侧人物面朝画面右方。先按括线从上到下找颈、胸、腰三段；C、T、L分别是颈椎、胸椎和腰椎的英文编号前缀。",
+      "颈椎七块、胸椎十二块、腰椎五块，编号在每一段重新开始。浅色横带表示椎间盘，骶骨和尾骨位于腰段以下；图中骶尾区由融合骨段构成，不是又一串同样活动的腰椎。",
+      "再看右图曲度：颈腰段向前凸、胸骶段向后凸，是侧面正常空间安排。左图用于理解排列与分区，右图用于看前后弯曲，不能把侧面曲线误认作从正面观察到的脊柱侧弯。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "7 Cervical vertebrae (C1–C7) form cervical curve",
+        "zh": "七块颈椎构成颈曲",
+        "note": "上段编号从第一至第七并形成向前曲度"
+      },
+      {
+        "en": "12 Thoracic vertbrae (T1–T12) form thoracic curve",
+        "zh": "十二块胸椎构成胸曲",
+        "note": "中段与肋骨相联系并形成向后曲度"
+      },
+      {
+        "en": "5 Lumbar vertebrae (L1–L5) form lumbar curve",
+        "zh": "五块腰椎构成腰曲",
+        "note": "下腰段承担负荷并形成向前的曲度"
+      },
+      {
+        "en": "Intervertebral disc",
+        "zh": "椎间盘",
+        "note": "图中相邻椎体之间浅色带参与缓冲承载"
+      },
+      {
+        "en": "Sacrum",
+        "zh": "骶骨",
+        "note": "位于腰椎下方由通常五块骶椎融合形成"
+      },
+      {
+        "en": "Coccyx",
+        "zh": "尾骨",
+        "note": "位于骶骨以下由数量有变异的尾椎构成"
+      },
+      {
+        "en": "Fused vertebrae of sacrum and coccyx form sacrococcygeal curve",
+        "zh": "融合的骶尾椎形成骶尾曲",
+        "note": "最下段的向后曲线与颈腰段方向不同"
+      }
+    ]
   },
   {
     "section": "7-3-the-vertebral-column",
@@ -414,12 +2021,49 @@
     "chapter": "09",
     "id": "09-02",
     "title_zh": "椎间盘、椎体与神经通道",
-    "labels_zh": "intervertebral disc 椎间盘；annulus fibrosus 纤维环；nucleus pulposus 髓核",
-    "guide_zh": "把椎体间承重区与其后神经通道区区分开；椎间盘位于相邻椎体之间，并不填满椎管。",
+    "labels_zh": "Vertebral body 椎体；Intervertebral foramen 椎间孔；Anulus fibrosus 纤维环；Nucleus pulposus 髓核；Lateral view 侧面观；Superior view 上面观",
+    "guide_zh": "左图为侧面观，椎体在画面左方，棘突在右后方；两块椎体之间的蓝色结构是椎间盘。先辨认承重的椎体，再看其后方椎弓附近的开口，避免把骨间所有空白都称为椎间盘。 侧面引线指向椎间孔，它位于相邻椎骨之间，是脊神经出入椎管的侧向通道；它并不等于正中纵行椎管的横切面，椎间盘也没有填满神经通道。 右图改为从上方看，在椎体表面显露椎间盘内部：外周一圈圈纤维环围住中央髓核。两者共同承载并允许有限变形，中央蓝色不表示一个能够自由滚动或整体滑出的硬球。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/09-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "左图为侧面观，椎体在画面左方，棘突在右后方；两块椎体之间的蓝色结构是椎间盘。先辨认承重的椎体，再看其后方椎弓附近的开口，避免把骨间所有空白都称为椎间盘。",
+      "侧面引线指向椎间孔，它位于相邻椎骨之间，是脊神经出入椎管的侧向通道；它并不等于正中纵行椎管的横切面，椎间盘也没有填满神经通道。",
+      "右图改为从上方看，在椎体表面显露椎间盘内部：外周一圈圈纤维环围住中央髓核。两者共同承载并允许有限变形，中央蓝色不表示一个能够自由滚动或整体滑出的硬球。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Vertebral body",
+        "zh": "椎体",
+        "note": "侧面图前方较大的骨块承担轴向负荷"
+      },
+      {
+        "en": "Intervertebral foramen",
+        "zh": "椎间孔",
+        "note": "位于相邻椎骨之间为脊神经侧向出口"
+      },
+      {
+        "en": "Anulus fibrosus",
+        "zh": "纤维环",
+        "note": "椎间盘外周层状纤维组织围护中央髓核"
+      },
+      {
+        "en": "Nucleus pulposus",
+        "zh": "髓核",
+        "note": "椎间盘中央富含水分并参与压力分配"
+      },
+      {
+        "en": "Lateral view",
+        "zh": "侧面观",
+        "note": "左图从侧面比较椎体椎间盘和侧方孔隙"
+      },
+      {
+        "en": "Superior view",
+        "zh": "上面观",
+        "note": "右图从上向下看椎间盘中央与外周结构"
+      }
+    ]
   },
   {
     "section": "8-1-the-pectoral-girdle",
@@ -433,12 +2077,99 @@
     "chapter": "10",
     "id": "10-01",
     "title_zh": "肩带怎样连接上肢与躯干",
-    "labels_zh": "clavicle 锁骨；scapula 肩胛骨；sternum 胸骨",
-    "guide_zh": "先追踪锁骨到胸骨的骨性连接，再看肩胛骨位于胸廓后方；肩胛骨与胸壁的滑动不是典型滑膜关节。",
+    "labels_zh": "Coracoclavicular ligament 喙锁韧带；Costoclavicular ligament 肋锁韧带；Acromioclavicular joint 肩锁关节；Glenohumeral joint 盂肱关节（肩关节）；Clavicle 锁骨；Scapula 肩胛骨；Rib 肋骨；Vertebrae 椎骨；Anterior view of pectoral girdle 肩带前面观；Posterior view of pectoral girdle 肩带后面观；Superior view of clavicle 锁骨上面观；Inferior view of clavicle 锁骨下面观；Acromial end 肩峰端；Sternal end 胸骨端；Lateral 外侧；Anterior / Posterior 前方／后方",
+    "guide_zh": "上排左为肩带前面观，右为后面观；先沿锁骨从胸骨侧走到肩峰，再找肩胛骨与肱骨相接的位置。右图肩胛骨盖在胸廓后方，并没有与每一根肋骨形成滑膜关节。 左图浅色带标出喙锁韧带和肋锁韧带，分别加强锁骨与肩胛骨、第一肋区域的联系；肩锁关节在锁骨外端，盂肱关节在其下外侧，两者不能统称为同一个肩关节间隙。 下排两图是同一类锁骨的上面观和下面观，并非两块不同功能的骨。先找外侧肩峰端与内侧胸骨端，再依据Anterior、Posterior判断前后；翻到下面观察后，画面上下不再代表人体前后。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/10-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "上排左为肩带前面观，右为后面观；先沿锁骨从胸骨侧走到肩峰，再找肩胛骨与肱骨相接的位置。右图肩胛骨盖在胸廓后方，并没有与每一根肋骨形成滑膜关节。",
+      "左图浅色带标出喙锁韧带和肋锁韧带，分别加强锁骨与肩胛骨、第一肋区域的联系；肩锁关节在锁骨外端，盂肱关节在其下外侧，两者不能统称为同一个肩关节间隙。",
+      "下排两图是同一类锁骨的上面观和下面观，并非两块不同功能的骨。先找外侧肩峰端与内侧胸骨端，再依据Anterior、Posterior判断前后；翻到下面观察后，画面上下不再代表人体前后。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Coracoclavicular ligament",
+        "zh": "喙锁韧带",
+        "note": "连接肩胛骨喙突与锁骨以加强肩带稳定"
+      },
+      {
+        "en": "Costoclavicular ligament",
+        "zh": "肋锁韧带",
+        "note": "位于锁骨内侧下方联系第一肋区域"
+      },
+      {
+        "en": "Acromioclavicular joint",
+        "zh": "肩锁关节",
+        "note": "位于锁骨外端与肩胛骨肩峰交接处"
+      },
+      {
+        "en": "Glenohumeral joint",
+        "zh": "盂肱关节（肩关节）",
+        "note": "肱骨头与肩胛骨关节盂相接并参与抬臂"
+      },
+      {
+        "en": "Clavicle",
+        "zh": "锁骨",
+        "note": "横跨胸骨侧与肩峰侧的弯曲骨性支撑"
+      },
+      {
+        "en": "Scapula",
+        "zh": "肩胛骨",
+        "note": "位于胸廓后方并提供上肢肌肉附着处"
+      },
+      {
+        "en": "Rib",
+        "zh": "肋骨",
+        "note": "位于肩胛骨深方共同构成胸廓支架"
+      },
+      {
+        "en": "Vertebrae",
+        "zh": "椎骨",
+        "note": "位于后方中轴并与胸段肋骨相联系"
+      },
+      {
+        "en": "Anterior view of pectoral girdle",
+        "zh": "肩带前面观",
+        "note": "上排左图显示锁骨韧带与肩前连接"
+      },
+      {
+        "en": "Posterior view of pectoral girdle",
+        "zh": "肩带后面观",
+        "note": "上排右图显示肩胛骨覆盖胸廓的关系"
+      },
+      {
+        "en": "Superior view of clavicle",
+        "zh": "锁骨上面观",
+        "note": "下排上图由上向下查看锁骨弯曲轮廓"
+      },
+      {
+        "en": "Inferior view of clavicle",
+        "zh": "锁骨下面观",
+        "note": "下排下图翻看同类锁骨的下方表面"
+      },
+      {
+        "en": "Acromial end",
+        "zh": "肩峰端",
+        "note": "锁骨外侧端与肩胛骨肩峰相接处"
+      },
+      {
+        "en": "Sternal end",
+        "zh": "胸骨端",
+        "note": "锁骨内侧端与胸骨形成胸锁连接"
+      },
+      {
+        "en": "Lateral",
+        "zh": "外侧",
+        "note": "此处指向远离人体中线的锁骨肩峰端"
+      },
+      {
+        "en": "Anterior / Posterior",
+        "zh": "前方／后方",
+        "note": "用于给两种锁骨视图建立人体方向参照"
+      }
+    ]
   },
   {
     "section": "8-2-bones-of-the-upper-limb",
@@ -451,13 +2182,110 @@
     "figure_id": "fig-ch08_02_02",
     "chapter": "10",
     "id": "10-02",
-    "title_zh": "桡尺骨与前臂旋转",
-    "labels_zh": "radius 桡骨；ulna 尺骨；interosseous membrane 骨间膜",
-    "guide_zh": "以肘端与腕端作参照，辨认桡骨靠拇指侧、尺骨靠小指侧；位置描述以解剖姿势为基础。",
+    "title_zh": "右侧桡骨、尺骨的前面与后面",
+    "labels_zh": "Radial notch of the ulna 尺骨桡切迹；Head of radius 桡骨头；Neck of radius 桡骨颈；Radial tuberosity 桡骨粗隆；Olecranon process 鹰嘴；Trochlear notch 滑车切迹；Coronoid process 冠突；Proximal radioulnar joint 桡尺近侧关节；Interosseous membrane 骨间膜；Ulna 尺骨；Radius 桡骨；Ulnar notch of the radius 桡骨尺切迹；Head of ulna 尺骨头；Distal radioulnar joint 桡尺远侧关节；Styloid process of ulna 尺骨茎突；Styloid process of radius 桡骨茎突；Right forearm, anterior view 右前臂前面观；Right forearm, posterior view 右前臂后面观",
+    "guide_zh": "这不是旋前与旋后的连续动作图。左图明确标为右前臂前面观，右图为右前臂后面观；桡骨因观察方向改变而换到画面另一边，不能据此认为两骨已交叉旋转。 先找近端：尺骨有鹰嘴、滑车切迹和冠突，围出与肱骨相接的区域；桡骨上端则是较小的圆盘形桡骨头，其下为桡骨颈和供肌腱附着的桡骨粗隆。 再向下看，桡骨远端变宽，尺骨头位于靠腕的一端。两骨之间的斜纹是骨间膜，近远端桡尺关节共同允许前臂旋转。腕侧的两处茎突分别属于尺骨和桡骨，是不同骨上的突起。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/10-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "这不是旋前与旋后的连续动作图。左图明确标为右前臂前面观，右图为右前臂后面观；桡骨因观察方向改变而换到画面另一边，不能据此认为两骨已交叉旋转。",
+      "先找近端：尺骨有鹰嘴、滑车切迹和冠突，围出与肱骨相接的区域；桡骨上端则是较小的圆盘形桡骨头，其下为桡骨颈和供肌腱附着的桡骨粗隆。",
+      "再向下看，桡骨远端变宽，尺骨头位于靠腕的一端。两骨之间的斜纹是骨间膜，近远端桡尺关节共同允许前臂旋转。腕侧的两处茎突分别属于尺骨和桡骨，是不同骨上的突起。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Radial notch of the ulna",
+        "zh": "尺骨桡切迹",
+        "note": "尺骨近端外侧与桡骨头相接的小关节面"
+      },
+      {
+        "en": "Head of radius",
+        "zh": "桡骨头",
+        "note": "桡骨近端盘状结构参与肘部及桡尺连接"
+      },
+      {
+        "en": "Neck of radius",
+        "zh": "桡骨颈",
+        "note": "桡骨头下方较细一段连接近端与骨干"
+      },
+      {
+        "en": "Radial tuberosity",
+        "zh": "桡骨粗隆",
+        "note": "桡骨近端粗糙突出为肱二头肌腱附着处"
+      },
+      {
+        "en": "Olecranon process",
+        "zh": "鹰嘴",
+        "note": "尺骨近端后侧突起构成肘后的骨性尖端"
+      },
+      {
+        "en": "Trochlear notch",
+        "zh": "滑车切迹",
+        "note": "尺骨近端大切迹容纳肱骨滑车关节面"
+      },
+      {
+        "en": "Coronoid process",
+        "zh": "冠突",
+        "note": "尺骨近端前侧突起参与肘部关节构成"
+      },
+      {
+        "en": "Proximal radioulnar joint",
+        "zh": "桡尺近侧关节",
+        "note": "靠近肘部的桡尺连接允许桡骨头转动"
+      },
+      {
+        "en": "Interosseous membrane",
+        "zh": "骨间膜",
+        "note": "连接两骨骨干并参与稳定和负荷传递"
+      },
+      {
+        "en": "Ulna",
+        "zh": "尺骨",
+        "note": "解剖姿势位于前臂靠小指的内侧"
+      },
+      {
+        "en": "Radius",
+        "zh": "桡骨",
+        "note": "解剖姿势位于前臂靠拇指的外侧"
+      },
+      {
+        "en": "Ulnar notch of the radius",
+        "zh": "桡骨尺切迹",
+        "note": "位于桡骨远端内侧并与尺骨头相接"
+      },
+      {
+        "en": "Head of ulna",
+        "zh": "尺骨头",
+        "note": "尺骨远端的圆隆结构参与远侧桡尺连接"
+      },
+      {
+        "en": "Distal radioulnar joint",
+        "zh": "桡尺远侧关节",
+        "note": "靠近腕部的桡尺连接配合前臂旋转"
+      },
+      {
+        "en": "Styloid process of ulna",
+        "zh": "尺骨茎突",
+        "note": "尺骨远端突出是腕部尺侧骨性标志"
+      },
+      {
+        "en": "Styloid process of radius",
+        "zh": "桡骨茎突",
+        "note": "桡骨远端突出是腕部桡侧骨性标志"
+      },
+      {
+        "en": "Right forearm, anterior view",
+        "zh": "右前臂前面观",
+        "note": "左幅从前方观察同一侧的前臂骨骼"
+      },
+      {
+        "en": "Right forearm, posterior view",
+        "zh": "右前臂后面观",
+        "note": "右幅从后方观察而非展示另一只前臂"
+      }
+    ]
   },
   {
     "section": "11-5-muscles-of-the-pectoral-girdle-and-upper-limbs",
@@ -471,12 +2299,94 @@
     "chapter": "10",
     "id": "10-03",
     "title_zh": "手内在肌：指间精细控制",
-    "labels_zh": "thenar 鱼际；hypothenar 小鱼际；interossei 骨间肌",
-    "guide_zh": "沿掌骨间隙辨认骨间肌，再找拇指侧和小指侧肌群。很多指运动也依赖从前臂延伸来的长肌腱。",
+    "labels_zh": "Opponens pollicis 拇对掌肌；Abductor pollicis brevis 拇短展肌；Flexor pollicis brevis 拇短屈肌；Adductor pollicis 拇收肌；Abductor digiti minimi 小指展肌；Flexor digiti minimi brevis 小指短屈肌；Lumbricalis muscles 蚓状肌；Pisometacarpal ligament 豌豆掌骨韧带；Opponens digiti minimi 小指对掌肌；Palmar interossei muscles 掌侧骨间肌；Dorsal interossei muscles 背侧骨间肌；Superficial muscles of left hand (palmar) 左手浅层肌（掌侧）；Deep muscles of left hand: (dorsal view) 左手深层肌（背面观）；Interossei muscles of left hand (palmar view) 左手骨间肌（掌面观）；Interossei muscles of left hand (dorsal view) 左手骨间肌（背面观）",
+    "guide_zh": "四幅都标示左手，但上左从掌侧看浅层，上右从背侧经过解剖暴露深层，下排再分别看掌侧和背侧的骨间肌。先找拇指作为外侧参照，换视角后它在画面的位置会改变。 上左拇指侧鱼际可见拇短展肌、拇短屈肌等，小指侧有小指展肌和小指短屈肌，掌心细长的是蚓状肌。上右显露较深的对掌肌与拇收肌，不能误以为它们本来裸露在手背皮下。 下左三块掌侧骨间肌与下右四块背侧骨间肌位于掌骨之间，分别参与手指相对中指轴线的内收、外展，并协助关节协调。白色长腱来自更近端肌肉，与图中手内肌共同工作，不是同一块肌肉的另一种颜色。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/10-03.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "四幅都标示左手，但上左从掌侧看浅层，上右从背侧经过解剖暴露深层，下排再分别看掌侧和背侧的骨间肌。先找拇指作为外侧参照，换视角后它在画面的位置会改变。",
+      "上左拇指侧鱼际可见拇短展肌、拇短屈肌等，小指侧有小指展肌和小指短屈肌，掌心细长的是蚓状肌。上右显露较深的对掌肌与拇收肌，不能误以为它们本来裸露在手背皮下。",
+      "下左三块掌侧骨间肌与下右四块背侧骨间肌位于掌骨之间，分别参与手指相对中指轴线的内收、外展，并协助关节协调。白色长腱来自更近端肌肉，与图中手内肌共同工作，不是同一块肌肉的另一种颜色。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Opponens pollicis",
+        "zh": "拇对掌肌",
+        "note": "鱼际深部参与拇指根部转位与对掌"
+      },
+      {
+        "en": "Abductor pollicis brevis",
+        "zh": "拇短展肌",
+        "note": "鱼际较表浅肌肉使拇指离开掌面"
+      },
+      {
+        "en": "Flexor pollicis brevis",
+        "zh": "拇短屈肌",
+        "note": "位于鱼际参与屈曲拇指掌指关节"
+      },
+      {
+        "en": "Adductor pollicis",
+        "zh": "拇收肌",
+        "note": "深层扇状肌参与将拇指拉向掌侧中部"
+      },
+      {
+        "en": "Abductor digiti minimi",
+        "zh": "小指展肌",
+        "note": "小鱼际外缘参与小指相对中指外展"
+      },
+      {
+        "en": "Flexor digiti minimi brevis",
+        "zh": "小指短屈肌",
+        "note": "小鱼际浅层肌参与小指掌指关节屈曲"
+      },
+      {
+        "en": "Lumbricalis muscles",
+        "zh": "蚓状肌",
+        "note": "细长肌沿指屈肌腱走行并协调指关节"
+      },
+      {
+        "en": "Pisometacarpal ligament",
+        "zh": "豌豆掌骨韧带",
+        "note": "从豌豆骨连向第五掌骨的纤维束"
+      },
+      {
+        "en": "Opponens digiti minimi",
+        "zh": "小指对掌肌",
+        "note": "小鱼际深层肌参与第五掌骨的定位"
+      },
+      {
+        "en": "Palmar interossei muscles",
+        "zh": "掌侧骨间肌",
+        "note": "三块肌位于掌骨间并主要参与手指内收"
+      },
+      {
+        "en": "Dorsal interossei muscles",
+        "zh": "背侧骨间肌",
+        "note": "四块肌位于掌骨间并主要参与手指外展"
+      },
+      {
+        "en": "Superficial muscles of left hand (palmar)",
+        "zh": "左手浅层肌（掌侧）",
+        "note": "左上掌侧观察鱼际小鱼际与蚓状肌"
+      },
+      {
+        "en": "Deep muscles of left hand: (dorsal view)",
+        "zh": "左手深层肌（背面观）",
+        "note": "右上经解剖去除遮挡后从背侧看深肌"
+      },
+      {
+        "en": "Interossei muscles of left hand (palmar view)",
+        "zh": "左手骨间肌（掌面观）",
+        "note": "左下从掌侧显示三块掌侧骨间肌位置"
+      },
+      {
+        "en": "Interossei muscles of left hand (dorsal view)",
+        "zh": "左手骨间肌（背面观）",
+        "note": "右下从背侧显示四块背侧骨间肌排列"
+      }
+    ]
   },
   {
     "section": "11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs",
@@ -490,12 +2400,194 @@
     "chapter": "11",
     "id": "11-01",
     "title_zh": "髋与大腿肌肉的空间关系",
-    "labels_zh": "gluteus maximus 臀大肌；gluteus medius 臀中肌；iliopsoas 髂腰肌",
-    "guide_zh": "比较前后与浅深层视图，先看臀区肌群，再追踪肌肉跨越髋关节的方向。臀中肌在单腿支撑时参与骨盆稳定。",
+    "labels_zh": "Quadratus lumborum 腰方肌；Iliacus 髂肌；Crest of ilium / Iliac crest 髂嵴；Tensor fascia latae 阔筋膜张肌；Rectus femoris 股直肌；Vastus lateralis 股外侧肌；Psoas major 腰大肌；Pectineus 耻骨肌；Sacrum 骶骨；Adductor longus 长收肌；Gracilis 股薄肌；Adductor magnus 大收肌；Sartorius 缝匠肌；Vastus medialis 股内侧肌；Quadriceps tendon (or patellar tendon) 股四头肌腱（原图括注髌腱）；Patellar ligament 髌韧带；Pubis 耻骨；Obturator externus 闭孔外肌；Adductor brevis 短收肌；Adductor group 内收肌群；Gluteus medius (cut) 臀中肌（已切开）；Gluteus minimus 臀小肌；Piriformis 梨状肌；Superior gemellus 上孖肌；Inferior gemellus 下孖肌；Obturator internis 闭孔内肌；Gluteus maximus (cut) 臀大肌（已切开）；Quadratus femoris 股方肌；Biceps femoris 股二头肌；Semimembranosus 半膜肌；Semitendinosus 半腱肌；Femur 股骨；Superficial pelvic and thigh muscles of right leg (anterior view) 右侧骨盆与大腿浅层肌（前面观）；Deep pelvic and thigh muscles of right leg (anterior view) 右侧骨盆与大腿深层肌（前面观）；Pelvic and thigh muscles of right leg (posterior view) 右侧骨盆与大腿肌（后面观）",
+    "guide_zh": "本图不是从左到右等高排列：上左为右侧髋大腿前面浅层，下左为前面深层，右下为后面观。先由骨盆追到膝：髌上是股四头肌腱，髌下是髌韧带；原图把髌腱括注在髌上，易混，需按位置区分。 前面浅层的缝匠肌斜跨大腿；深层图去除遮挡，显出长短内收肌、大收肌及闭孔外肌。腰大肌与髂肌靠近骨盆内侧，共同联系髋前方，不是长在臀部表面的肌块。 后面观把臀大肌、臀中肌切开翻起，才显露臀小肌、梨状肌、上下孖肌等深部结构。继续向下可见半膜肌、半腱肌和股二头肌；括号cut表示人为切开，不能把残留断面误读成完整肌腹。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/11-01.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "本图不是从左到右等高排列：上左为右侧髋大腿前面浅层，下左为前面深层，右下为后面观。先由骨盆追到膝：髌上是股四头肌腱，髌下是髌韧带；原图把髌腱括注在髌上，易混，需按位置区分。",
+      "前面浅层的缝匠肌斜跨大腿；深层图去除遮挡，显出长短内收肌、大收肌及闭孔外肌。腰大肌与髂肌靠近骨盆内侧，共同联系髋前方，不是长在臀部表面的肌块。",
+      "后面观把臀大肌、臀中肌切开翻起，才显露臀小肌、梨状肌、上下孖肌等深部结构。继续向下可见半膜肌、半腱肌和股二头肌；括号cut表示人为切开，不能把残留断面误读成完整肌腹。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Quadratus lumborum",
+        "zh": "腰方肌",
+        "note": "位于后腹壁并参与腰部稳定和侧屈"
+      },
+      {
+        "en": "Iliacus",
+        "zh": "髂肌",
+        "note": "位于髂窝内与腰大肌共同参与屈髋"
+      },
+      {
+        "en": "Crest of ilium / Iliac crest",
+        "zh": "髂嵴",
+        "note": "髋骨上缘为多处肌肉附着的骨性标志"
+      },
+      {
+        "en": "Tensor fascia latae",
+        "zh": "阔筋膜张肌",
+        "note": "髋前外侧肌与髂胫束相连并参与稳定"
+      },
+      {
+        "en": "Rectus femoris",
+        "zh": "股直肌",
+        "note": "前侧股四头肌之一同时跨越髋膝关节"
+      },
+      {
+        "en": "Vastus lateralis",
+        "zh": "股外侧肌",
+        "note": "股四头肌外侧部分主要参与伸膝"
+      },
+      {
+        "en": "Psoas major",
+        "zh": "腰大肌",
+        "note": "自腰部向下经过髋前方并参与屈髋"
+      },
+      {
+        "en": "Pectineus",
+        "zh": "耻骨肌",
+        "note": "大腿近端前内侧参与内收和屈髋"
+      },
+      {
+        "en": "Sacrum",
+        "zh": "骶骨",
+        "note": "骨盆后方中轴骨把脊柱与髋骨联系"
+      },
+      {
+        "en": "Adductor longus",
+        "zh": "长收肌",
+        "note": "大腿内侧肌群中较浅层的内收肌"
+      },
+      {
+        "en": "Gracilis",
+        "zh": "股薄肌",
+        "note": "大腿内侧细长肌同时跨越髋与膝"
+      },
+      {
+        "en": "Adductor magnus",
+        "zh": "大收肌",
+        "note": "大腿内侧宽大深肌参与内收等动作"
+      },
+      {
+        "en": "Sartorius",
+        "zh": "缝匠肌",
+        "note": "从髋外上向膝内侧斜跨的带状肌"
+      },
+      {
+        "en": "Vastus medialis",
+        "zh": "股内侧肌",
+        "note": "股四头肌内侧部分参与伸膝装置"
+      },
+      {
+        "en": "Quadriceps tendon (or patellar tendon)",
+        "zh": "股四头肌腱（原图括注髌腱）",
+        "note": "引线指髌骨上方应与髌下髌韧带区分"
+      },
+      {
+        "en": "Patellar ligament",
+        "zh": "髌韧带",
+        "note": "髌骨下方连到胫骨以传递伸膝拉力"
+      },
+      {
+        "en": "Pubis",
+        "zh": "耻骨",
+        "note": "髋骨前下部为部分内收肌提供起点"
+      },
+      {
+        "en": "Obturator externus",
+        "zh": "闭孔外肌",
+        "note": "位于髋深部参与股骨外旋和稳定"
+      },
+      {
+        "en": "Adductor brevis",
+        "zh": "短收肌",
+        "note": "位于长收肌深方参与大腿内收"
+      },
+      {
+        "en": "Adductor group",
+        "zh": "内收肌群",
+        "note": "括线合列长收肌短收肌和大收肌"
+      },
+      {
+        "en": "Gluteus medius (cut)",
+        "zh": "臀中肌（已切开）",
+        "note": "右图切开后显露更深的臀小肌部分"
+      },
+      {
+        "en": "Gluteus minimus",
+        "zh": "臀小肌",
+        "note": "位于臀中肌深面参与外展与骨盆控制"
+      },
+      {
+        "en": "Piriformis",
+        "zh": "梨状肌",
+        "note": "从骶骨区域向股骨外侧延伸的深肌"
+      },
+      {
+        "en": "Superior gemellus",
+        "zh": "上孖肌",
+        "note": "位于闭孔内肌腱上方的短小髋深肌"
+      },
+      {
+        "en": "Inferior gemellus",
+        "zh": "下孖肌",
+        "note": "位于闭孔内肌腱下方的短小髋深肌"
+      },
+      {
+        "en": "Obturator internis",
+        "zh": "闭孔内肌",
+        "note": "原图拼写有误实际为髋深部闭孔内肌"
+      },
+      {
+        "en": "Gluteus maximus (cut)",
+        "zh": "臀大肌（已切开）",
+        "note": "仅保留翻起断端以显露臀区深层结构"
+      },
+      {
+        "en": "Quadratus femoris",
+        "zh": "股方肌",
+        "note": "后髋部短而宽的肌肉参与股骨外旋"
+      },
+      {
+        "en": "Biceps femoris",
+        "zh": "股二头肌",
+        "note": "大腿后外侧肌参与屈膝及相应髋动作"
+      },
+      {
+        "en": "Semimembranosus",
+        "zh": "半膜肌",
+        "note": "大腿后内侧深部肌参与屈膝和伸髋"
+      },
+      {
+        "en": "Semitendinosus",
+        "zh": "半腱肌",
+        "note": "大腿后内侧浅部肌具有较长远端肌腱"
+      },
+      {
+        "en": "Femur",
+        "zh": "股骨",
+        "note": "大腿中央长骨为周围肌群提供附着"
+      },
+      {
+        "en": "Superficial pelvic and thigh muscles of right leg (anterior view)",
+        "zh": "右侧骨盆与大腿浅层肌（前面观）",
+        "note": "上左图显示前侧表浅肌肉与膝前连接"
+      },
+      {
+        "en": "Deep pelvic and thigh muscles of right leg (anterior view)",
+        "zh": "右侧骨盆与大腿深层肌（前面观）",
+        "note": "下左去除浅层后显出内收肌等深层关系"
+      },
+      {
+        "en": "Pelvic and thigh muscles of right leg (posterior view)",
+        "zh": "右侧骨盆与大腿肌（后面观）",
+        "note": "右下图切开臀肌后显示后方深浅结构"
+      }
+    ]
   },
   {
     "section": "8-4-bones-of-the-lower-limb",
@@ -509,12 +2601,139 @@
     "chapter": "11",
     "id": "11-02",
     "title_zh": "足骨与足弓的空间关系",
-    "labels_zh": "talus 距骨；calcaneus 跟骨；metatarsals 跖骨",
-    "guide_zh": "先从侧面辨认后足，再顺着跗骨、跖骨到趾骨；足弓还依赖韧带、筋膜和肌腱，骨图不等于全部支撑系统。",
+    "labels_zh": "Tarsals 跗骨；Metatarsals 跖骨；Phalanges 趾骨；Distal / Distal phalange 远节趾骨；Proximal phalanges / Proximal phalange 近节趾骨；Middle phalange 中节趾骨；Medial cuneiform 内侧楔骨；Intermediate cuneiform 中间楔骨；Lateral cuneiform 外侧楔骨；Navicular 舟骨；Talus 距骨；Trochlea of talus 距骨滑车；Calcaneus 跟骨；Cuboid 骰骨；First metatarsal 第一跖骨；Fifth metatarsal 第五跖骨；Facet for medial malleolus 内踝关节面；Facet for lateral malleolus 外踝关节面；Sustentaculum tali (talar shelf) 载距突；Calcaneal tuberosity 跟骨结节；Right foot, superior view 右足上面观；Right foot, medial view 右足内侧面观；Right foot, lateral view 右足外侧面观；1 / 2 / 3 / 4 / 5 第一至第五跖骨编号",
+    "guide_zh": "三幅均为右足：左大图从上方看，右上从内侧看，右下从外侧看；上方小图只示骨组位置。先由后足的距骨、跟骨向前追到跗骨、跖骨及趾骨，不要把所有足骨都叫作趾骨。 左图数字一至五对应从拇趾向小趾排列的五块跖骨。拇趾只有近、远两节趾骨，其余趾通常另有中节。三块楔骨位于舟骨前方，骰骨在外侧，名称相近却不是同一块骨的不同视角。 右上内侧图清楚显示纵向拱形，距骨在跟骨上方，载距突由跟骨向内伸出。右下外侧图的弓较低；内外踝关节面是距骨与小腿骨连接处。图省去足底韧带和肌腱，骨的弯曲不能代表足弓全部支撑。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/11-02.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "三幅均为右足：左大图从上方看，右上从内侧看，右下从外侧看；上方小图只示骨组位置。先由后足的距骨、跟骨向前追到跗骨、跖骨及趾骨，不要把所有足骨都叫作趾骨。",
+      "左图数字一至五对应从拇趾向小趾排列的五块跖骨。拇趾只有近、远两节趾骨，其余趾通常另有中节。三块楔骨位于舟骨前方，骰骨在外侧，名称相近却不是同一块骨的不同视角。",
+      "右上内侧图清楚显示纵向拱形，距骨在跟骨上方，载距突由跟骨向内伸出。右下外侧图的弓较低；内外踝关节面是距骨与小腿骨连接处。图省去足底韧带和肌腱，骨的弯曲不能代表足弓全部支撑。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Tarsals",
+        "zh": "跗骨",
+        "note": "足后部和近侧骨组通常共有七块骨"
+      },
+      {
+        "en": "Metatarsals",
+        "zh": "跖骨",
+        "note": "位于跗骨与趾骨之间的五块长骨"
+      },
+      {
+        "en": "Phalanges",
+        "zh": "趾骨",
+        "note": "位于足趾内部并分成不同节段的骨"
+      },
+      {
+        "en": "Distal / Distal phalange",
+        "zh": "远节趾骨",
+        "note": "图中足趾末端一节靠近趾尖位置"
+      },
+      {
+        "en": "Proximal phalanges / Proximal phalange",
+        "zh": "近节趾骨",
+        "note": "各趾靠近跖骨端的第一节趾骨"
+      },
+      {
+        "en": "Middle phalange",
+        "zh": "中节趾骨",
+        "note": "第二至第五趾中间一节而拇趾没有此节"
+      },
+      {
+        "en": "Medial cuneiform",
+        "zh": "内侧楔骨",
+        "note": "位于第一跖骨近端并参与足内侧骨链"
+      },
+      {
+        "en": "Intermediate cuneiform",
+        "zh": "中间楔骨",
+        "note": "三块楔骨中间一块邻近第二跖骨"
+      },
+      {
+        "en": "Lateral cuneiform",
+        "zh": "外侧楔骨",
+        "note": "位于中间楔骨外侧并邻近第三跖骨"
+      },
+      {
+        "en": "Navicular",
+        "zh": "舟骨",
+        "note": "位于距骨前方并连接前方楔骨组"
+      },
+      {
+        "en": "Talus",
+        "zh": "距骨",
+        "note": "位于踝部接受小腿传来的承重负荷"
+      },
+      {
+        "en": "Trochlea of talus",
+        "zh": "距骨滑车",
+        "note": "距骨上方与胫腓骨踝穴相接的关节面"
+      },
+      {
+        "en": "Calcaneus",
+        "zh": "跟骨",
+        "note": "后足下方较大的骨构成足跟骨性基础"
+      },
+      {
+        "en": "Cuboid",
+        "zh": "骰骨",
+        "note": "足外侧跗骨连接跟骨与外侧跖骨"
+      },
+      {
+        "en": "First metatarsal",
+        "zh": "第一跖骨",
+        "note": "通向拇趾的跖骨位于足的内侧"
+      },
+      {
+        "en": "Fifth metatarsal",
+        "zh": "第五跖骨",
+        "note": "通向小趾的跖骨位于足的外侧"
+      },
+      {
+        "en": "Facet for medial malleolus",
+        "zh": "内踝关节面",
+        "note": "距骨内侧与胫骨内踝相接的表面"
+      },
+      {
+        "en": "Facet for lateral malleolus",
+        "zh": "外踝关节面",
+        "note": "距骨外侧与腓骨外踝相接的表面"
+      },
+      {
+        "en": "Sustentaculum tali (talar shelf)",
+        "zh": "载距突",
+        "note": "跟骨内侧伸出的骨台参与支撑距骨"
+      },
+      {
+        "en": "Calcaneal tuberosity",
+        "zh": "跟骨结节",
+        "note": "跟骨后下部突出是足跟承重的骨性部分"
+      },
+      {
+        "en": "Right foot, superior view",
+        "zh": "右足上面观",
+        "note": "左图从足背方向看各骨的前后内外排列"
+      },
+      {
+        "en": "Right foot, medial view",
+        "zh": "右足内侧面观",
+        "note": "右上显示内侧纵弓以及载距突位置"
+      },
+      {
+        "en": "Right foot, lateral view",
+        "zh": "右足外侧面观",
+        "note": "右下显示外侧低弓及第五跖骨位置"
+      },
+      {
+        "en": "1 / 2 / 3 / 4 / 5",
+        "zh": "第一至第五跖骨编号",
+        "note": "由拇趾侧向小趾侧依次给跖骨编号"
+      }
+    ]
   },
   {
     "section": "11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs",
@@ -528,12 +2747,129 @@
     "chapter": "11",
     "id": "11-03",
     "title_zh": "小腿的不同肌群",
-    "labels_zh": "gastrocnemius 腓肠肌；soleus 比目鱼肌；tibialis anterior 胫骨前肌",
-    "guide_zh": "从后侧与前侧分别看肌群，辨认肌腹向远端肌腱过渡；踝的不同运动由多组肌肉共同完成。",
+    "labels_zh": "Tibialis anterior 胫骨前肌；Fibularis longus 腓骨长肌；Extensor digitorum longus 趾长伸肌；Fibularis brevis 腓骨短肌；Extensor hallucis longus 拇长伸肌（足）；Fibularis tertius 第三腓骨肌；Superior extensor retinaculum 伸肌上支持带；Inferior extensor retinaculum 伸肌下支持带；Gastrocnemius (lateral head) 腓肠肌（外侧头）；Gastrocnemius (medial head) 腓肠肌（内侧头）；Plantaris 跖肌；Soleus 比目鱼肌；Calcaneal (Achilles) tendon 跟腱（阿基里斯腱）；Calcaneus (heel) 跟骨（足跟部）；Popliteus 腘肌；Soleus (cut) 比目鱼肌（已切开）；Tibialis posterior 胫骨后肌；Flexor digitorum longus 趾长屈肌；Flexor hallucis longus 拇长屈肌（足）；Superficial muscles of the right lower leg (anterior view) 右小腿浅层肌（前面观）；Superficial muscles of the right lower leg (posterior view) 右小腿浅层肌（后面观）；Deep muscles of the right lower leg (posterior view) 右小腿深层肌（后面观）",
+    "guide_zh": "三幅均为右小腿，左图看前面，中图看后面较浅层，右图看后面深层。它们不是三个动作阶段；中图已将腓肠肌截断显出比目鱼肌，右图又切开比目鱼肌，才看到更深肌群。 左图胫骨前肌靠胫骨前外侧，趾长伸肌和拇长伸肌的肌腱走向足背；伸肌上、下支持带像横向约束，防止长腱活动时远离踝前骨面。外侧的腓骨长短肌不能误认成胫骨肌。 中图从腓肠肌、比目鱼肌向下追到跟腱和跟骨。右图膝后方是腘肌，更下方有胫骨后肌及趾、拇长屈肌。英文hallucis指足拇趾，digitorum指其他足趾；图中的长肌腱说明肌腹虽在小腿，作用却可到足趾。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/11-03.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "三幅均为右小腿，左图看前面，中图看后面较浅层，右图看后面深层。它们不是三个动作阶段；中图已将腓肠肌截断显出比目鱼肌，右图又切开比目鱼肌，才看到更深肌群。",
+      "左图胫骨前肌靠胫骨前外侧，趾长伸肌和拇长伸肌的肌腱走向足背；伸肌上、下支持带像横向约束，防止长腱活动时远离踝前骨面。外侧的腓骨长短肌不能误认成胫骨肌。",
+      "中图从腓肠肌、比目鱼肌向下追到跟腱和跟骨。右图膝后方是腘肌，更下方有胫骨后肌及趾、拇长屈肌。英文hallucis指足拇趾，digitorum指其他足趾；图中的长肌腱说明肌腹虽在小腿，作用却可到足趾。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Tibialis anterior",
+        "zh": "胫骨前肌",
+        "note": "位于小腿前群并主要参与足背屈"
+      },
+      {
+        "en": "Fibularis longus",
+        "zh": "腓骨长肌",
+        "note": "位于小腿外侧群并参与足外翻与支撑"
+      },
+      {
+        "en": "Extensor digitorum longus",
+        "zh": "趾长伸肌",
+        "note": "前群肌腱延伸至足背并参与伸趾"
+      },
+      {
+        "en": "Fibularis brevis",
+        "zh": "腓骨短肌",
+        "note": "小腿外侧较远端肌腹参与足外翻"
+      },
+      {
+        "en": "Extensor hallucis longus",
+        "zh": "拇长伸肌（足）",
+        "note": "小腿前群深处肌腱连向足拇趾"
+      },
+      {
+        "en": "Fibularis tertius",
+        "zh": "第三腓骨肌",
+        "note": "前群远端小肌参与背屈及外翻动作"
+      },
+      {
+        "en": "Superior extensor retinaculum",
+        "zh": "伸肌上支持带",
+        "note": "踝前近侧横行纤维带约束伸肌腱"
+      },
+      {
+        "en": "Inferior extensor retinaculum",
+        "zh": "伸肌下支持带",
+        "note": "踝前较远端分叉纤维带约束长肌腱"
+      },
+      {
+        "en": "Gastrocnemius (lateral head)",
+        "zh": "腓肠肌（外侧头）",
+        "note": "后群浅层肌的外侧起始部分图中已截断"
+      },
+      {
+        "en": "Gastrocnemius (medial head)",
+        "zh": "腓肠肌（内侧头）",
+        "note": "后群浅层肌的内侧起始部分图中已截断"
+      },
+      {
+        "en": "Plantaris",
+        "zh": "跖肌",
+        "note": "膝后附近细小肌腹延续成细长肌腱"
+      },
+      {
+        "en": "Soleus",
+        "zh": "比目鱼肌",
+        "note": "腓肠肌深方宽扁肌参与跖屈与站立"
+      },
+      {
+        "en": "Calcaneal (Achilles) tendon",
+        "zh": "跟腱（阿基里斯腱）",
+        "note": "小腿后方强腱把跖屈肌拉力传至跟骨"
+      },
+      {
+        "en": "Calcaneus (heel)",
+        "zh": "跟骨（足跟部）",
+        "note": "跟腱远端附着于足跟后方骨性基础"
+      },
+      {
+        "en": "Popliteus",
+        "zh": "腘肌",
+        "note": "位于膝后深面并参与膝部运动协调"
+      },
+      {
+        "en": "Soleus (cut)",
+        "zh": "比目鱼肌（已切开）",
+        "note": "右图保留断端以显露小腿后群深层肌"
+      },
+      {
+        "en": "Tibialis posterior",
+        "zh": "胫骨后肌",
+        "note": "位于后群深层并参与足内翻与足弓支持"
+      },
+      {
+        "en": "Flexor digitorum longus",
+        "zh": "趾长屈肌",
+        "note": "后群深层肌腱延伸至其他四个足趾"
+      },
+      {
+        "en": "Flexor hallucis longus",
+        "zh": "拇长屈肌（足）",
+        "note": "后群深层肌腱延伸并屈曲足拇趾"
+      },
+      {
+        "en": "Superficial muscles of the right lower leg (anterior view)",
+        "zh": "右小腿浅层肌（前面观）",
+        "note": "左图显示前群肌肉与踝前支持带关系"
+      },
+      {
+        "en": "Superficial muscles of the right lower leg (posterior view)",
+        "zh": "右小腿浅层肌（后面观）",
+        "note": "中图后侧显出腓肠肌断端和比目鱼肌"
+      },
+      {
+        "en": "Deep muscles of the right lower leg (posterior view)",
+        "zh": "右小腿深层肌（后面观）",
+        "note": "右图进一步去除遮挡显示后群深肌"
+      }
+    ]
   },
   {
     "section": "22-2-the-lungs",
@@ -546,14 +2882,71 @@
     "figure_id": "fig-ch23_02_01",
     "chapter": "12",
     "id": "12-01",
-    "title_zh": "肺叶与肺门",
-    "labels_zh": "right lung 右肺；left lung 左肺；hilum 肺门",
-    "guide_zh": "先比较左右肺叶数，再看支气管和血管从肺门进出。左右肺并非完全对称。",
+    "title_zh": "左右肺叶与支气管分支",
+    "labels_zh": "Trachea 气管；Superior lobe 上叶；Middle lobe 中叶；Inferior lobe 下叶；Main (primary) bronchus 主支气管（一级支气管）；Lobar (secondary) bronchus 叶支气管（二级支气管）；Segmental (tertiary) bronchus 段支气管（三级支气管）；Cardiac notch 心切迹；Right lung 右肺；Left lung 左肺",
+    "guide_zh": "这是肺与支气管的前面示意，画面左边是人体右肺，画面右边是左肺；不要直接按看图者左右命名。先比较叶数：右肺上、中、下三叶，左肺上、下两叶，左肺内侧缘可见心切迹。 从中央气管向下追，先分左右主支气管，再到进入肺叶的叶支气管，随后为段支气管。括号中的英文分别表示这几个分支层级，不是三种不同材料的管道。 浅蓝树枝强调空气通路，紫色半透明区域强调肺叶关系；图没有画出完整肺门血管或肺泡网络。肺叶有相互重叠的三维位置，不能按正面投影的面积判断每叶真实体积，也不能把蓝色分支误当肺动脉。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/12-01.jpg",
     "modification": "Original JPEG missing end marker; decoded and re-encoded, anatomy and labels retained.",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "这是肺与支气管的前面示意，画面左边是人体右肺，画面右边是左肺；不要直接按看图者左右命名。先比较叶数：右肺上、中、下三叶，左肺上、下两叶，左肺内侧缘可见心切迹。",
+      "从中央气管向下追，先分左右主支气管，再到进入肺叶的叶支气管，随后为段支气管。括号中的英文分别表示这几个分支层级，不是三种不同材料的管道。",
+      "浅蓝树枝强调空气通路，紫色半透明区域强调肺叶关系；图没有画出完整肺门血管或肺泡网络。肺叶有相互重叠的三维位置，不能按正面投影的面积判断每叶真实体积，也不能把蓝色分支误当肺动脉。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Trachea",
+        "zh": "气管",
+        "note": "中央向下延续并分出左右主支气管"
+      },
+      {
+        "en": "Superior lobe",
+        "zh": "上叶",
+        "note": "两侧肺的上方肺叶并非仅右肺具有"
+      },
+      {
+        "en": "Middle lobe",
+        "zh": "中叶",
+        "note": "位于右肺上叶与下叶之间左肺无此叶"
+      },
+      {
+        "en": "Inferior lobe",
+        "zh": "下叶",
+        "note": "两侧肺均有并有较大部分位于后方"
+      },
+      {
+        "en": "Main (primary) bronchus",
+        "zh": "主支气管（一级支气管）",
+        "note": "气管分出的左右主支各进入一侧肺"
+      },
+      {
+        "en": "Lobar (secondary) bronchus",
+        "zh": "叶支气管（二级支气管）",
+        "note": "主支气管的分支进入对应肺叶区域"
+      },
+      {
+        "en": "Segmental (tertiary) bronchus",
+        "zh": "段支气管（三级支气管）",
+        "note": "叶支气管再分支通向各支气管肺段"
+      },
+      {
+        "en": "Cardiac notch",
+        "zh": "心切迹",
+        "note": "左肺前缘内侧为心脏位置留出的凹缺"
+      },
+      {
+        "en": "Right lung",
+        "zh": "右肺",
+        "note": "位于画面左边通常分上中下三叶"
+      },
+      {
+        "en": "Left lung",
+        "zh": "左肺",
+        "note": "位于画面右边通常分上叶和下叶"
+      }
+    ]
   },
   {
     "section": "22-2-the-lungs",
@@ -567,12 +2960,59 @@
     "chapter": "12",
     "id": "12-02",
     "title_zh": "脏胸膜与壁胸膜",
-    "labels_zh": "visceral pleura 脏胸膜；parietal pleura 壁胸膜；pleural cavity 胸膜腔",
-    "guide_zh": "沿胸壁向肺表面追踪两层胸膜。图中间隙为便于显示而扩大，正常并不是充气空间。",
+    "labels_zh": "Lung 肺；Intercostal muscles / Intercostal muscle 肋间肌；Pleural sac 胸膜囊；Parietal pleura 壁胸膜；Visceral pleura 脏胸膜；Pleural cavity 胸膜腔；Diaphragm 膈；Chest wall (rib cage, sternum, thoracic vertebrae, connective tissue, intercostal muscles) 胸壁（肋廓、胸骨、胸椎、结缔组织与肋间肌）",
+    "guide_zh": "左图从胸部前方打开胸壁，画面右侧显露肺表面，框选处沿粗箭头放大到右图。左侧保留的肋骨和肋间肌说明胸壁结构，肺下方穹隆形膈把胸腔与腹腔分隔。 在右侧放大框，从右向左依次找肋骨与肋间肌区域、壁胸膜、胸膜腔、脏胸膜、肺。壁胸膜贴胸壁内面，脏胸膜贴肺表面，两者名称依据所贴结构，不能因画面左右互换名称。 两层胸膜之间仅为少量液体润湿的潜在间隙，图为标注把间距放大；这里正常不充呼吸空气。胸膜囊指包绕关系，而气管支气管中的气体走另一条路线，不能把箭头理解成空气由胸壁流入肺。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/12-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "左图从胸部前方打开胸壁，画面右侧显露肺表面，框选处沿粗箭头放大到右图。左侧保留的肋骨和肋间肌说明胸壁结构，肺下方穹隆形膈把胸腔与腹腔分隔。",
+      "在右侧放大框，从右向左依次找肋骨与肋间肌区域、壁胸膜、胸膜腔、脏胸膜、肺。壁胸膜贴胸壁内面，脏胸膜贴肺表面，两者名称依据所贴结构，不能因画面左右互换名称。",
+      "两层胸膜之间仅为少量液体润湿的潜在间隙，图为标注把间距放大；这里正常不充呼吸空气。胸膜囊指包绕关系，而气管支气管中的气体走另一条路线，不能把箭头理解成空气由胸壁流入肺。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Lung",
+        "zh": "肺",
+        "note": "放大框左侧为被脏胸膜覆盖的肺组织"
+      },
+      {
+        "en": "Intercostal muscles / Intercostal muscle",
+        "zh": "肋间肌",
+        "note": "位于肋骨之间并参与胸廓运动的肌层"
+      },
+      {
+        "en": "Pleural sac",
+        "zh": "胸膜囊",
+        "note": "胸膜包绕肺并形成封闭潜在间隙的整体"
+      },
+      {
+        "en": "Parietal pleura",
+        "zh": "壁胸膜",
+        "note": "贴胸壁等边界内面并位于放大框靠右侧"
+      },
+      {
+        "en": "Visceral pleura",
+        "zh": "脏胸膜",
+        "note": "紧贴肺表面并随肺裂向深处延伸"
+      },
+      {
+        "en": "Pleural cavity",
+        "zh": "胸膜腔",
+        "note": "两层胸膜之间含少量液体的潜在间隙"
+      },
+      {
+        "en": "Diaphragm",
+        "zh": "膈",
+        "note": "位于胸腔下界的穹隆形骨骼肌结构"
+      },
+      {
+        "en": "Chest wall (rib cage, sternum, thoracic vertebrae, connective tissue, intercostal muscles)",
+        "zh": "胸壁（肋廓、胸骨、胸椎、结缔组织与肋间肌）",
+        "note": "下方括线说明胸壁由多种骨与软组织共同构成"
+      }
+    ]
   },
   {
     "section": "22-1-organs-and-structures-of-the-respiratory-system",
@@ -586,13 +3026,85 @@
     "chapter": "12",
     "id": "12-03",
     "title_zh": "从细支气管走到肺泡",
-    "labels_zh": "alveolus 肺泡；capillary 毛细血管；respiratory membrane 呼吸膜",
-    "guide_zh": "把通气的腔道与运血的毛细血管分开，观察两者紧贴形成的交换界面。",
+    "labels_zh": "Alveolar pores 肺泡孔；Capillary 毛细血管；Respiratory membrane 呼吸膜；Type I alveolar cell Ⅰ型肺泡细胞；Macrophage 巨噬细胞；Alveolus (gas-filled space) / Alveolus 肺泡（含气腔隙）；Type II alveolar cell Ⅱ型肺泡细胞；Alveoli 肺泡（复数）；Alveolar duct 肺泡管；Blood vessels 血管；Lumen of bronchiole 细支气管腔；Alveolar sac 肺泡囊；(a) / (b) 示意放大图／组织显微图",
+    "guide_zh": "左上先看气道末端与成簇肺泡，红蓝细网表示贴近肺泡的血管；灰箭头把一个肺泡壁区域放大到左下(a)。箭头表示放大关系，不是气流或血流方向，肺泡内腔与血管腔始终分开。 左下扁平Ⅰ型肺泡细胞构成主要交换表面，Ⅱ型细胞分泌表面活性物质，巨噬细胞参与清除。呼吸膜位于肺泡与毛细血管相贴处，肺泡孔则连接相邻肺泡，不是通向血管的洞。 右侧(b)是染色组织切片：大片白色为腔隙，粉红薄隔是肺泡壁等组织。依标签分清肺泡、肺泡管和细支气管腔；截面形状受切割方向影响，不能把每个白洞都当成大小相同的球形肺泡。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/12-03.jpg",
     "after_section": 4,
-    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "左上先看气道末端与成簇肺泡，红蓝细网表示贴近肺泡的血管；灰箭头把一个肺泡壁区域放大到左下(a)。箭头表示放大关系，不是气流或血流方向，肺泡内腔与血管腔始终分开。",
+      "左下扁平Ⅰ型肺泡细胞构成主要交换表面，Ⅱ型细胞分泌表面活性物质，巨噬细胞参与清除。呼吸膜位于肺泡与毛细血管相贴处，肺泡孔则连接相邻肺泡，不是通向血管的洞。",
+      "右侧(b)是染色组织切片：大片白色为腔隙，粉红薄隔是肺泡壁等组织。依标签分清肺泡、肺泡管和细支气管腔；截面形状受切割方向影响，不能把每个白洞都当成大小相同的球形肺泡。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Alveolar pores",
+        "zh": "肺泡孔",
+        "note": "相邻肺泡之间的小孔不直接连通血液"
+      },
+      {
+        "en": "Capillary",
+        "zh": "毛细血管",
+        "note": "紧贴肺泡壁的细血管内可见红细胞"
+      },
+      {
+        "en": "Respiratory membrane",
+        "zh": "呼吸膜",
+        "note": "肺泡壁与毛细血管壁构成的薄交换屏障"
+      },
+      {
+        "en": "Type I alveolar cell",
+        "zh": "Ⅰ型肺泡细胞",
+        "note": "扁平细胞构成肺泡主要气体交换表面"
+      },
+      {
+        "en": "Macrophage",
+        "zh": "巨噬细胞",
+        "note": "肺泡表面或腔内参与吞噬清除异物"
+      },
+      {
+        "en": "Alveolus (gas-filled space) / Alveolus",
+        "zh": "肺泡（含气腔隙）",
+        "note": "左下中央空间容纳空气并与气道相连"
+      },
+      {
+        "en": "Type II alveolar cell",
+        "zh": "Ⅱ型肺泡细胞",
+        "note": "较饱满细胞产生表面活性物质帮助稳定肺泡"
+      },
+      {
+        "en": "Alveoli",
+        "zh": "肺泡（复数）",
+        "note": "右侧切片中由薄壁分隔的多个含气腔隙"
+      },
+      {
+        "en": "Alveolar duct",
+        "zh": "肺泡管",
+        "note": "右图较大气道末端通道沿壁开放肺泡"
+      },
+      {
+        "en": "Blood vessels",
+        "zh": "血管",
+        "note": "右图实质内有独立管壁的运输血液通道"
+      },
+      {
+        "en": "Lumen of bronchiole",
+        "zh": "细支气管腔",
+        "note": "右图上方较大腔道与周围肺泡腔相区别"
+      },
+      {
+        "en": "Alveolar sac",
+        "zh": "肺泡囊",
+        "note": "多枚肺泡开口相邻所组成的末端集合"
+      },
+      {
+        "en": "(a) / (b)",
+        "zh": "示意放大图／组织显微图",
+        "note": "左下示结构关系右侧示真实切片外观"
+      }
+    ]
   },
   {
     "section": "19-1-heart-anatomy",
@@ -606,12 +3118,134 @@
     "chapter": "13",
     "id": "13-01",
     "title_zh": "体循环与肺循环串联",
-    "labels_zh": "pulmonary circuit 肺循环；systemic circuit 体循环",
-    "guide_zh": "沿箭头走完整圈，确认右心到肺、左心到全身；红蓝色表示含氧状态的教学编码，不是血液的真实蓝色。",
+    "labels_zh": "Superior vena cava 上腔静脉；Inferior vena cava 下腔静脉；Right atrium 右心房；Right ventricle 右心室；Tricuspid valve 三尖瓣；Pulmonary semilunar valve 肺动脉瓣；Pulmonary trunk 肺动脉干；Right pulmonary arteries 右肺动脉分支；Left pulmonary arteries 左肺动脉分支；Right pulmonary veins 右肺静脉；Left pulmonary veins 左肺静脉；Left atrium 左心房；Mitral valve 二尖瓣；Left ventricle 左心室；Aortic semilunar valve 主动脉瓣；Aorta 主动脉；Systemic arteries to upper body 通往身体上部的体循环动脉；Systemic capillaries of upper body 身体上部的体循环毛细血管；Systemic veins from upper body 来自身体上部的体循环静脉；Pulmonary capillaries in lungs 肺内毛细血管；Systemic arteries to lower body 通往身体下部的体循环动脉；Systemic capillaries of lower body 身体下部的体循环毛细血管；Systemic veins from lower body 来自身体下部的体循环静脉",
+    "guide_zh": "先看下半幅的全身图：这是正面示意，人体右侧在画面左侧。沿蓝色静脉进入右心，再到两肺；红色血液回到左心后，经上下两路进入全身毛细血管，最后返回右心。 再看上方放大的心脏。依白箭头从右心房、三尖瓣到右心室，经肺动脉瓣进入肺动脉干；肺静脉带血回左心房，再经二尖瓣进入左心室，经主动脉瓣离开心脏。 肺循环与体循环串联，不能把两幅图看成两套独立血液。红蓝表示含氧相对高低，蓝色不是血液真色；肺动脉虽画蓝色，仍因离开心脏而称动脉。灰色大箭头只表示放大对应。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/13-01.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "先看下半幅的全身图：这是正面示意，人体右侧在画面左侧。沿蓝色静脉进入右心，再到两肺；红色血液回到左心后，经上下两路进入全身毛细血管，最后返回右心。",
+      "再看上方放大的心脏。依白箭头从右心房、三尖瓣到右心室，经肺动脉瓣进入肺动脉干；肺静脉带血回左心房，再经二尖瓣进入左心室，经主动脉瓣离开心脏。",
+      "肺循环与体循环串联，不能把两幅图看成两套独立血液。红蓝表示含氧相对高低，蓝色不是血液真色；肺动脉虽画蓝色，仍因离开心脏而称动脉。灰色大箭头只表示放大对应。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Superior vena cava",
+        "zh": "上腔静脉",
+        "note": "上方蓝色大血管，将血送回右心房"
+      },
+      {
+        "en": "Inferior vena cava",
+        "zh": "下腔静脉",
+        "note": "下方蓝色大血管，接收下部回流血液"
+      },
+      {
+        "en": "Right atrium",
+        "zh": "右心房",
+        "note": "画面左侧上腔室，接收体循环回流"
+      },
+      {
+        "en": "Right ventricle",
+        "zh": "右心室",
+        "note": "画面左侧下腔室，将血泵向肺循环"
+      },
+      {
+        "en": "Tricuspid valve",
+        "zh": "三尖瓣",
+        "note": "位于右心房与右心室之间的瓣膜"
+      },
+      {
+        "en": "Pulmonary semilunar valve",
+        "zh": "肺动脉瓣",
+        "note": "右心室流出端的半月瓣，限制倒流"
+      },
+      {
+        "en": "Pulmonary trunk",
+        "zh": "肺动脉干",
+        "note": "离开右心室后分向左右肺的血管"
+      },
+      {
+        "en": "Right pulmonary arteries",
+        "zh": "右肺动脉分支",
+        "note": "伸向画面左边，把血带往人体右肺"
+      },
+      {
+        "en": "Left pulmonary arteries",
+        "zh": "左肺动脉分支",
+        "note": "伸向画面右边，把血带往人体左肺"
+      },
+      {
+        "en": "Right pulmonary veins",
+        "zh": "右肺静脉",
+        "note": "来自人体右肺，含氧血流向左心房"
+      },
+      {
+        "en": "Left pulmonary veins",
+        "zh": "左肺静脉",
+        "note": "来自人体左肺，含氧血流向左心房"
+      },
+      {
+        "en": "Left atrium",
+        "zh": "左心房",
+        "note": "画面右侧上腔室，接收肺静脉血液"
+      },
+      {
+        "en": "Mitral valve",
+        "zh": "二尖瓣",
+        "note": "位于左心房与左心室之间的瓣膜"
+      },
+      {
+        "en": "Left ventricle",
+        "zh": "左心室",
+        "note": "画面右侧下腔室，将血泵向体循环"
+      },
+      {
+        "en": "Aortic semilunar valve",
+        "zh": "主动脉瓣",
+        "note": "左心室接主动脉处的半月形瓣膜"
+      },
+      {
+        "en": "Aorta",
+        "zh": "主动脉",
+        "note": "上方红色弓形大血管，通向全身"
+      },
+      {
+        "en": "Systemic arteries to upper body",
+        "zh": "通往身体上部的体循环动脉",
+        "note": "下图向头颈及上肢方向送血的红管"
+      },
+      {
+        "en": "Systemic capillaries of upper body",
+        "zh": "身体上部的体循环毛细血管",
+        "note": "下图头颈区域交换物质的血管网"
+      },
+      {
+        "en": "Systemic veins from upper body",
+        "zh": "来自身体上部的体循环静脉",
+        "note": "下图头颈区域向右心回流的蓝管"
+      },
+      {
+        "en": "Pulmonary capillaries in lungs",
+        "zh": "肺内毛细血管",
+        "note": "下图两肺中的血管网，参与气体交换"
+      },
+      {
+        "en": "Systemic arteries to lower body",
+        "zh": "通往身体下部的体循环动脉",
+        "note": "下图向腹部及下肢方向送血的红管"
+      },
+      {
+        "en": "Systemic capillaries of lower body",
+        "zh": "身体下部的体循环毛细血管",
+        "note": "下图最下方发生组织交换的血管网"
+      },
+      {
+        "en": "Systemic veins from lower body",
+        "zh": "来自身体下部的体循环静脉",
+        "note": "下图由身体下部向右心回流的蓝管"
+      }
+    ]
   },
   {
     "section": "19-1-heart-anatomy",
@@ -625,12 +3259,149 @@
     "chapter": "13",
     "id": "13-02",
     "title_zh": "心脏四腔、瓣膜与大血管",
-    "labels_zh": "atrium 心房；ventricle 心室；septum 中隔",
-    "guide_zh": "先辨左右心，再沿房室瓣和流出道追踪血液。图中人体左侧通常在画面右侧。",
+    "labels_zh": "Anterior view 前面观；Aorta 主动脉；Superior vena cava 上腔静脉；Inferior vena cava 下腔静脉；Right pulmonary artery 右肺动脉；Left pulmonary artery 左肺动脉；Pulmonary trunk 肺动脉干；Right pulmonary veins 右肺静脉；Left pulmonary veins 左肺静脉；Right atrium 右心房；Left atrium 左心房；Fossa ovalis 卵圆窝；Tricuspid valve 三尖瓣；Mitral (bicuspid) valve 二尖瓣（左房室瓣）；Aortic valve 主动脉瓣；Pulmonary valve 肺动脉瓣；Right ventricle 右心室；Left ventricle 左心室；Chordae tendineae 腱索；Papillary muscle 乳头肌；Trabeculae carneae 肉柱；Moderator band 节制索（隔缘肉柱）；Interventricular septum 室间隔；Epicardium 心外膜；Myocardium 心肌层；Endocardium 心内膜",
+    "guide_zh": "这是一幅从前方观看、切去部分前壁的心脏图，并非三张不同照片。人体右心在画面左边，左心在右边；先找上方两心房、下方两心室，再看中间较厚的室间隔。 沿房室之间的白色瓣叶向下，能找到腱索和乳头肌。它们帮助瓣叶在心室收缩时保持位置，并不负责把瓣膜拉开；右侧三尖瓣与左侧二尖瓣需分别认读。 随后找上方主动脉与蓝色肺动脉干的出口，辨认两处半月瓣。最后看画面右下的心壁，从外到内依次为心外膜、心肌层与心内膜；心室内起伏的肉柱不应当作额外隔墙。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/13-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "这是一幅从前方观看、切去部分前壁的心脏图，并非三张不同照片。人体右心在画面左边，左心在右边；先找上方两心房、下方两心室，再看中间较厚的室间隔。",
+      "沿房室之间的白色瓣叶向下，能找到腱索和乳头肌。它们帮助瓣叶在心室收缩时保持位置，并不负责把瓣膜拉开；右侧三尖瓣与左侧二尖瓣需分别认读。",
+      "随后找上方主动脉与蓝色肺动脉干的出口，辨认两处半月瓣。最后看画面右下的心壁，从外到内依次为心外膜、心肌层与心内膜；心室内起伏的肉柱不应当作额外隔墙。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Anterior view",
+        "zh": "前面观",
+        "note": "表示从人体前方观察，左右需反转"
+      },
+      {
+        "en": "Aorta",
+        "zh": "主动脉",
+        "note": "上方红色弓形血管，离开左心室"
+      },
+      {
+        "en": "Superior vena cava",
+        "zh": "上腔静脉",
+        "note": "画面左上蓝色大管，进入右心房"
+      },
+      {
+        "en": "Inferior vena cava",
+        "zh": "下腔静脉",
+        "note": "画面左下蓝色大管，进入右心房"
+      },
+      {
+        "en": "Right pulmonary artery",
+        "zh": "右肺动脉",
+        "note": "画面左上横行分支，通往人体右肺"
+      },
+      {
+        "en": "Left pulmonary artery",
+        "zh": "左肺动脉",
+        "note": "画面右上蓝色分支，通往人体左肺"
+      },
+      {
+        "en": "Pulmonary trunk",
+        "zh": "肺动脉干",
+        "note": "上方中央蓝色血管，连接右心室出口"
+      },
+      {
+        "en": "Right pulmonary veins",
+        "zh": "右肺静脉",
+        "note": "人体右肺回流血管，图中从左方进入"
+      },
+      {
+        "en": "Left pulmonary veins",
+        "zh": "左肺静脉",
+        "note": "画面右上红色短管，回流至左心房"
+      },
+      {
+        "en": "Right atrium",
+        "zh": "右心房",
+        "note": "画面左上的腔室，汇集体循环回流"
+      },
+      {
+        "en": "Left atrium",
+        "zh": "左心房",
+        "note": "画面右上的腔室，接收来自肺的血液"
+      },
+      {
+        "en": "Fossa ovalis",
+        "zh": "卵圆窝",
+        "note": "房间隔右房面上的凹陷，为胎儿通道遗迹"
+      },
+      {
+        "en": "Tricuspid valve",
+        "zh": "三尖瓣",
+        "note": "右心房与右心室之间的房室瓣膜"
+      },
+      {
+        "en": "Mitral (bicuspid) valve",
+        "zh": "二尖瓣（左房室瓣）",
+        "note": "左心房与左心室之间的房室瓣膜"
+      },
+      {
+        "en": "Aortic valve",
+        "zh": "主动脉瓣",
+        "note": "左心室流入主动脉前经过的半月瓣"
+      },
+      {
+        "en": "Pulmonary valve",
+        "zh": "肺动脉瓣",
+        "note": "右心室接肺动脉干处的半月瓣膜"
+      },
+      {
+        "en": "Right ventricle",
+        "zh": "右心室",
+        "note": "画面左下腔室，与肺循环出口相连"
+      },
+      {
+        "en": "Left ventricle",
+        "zh": "左心室",
+        "note": "画面右下腔室，肌壁较右心室厚"
+      },
+      {
+        "en": "Chordae tendineae",
+        "zh": "腱索",
+        "note": "连接房室瓣叶与乳头肌的白色细索"
+      },
+      {
+        "en": "Papillary muscle",
+        "zh": "乳头肌",
+        "note": "心室壁突起，收缩时帮助拉紧腱索"
+      },
+      {
+        "en": "Trabeculae carneae",
+        "zh": "肉柱",
+        "note": "心室内壁的肌性起伏，并非腱索"
+      },
+      {
+        "en": "Moderator band",
+        "zh": "节制索（隔缘肉柱）",
+        "note": "横跨右心室的肌束，传导纤维经此"
+      },
+      {
+        "en": "Interventricular septum",
+        "zh": "室间隔",
+        "note": "中央分隔左右心室的肌性组织壁"
+      },
+      {
+        "en": "Epicardium",
+        "zh": "心外膜",
+        "note": "心壁最外侧，也属于浆膜心包脏层"
+      },
+      {
+        "en": "Myocardium",
+        "zh": "心肌层",
+        "note": "心壁中主要产生收缩力的厚肌层"
+      },
+      {
+        "en": "Endocardium",
+        "zh": "心内膜",
+        "note": "贴衬心腔内面并覆盖相关结构的薄层"
+      }
+    ]
   },
   {
     "section": "20-1-structure-and-function-of-blood-vessels",
@@ -643,14 +3414,96 @@
     "figure_id": "fig-ch21_01_02",
     "chapter": "14",
     "id": "14-01",
-    "title_zh": "动脉、静脉与毛细血管的管壁",
-    "labels_zh": "tunica intima 内膜；tunica media 中膜；tunica externa 外膜",
-    "guide_zh": "比较中膜厚度与管腔，再看毛细血管的简化管壁。动静脉由流向心脏的关系定义。",
+    "title_zh": "动脉与静脉的管壁比较",
+    "labels_zh": "Artery 动脉；Vein 静脉；Tunica intima 内膜；Tunica media 中膜；Tunica externa 外膜；Smooth muscle 平滑肌；Internal elastic membrane 内弹性膜；External elastic membrane 外弹性膜；Elastic fiber 弹性纤维；Endothelium 内皮；Vasa vasorum 滋养血管；Nervi vasorum 血管神经；(a) 分图a：动脉示意；(b) 分图b：静脉示意；(c) 分图c：组织切片",
+    "guide_zh": "上方左图为动脉，右图为静脉，下面是两者的组织切片；这张图没有毛细血管分图。先从白色管腔一侧向外看，依次辨认内膜、中膜、外膜，再比较动脉较厚的中膜。 动脉图中的波浪线是弹性膜，细小交错丝线表示弹性纤维；红色细长细胞是平滑肌。管壁内另有滋养血管与神经，它们服务于血管壁，并非大管腔内的血液分支。 最后看下方切片：动脉较圆、壁厚，静脉管腔较不规则且有塌陷。这是本次切片的形态，不能把圆扁作为唯一鉴别标准；还须一起比较管壁层次与相对厚度。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/14-01.jpg",
     "after_section": 2,
-    "additional_credit": "Micrograph provided by the Regents of the University of Michigan Medical School © 2012"
+    "additional_credit": "Micrograph provided by the Regents of the University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "上方左图为动脉，右图为静脉，下面是两者的组织切片；这张图没有毛细血管分图。先从白色管腔一侧向外看，依次辨认内膜、中膜、外膜，再比较动脉较厚的中膜。",
+      "动脉图中的波浪线是弹性膜，细小交错丝线表示弹性纤维；红色细长细胞是平滑肌。管壁内另有滋养血管与神经，它们服务于血管壁，并非大管腔内的血液分支。",
+      "最后看下方切片：动脉较圆、壁厚，静脉管腔较不规则且有塌陷。这是本次切片的形态，不能把圆扁作为唯一鉴别标准；还须一起比较管壁层次与相对厚度。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Artery",
+        "zh": "动脉",
+        "note": "上方左图及下方圆形较厚壁血管"
+      },
+      {
+        "en": "Vein",
+        "zh": "静脉",
+        "note": "上方右图及下方较扁不规则血管"
+      },
+      {
+        "en": "Tunica intima",
+        "zh": "内膜",
+        "note": "面向管腔的一层，包含内皮等结构"
+      },
+      {
+        "en": "Tunica media",
+        "zh": "中膜",
+        "note": "内外膜之间，平滑肌及弹性成分较多"
+      },
+      {
+        "en": "Tunica externa",
+        "zh": "外膜",
+        "note": "最外侧结缔组织层，与周围组织相连"
+      },
+      {
+        "en": "Smooth muscle",
+        "zh": "平滑肌",
+        "note": "红色细长细胞，参与调节血管管径"
+      },
+      {
+        "en": "Internal elastic membrane",
+        "zh": "内弹性膜",
+        "note": "动脉图靠近管腔的波浪状弹性界面"
+      },
+      {
+        "en": "External elastic membrane",
+        "zh": "外弹性膜",
+        "note": "动脉中膜与外膜之间的弹性层次"
+      },
+      {
+        "en": "Elastic fiber",
+        "zh": "弹性纤维",
+        "note": "动脉壁交错细丝，帮助伸展与回弹"
+      },
+      {
+        "en": "Endothelium",
+        "zh": "内皮",
+        "note": "紧贴管腔、直接接触血液的细胞衬里"
+      },
+      {
+        "en": "Vasa vasorum",
+        "zh": "滋养血管",
+        "note": "大血管壁中的小血管，供养管壁组织"
+      },
+      {
+        "en": "Nervi vasorum",
+        "zh": "血管神经",
+        "note": "管壁中的神经，参与血管活动调节"
+      },
+      {
+        "en": "(a)",
+        "zh": "分图a：动脉示意",
+        "note": "对应上方左图，重点比较管壁层次"
+      },
+      {
+        "en": "(b)",
+        "zh": "分图b：静脉示意",
+        "note": "对应上方右图，中膜相对较薄一些"
+      },
+      {
+        "en": "(c)",
+        "zh": "分图c：组织切片",
+        "note": "对应下方照片，比较真实管壁与管腔"
+      }
+    ]
   },
   {
     "section": "21-1-anatomy-of-the-lymphatic-and-immune-systems",
@@ -664,12 +3517,84 @@
     "chapter": "14",
     "id": "14-02",
     "title_zh": "组织液如何进入淋巴毛细管",
-    "labels_zh": "interstitial fluid 组织液；lymphatic capillary 淋巴毛细管",
-    "guide_zh": "比较血毛细管与盲端起始的淋巴毛细管；进入后者的组织液称为淋巴。",
+    "labels_zh": "Lymph capillaries in the tissue spaces 组织间隙中的淋巴毛细管；Arteriole 微动脉；Venule 微静脉；Lymph capillary 淋巴毛细管；Lymphatic vessel 淋巴管；Tissue fluid 组织液；Tissue cells 组织细胞；Collagen fiber 胶原纤维；Interstitial fluid 组织间液（组织液）；Lymph (interstitial fluid) 淋巴（进入管内的组织液）；Endothelial “flaps” 内皮瓣片样边缘；Lymph vessel endothelial cells 淋巴管内皮细胞；Backflow prevention valve 防回流瓣样结构",
+    "guide_zh": "先看左半幅：红色微动脉分成血毛细管网，再汇入蓝色微静脉；绿色盲端管道夹在组织细胞之间，是淋巴毛细管。黑色小箭头提示组织液在血管外间隙中的移动。 灰色弯箭头把一个局部放大到右侧。那里显示淋巴管壁的内皮细胞彼此重叠，形成可开启的瓣片样边缘；组织液从间隙进入后，才称为管内淋巴。 沿右侧黑箭头向下读，可见防回流的瓣样结构。蓝色胶原纤维把管壁锚定在周围组织中。不要把灰色放大箭头当作液体流向，也不要把绿色管道误认成血管网的另一条静脉。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/14-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "先看左半幅：红色微动脉分成血毛细管网，再汇入蓝色微静脉；绿色盲端管道夹在组织细胞之间，是淋巴毛细管。黑色小箭头提示组织液在血管外间隙中的移动。",
+      "灰色弯箭头把一个局部放大到右侧。那里显示淋巴管壁的内皮细胞彼此重叠，形成可开启的瓣片样边缘；组织液从间隙进入后，才称为管内淋巴。",
+      "沿右侧黑箭头向下读，可见防回流的瓣样结构。蓝色胶原纤维把管壁锚定在周围组织中。不要把灰色放大箭头当作液体流向，也不要把绿色管道误认成血管网的另一条静脉。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Lymph capillaries in the tissue spaces",
+        "zh": "组织间隙中的淋巴毛细管",
+        "note": "全图主题，强调管道位于细胞之间"
+      },
+      {
+        "en": "Arteriole",
+        "zh": "微动脉",
+        "note": "左方红色供血小管，接入毛细血管网"
+      },
+      {
+        "en": "Venule",
+        "zh": "微静脉",
+        "note": "左图右侧蓝色小管，汇集毛细血管血流"
+      },
+      {
+        "en": "Lymph capillary",
+        "zh": "淋巴毛细管",
+        "note": "左图绿色盲端小管，收集局部组织液"
+      },
+      {
+        "en": "Lymphatic vessel",
+        "zh": "淋巴管",
+        "note": "左图较大绿色通路，接续淋巴回流"
+      },
+      {
+        "en": "Tissue fluid",
+        "zh": "组织液",
+        "note": "左图血管外、细胞间隙中的液体"
+      },
+      {
+        "en": "Tissue cells",
+        "zh": "组织细胞",
+        "note": "浅黄色带红褐色细胞核的周围细胞"
+      },
+      {
+        "en": "Collagen fiber",
+        "zh": "胶原纤维",
+        "note": "右图蓝色细丝，将淋巴管壁锚定"
+      },
+      {
+        "en": "Interstitial fluid",
+        "zh": "组织间液（组织液）",
+        "note": "右图管道外、细胞之间的液体环境"
+      },
+      {
+        "en": "Lymph (interstitial fluid)",
+        "zh": "淋巴（进入管内的组织液）",
+        "note": "右图绿色管腔内，已进入淋巴回流路线"
+      },
+      {
+        "en": "Endothelial “flaps”",
+        "zh": "内皮瓣片样边缘",
+        "note": "重叠内皮形成的入口，帮助单向进入"
+      },
+      {
+        "en": "Lymph vessel endothelial cells",
+        "zh": "淋巴管内皮细胞",
+        "note": "构成绿色管壁，图中可见紫色细胞核"
+      },
+      {
+        "en": "Backflow prevention valve",
+        "zh": "防回流瓣样结构",
+        "note": "右图下方，帮助限制淋巴向后倒流"
+      }
+    ]
   },
   {
     "section": "21-1-anatomy-of-the-lymphatic-and-immune-systems",
@@ -683,12 +3608,64 @@
     "chapter": "14",
     "id": "14-03",
     "title_zh": "淋巴系统的回流路线",
-    "labels_zh": "lymph node 淋巴结；thoracic duct 胸导管；spleen 脾",
-    "guide_zh": "从肢端向躯干追踪管道，注意淋巴结沿路分布，脾参与过滤血液而非直接过滤淋巴。",
+    "labels_zh": "Adenoid 腺样体（咽扁桃体）；Tonsil 扁桃体；Right lymphatic duct, entering vein 右淋巴导管汇入静脉；Lymph nodes 淋巴结群；Lymph node 淋巴结；Thymus 胸腺；Spleen 脾；Bone marrow 骨髓；Lymph vessel 淋巴管",
+    "guide_zh": "这是从前方看的全身图，人体左侧在画面右边。绿色细线为淋巴管，沿途小结节为淋巴结；先从手足向躯干追踪，再找颈根部淋巴管接入蓝色静脉的位置。 头部另标腺样体和扁桃体，胸前白色组织是胸腺。灰色弯箭头只把胸腺放大到右上角，那里不是淋巴结剖面，也不表示淋巴从胸部流出到身体外。 右侧画面的紫色脾属于人体左上腹；大腿切开的骨显示骨髓。这些器官共同参与免疫相关工作，却不都负责过滤淋巴：淋巴结处理淋巴，脾主要处理血液，骨髓参与血细胞形成。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/14-03.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "这是从前方看的全身图，人体左侧在画面右边。绿色细线为淋巴管，沿途小结节为淋巴结；先从手足向躯干追踪，再找颈根部淋巴管接入蓝色静脉的位置。",
+      "头部另标腺样体和扁桃体，胸前白色组织是胸腺。灰色弯箭头只把胸腺放大到右上角，那里不是淋巴结剖面，也不表示淋巴从胸部流出到身体外。",
+      "右侧画面的紫色脾属于人体左上腹；大腿切开的骨显示骨髓。这些器官共同参与免疫相关工作，却不都负责过滤淋巴：淋巴结处理淋巴，脾主要处理血液，骨髓参与血细胞形成。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Adenoid",
+        "zh": "腺样体（咽扁桃体）",
+        "note": "头部较上方黄色组织，邻近鼻咽区域"
+      },
+      {
+        "en": "Tonsil",
+        "zh": "扁桃体",
+        "note": "头部较下方黄色组织，位于咽部附近"
+      },
+      {
+        "en": "Right lymphatic duct, entering vein",
+        "zh": "右淋巴导管汇入静脉",
+        "note": "画面左侧颈根部，是人体右侧回流入口"
+      },
+      {
+        "en": "Lymph nodes",
+        "zh": "淋巴结群",
+        "note": "胸肩及其他区域沿淋巴管分布的小结节"
+      },
+      {
+        "en": "Lymph node",
+        "zh": "淋巴结",
+        "note": "右侧大腿引线所指的单个绿色结节"
+      },
+      {
+        "en": "Thymus",
+        "zh": "胸腺",
+        "note": "胸前白色分叶组织，右上为其放大图"
+      },
+      {
+        "en": "Spleen",
+        "zh": "脾",
+        "note": "画面右侧紫色器官，实际位于左上腹"
+      },
+      {
+        "en": "Bone marrow",
+        "zh": "骨髓",
+        "note": "大腿骨切开后露出的内部组织区域"
+      },
+      {
+        "en": "Lymph vessel",
+        "zh": "淋巴管",
+        "note": "四肢与躯干绿色通路，输送淋巴回流"
+      }
+    ]
   },
   {
     "section": "23-1-overview-of-the-digestive-system",
@@ -702,12 +3679,84 @@
     "chapter": "15",
     "id": "15-01",
     "title_zh": "腹膜与肠系膜的反折",
-    "labels_zh": "parietal peritoneum 壁腹膜；visceral peritoneum 脏腹膜；mesentery 肠系膜",
-    "guide_zh": "沿同一层膜从腹壁走向器官表面，理解反折与悬系；正常腹膜腔为含少量液体的潜在间隙。",
+    "labels_zh": "Vertebra 椎骨；Spinal cord 脊髓；Kidney 肾；Pancreas 胰腺；Liver 肝；Gallbladder 胆囊；Spleen 脾；Small intestine 小肠；Large intestine 大肠；Stomach 胃；Visceral peritoneum 脏腹膜；Parietal peritoneum 壁腹膜；Peritoneal cavity 腹膜腔",
+    "guide_zh": "右上角小人上的横线说明切面高度。主图上方是后方、下方是前方；按常见从足端看的横断显示，人体右侧在画面左边。先用上方椎骨和椎管内脊髓固定方向。 接着沿腹壁内缘找壁腹膜，再沿器官表面找脏腹膜。两层之间的蓝绿间隙表示被夸张放宽的腹膜腔，并非腹腔内真的有这么宽的空水带；膜的反折联系器官与腹壁。 最后比较上方两肾与中下方胃肠：肾在壁腹膜后方，胃肠不同部分与腹膜的关系各异。多个肠管截面属于弯曲肠袢，不代表互不相连的新器官；本图也为教学简化了实际位置。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/15-01.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "右上角小人上的横线说明切面高度。主图上方是后方、下方是前方；按常见从足端看的横断显示，人体右侧在画面左边。先用上方椎骨和椎管内脊髓固定方向。",
+      "接着沿腹壁内缘找壁腹膜，再沿器官表面找脏腹膜。两层之间的蓝绿间隙表示被夸张放宽的腹膜腔，并非腹腔内真的有这么宽的空水带；膜的反折联系器官与腹壁。",
+      "最后比较上方两肾与中下方胃肠：肾在壁腹膜后方，胃肠不同部分与腹膜的关系各异。多个肠管截面属于弯曲肠袢，不代表互不相连的新器官；本图也为教学简化了实际位置。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Vertebra",
+        "zh": "椎骨",
+        "note": "上方后正中骨性结构，用于确定后方"
+      },
+      {
+        "en": "Spinal cord",
+        "zh": "脊髓",
+        "note": "椎管内中央小圆结构，位于后正中"
+      },
+      {
+        "en": "Kidney",
+        "zh": "肾",
+        "note": "上方两侧器官，位于壁腹膜的后方"
+      },
+      {
+        "en": "Pancreas",
+        "zh": "胰腺",
+        "note": "引线指向靠后中央附近的腺性器官"
+      },
+      {
+        "en": "Liver",
+        "zh": "肝",
+        "note": "画面左侧大器官，属于人体右侧区域"
+      },
+      {
+        "en": "Gallbladder",
+        "zh": "胆囊",
+        "note": "邻近肝下缘的小囊，参与胆汁储存"
+      },
+      {
+        "en": "Spleen",
+        "zh": "脾",
+        "note": "画面右上外侧器官，属于人体左侧"
+      },
+      {
+        "en": "Small intestine",
+        "zh": "小肠",
+        "note": "可见带皱褶的多个肠管截面与反折"
+      },
+      {
+        "en": "Large intestine",
+        "zh": "大肠",
+        "note": "两侧较小圆形肠管截面，按引线识别"
+      },
+      {
+        "en": "Stomach",
+        "zh": "胃",
+        "note": "画面右下的较大空腔结构，位于偏前"
+      },
+      {
+        "en": "Visceral peritoneum",
+        "zh": "脏腹膜",
+        "note": "贴着器官表面的浆膜，与壁层相续"
+      },
+      {
+        "en": "Parietal peritoneum",
+        "zh": "壁腹膜",
+        "note": "衬在腹壁内面的浆膜，围出腹膜界面"
+      },
+      {
+        "en": "Peritoneal cavity",
+        "zh": "腹膜腔",
+        "note": "蓝绿间隙为放大表示，正常仅有少量液体"
+      }
+    ]
   },
   {
     "section": "23-1-overview-of-the-digestive-system",
@@ -721,12 +3770,154 @@
     "chapter": "15",
     "id": "15-02",
     "title_zh": "腹部消化器官的总体位置",
-    "labels_zh": "liver 肝；stomach 胃；pancreas 胰；small intestine 小肠",
-    "guide_zh": "先认肝胃，再找胃后方的胰与下方肠管。前视展开图不能完整表达器官彼此前后遮挡。",
+    "labels_zh": "Mouth 口腔；Tongue 舌；Salivary glands: 唾液腺；Parotid gland 腮腺；Sublingual gland 舌下腺；Submandibular gland 下颌下腺；Pharynx 咽；Esophagus 食管；Liver 肝；Gallbladder 胆囊；Stomach 胃；Spleen 脾；Pancreas 胰腺；Small intestine: 小肠；Duodenum 十二指肠；Jejunum 空肠；Ileum 回肠；Large intestine: 大肠；Cecum 盲肠；Appendix 阑尾；Ascending colon 升结肠；Transverse colon 横结肠；Descending colon 降结肠；Sigmoid colon 乙状结肠；Rectum 直肠；Anal canal 肛管；Anus 肛门",
+    "guide_zh": "先从上向下追踪真正让食物经过的路线：口腔、咽、食管、胃、小肠、大肠、直肠与肛管。头部使用侧面示意，腹部则展开为前方视角，因此不是同一张严格切面。 腹部画面左上是人体右侧的肝，画面右上是偏左的胃；胃后的胰被显露，脾画在胃的外侧。唾液腺、肝、胆囊和胰通过分泌物参与消化，食物不会穿过这些腺体。 再沿外周大肠找升、横、降、乙状结肠，中央为弯曲小肠。阑尾从盲肠旁伸出，不是食物必经的主路；脾虽一起画出，却不属于分泌消化液的附属消化器官。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/15-02.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "先从上向下追踪真正让食物经过的路线：口腔、咽、食管、胃、小肠、大肠、直肠与肛管。头部使用侧面示意，腹部则展开为前方视角，因此不是同一张严格切面。",
+      "腹部画面左上是人体右侧的肝，画面右上是偏左的胃；胃后的胰被显露，脾画在胃的外侧。唾液腺、肝、胆囊和胰通过分泌物参与消化，食物不会穿过这些腺体。",
+      "再沿外周大肠找升、横、降、乙状结肠，中央为弯曲小肠。阑尾从盲肠旁伸出，不是食物必经的主路；脾虽一起画出，却不属于分泌消化液的附属消化器官。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Mouth",
+        "zh": "口腔",
+        "note": "食物入口，图中头部用侧面显示"
+      },
+      {
+        "en": "Tongue",
+        "zh": "舌",
+        "note": "口腔内肌性器官，参与处理与推送食物"
+      },
+      {
+        "en": "Salivary glands:",
+        "zh": "唾液腺",
+        "note": "头部三组腺体的总称，向口腔分泌唾液"
+      },
+      {
+        "en": "Parotid gland",
+        "zh": "腮腺",
+        "note": "耳前附近较大的黄色分叶状腺体"
+      },
+      {
+        "en": "Sublingual gland",
+        "zh": "舌下腺",
+        "note": "口底舌下的小唾液腺，按引线定位"
+      },
+      {
+        "en": "Submandibular gland",
+        "zh": "下颌下腺",
+        "note": "下颌骨下方腺体，分泌进入口腔"
+      },
+      {
+        "en": "Pharynx",
+        "zh": "咽",
+        "note": "口鼻腔后方通道，向下与食管相接"
+      },
+      {
+        "en": "Esophagus",
+        "zh": "食管",
+        "note": "颈胸部纵行管道，将食团送到胃"
+      },
+      {
+        "en": "Liver",
+        "zh": "肝",
+        "note": "腹部画面左上的大器官，产生胆汁"
+      },
+      {
+        "en": "Gallbladder",
+        "zh": "胆囊",
+        "note": "肝下绿色小囊，储存并浓缩胆汁"
+      },
+      {
+        "en": "Stomach",
+        "zh": "胃",
+        "note": "画面右上弯曲囊状器官，连接食管"
+      },
+      {
+        "en": "Spleen",
+        "zh": "脾",
+        "note": "胃外侧紫色器官，主要处理血液"
+      },
+      {
+        "en": "Pancreas",
+        "zh": "胰腺",
+        "note": "胃后方黄色腺体，图中被显露以便观察"
+      },
+      {
+        "en": "Small intestine:",
+        "zh": "小肠",
+        "note": "中央盘曲管道的总称，分为三个区域"
+      },
+      {
+        "en": "Duodenum",
+        "zh": "十二指肠",
+        "note": "接胃幽门的起始段，绕过胰头附近"
+      },
+      {
+        "en": "Jejunum",
+        "zh": "空肠",
+        "note": "小肠中段，与回肠之间无明显外界线"
+      },
+      {
+        "en": "Ileum",
+        "zh": "回肠",
+        "note": "小肠末段，向下连接右下腹的盲肠"
+      },
+      {
+        "en": "Large intestine:",
+        "zh": "大肠",
+        "note": "多从中央小肠外围绕行的较粗管道"
+      },
+      {
+        "en": "Cecum",
+        "zh": "盲肠",
+        "note": "画面左下囊状起始部，接收回肠内容物"
+      },
+      {
+        "en": "Appendix",
+        "zh": "阑尾",
+        "note": "从盲肠旁伸出的小管，不是主通路"
+      },
+      {
+        "en": "Ascending colon",
+        "zh": "升结肠",
+        "note": "画面左侧向上走行，位于人体右侧"
+      },
+      {
+        "en": "Transverse colon",
+        "zh": "横结肠",
+        "note": "腹部上方横向连接左右两侧结肠"
+      },
+      {
+        "en": "Descending colon",
+        "zh": "降结肠",
+        "note": "画面右侧向下走行，位于人体左侧"
+      },
+      {
+        "en": "Sigmoid colon",
+        "zh": "乙状结肠",
+        "note": "下部弯曲结肠，继续连接直肠"
+      },
+      {
+        "en": "Rectum",
+        "zh": "直肠",
+        "note": "下部接近正中的末段，向肛管延续"
+      },
+      {
+        "en": "Anal canal",
+        "zh": "肛管",
+        "note": "直肠之后的末端管道，开口于肛门"
+      },
+      {
+        "en": "Anus",
+        "zh": "肛门",
+        "note": "最下方体外开口，是消化管终点"
+      }
+    ]
   },
   {
     "section": "23-4-the-stomach",
@@ -740,12 +3931,104 @@
     "chapter": "16",
     "id": "16-01",
     "title_zh": "胃的入口、出口和壁层",
-    "labels_zh": "cardia 贲门；pylorus 幽门；rugae 胃襞",
-    "guide_zh": "从食管入口到十二指肠出口，观察弯曲的胃形和肌层。胃襞随充盈改变，图示不是固定折纸结构。",
+    "labels_zh": "Esophagus 食管；Muscularis externa: 肌层；Longitudinal layer 纵行肌层；Circular layer 环行肌层；Oblique layer 斜行肌层；Cardia 贲门部；Fundus 胃底；Body 胃体；Serosa 浆膜；Lumen 胃腔；Rugae of mucosa 胃黏膜皱襞（胃襞）；Lesser curvature 胃小弯；Greater curvature 胃大弯；Pyloric antrum 幽门窦；Pyloric canal 幽门管；Pyloric sphincter (valve) at pylorus 幽门处的幽门括约肌；Duodenum 十二指肠",
+    "guide_zh": "从左上食管进入贲门，先认右上隆起的胃底和右侧较大的胃体，再沿下部胃窦、幽门管找到左侧十二指肠。图把胃壁局部翻开，才同时看到肌层和胃腔。 左上三条引线分别指出纵行、环行、斜行肌层；斜行肌束是胃壁搅拌能力的一项结构基础。右侧最外面薄层为浆膜，胃腔内的起伏则是黏膜皱襞，不是同一层肌束。 靠幽门出口的环形增厚为幽门括约肌，参与控制排空。胃大弯和小弯旁的黑色双向弧箭头只标示两条弯曲边缘的范围，不表示食物沿胃外缘来回流动。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/16-01.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "从左上食管进入贲门，先认右上隆起的胃底和右侧较大的胃体，再沿下部胃窦、幽门管找到左侧十二指肠。图把胃壁局部翻开，才同时看到肌层和胃腔。",
+      "左上三条引线分别指出纵行、环行、斜行肌层；斜行肌束是胃壁搅拌能力的一项结构基础。右侧最外面薄层为浆膜，胃腔内的起伏则是黏膜皱襞，不是同一层肌束。",
+      "靠幽门出口的环形增厚为幽门括约肌，参与控制排空。胃大弯和小弯旁的黑色双向弧箭头只标示两条弯曲边缘的范围，不表示食物沿胃外缘来回流动。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Esophagus",
+        "zh": "食管",
+        "note": "左上管道，经贲门将食物送入胃"
+      },
+      {
+        "en": "Muscularis externa:",
+        "zh": "肌层",
+        "note": "图中被翻开显示的平滑肌层总称"
+      },
+      {
+        "en": "Longitudinal layer",
+        "zh": "纵行肌层",
+        "note": "肌层外部，肌束大体沿胃长轴走行"
+      },
+      {
+        "en": "Circular layer",
+        "zh": "环行肌层",
+        "note": "肌层中间，肌束环绕胃腔方向排列"
+      },
+      {
+        "en": "Oblique layer",
+        "zh": "斜行肌层",
+        "note": "胃的内侧斜行肌束，帮助混合内容物"
+      },
+      {
+        "en": "Cardia",
+        "zh": "贲门部",
+        "note": "食管接入胃的入口附近区域名称"
+      },
+      {
+        "en": "Fundus",
+        "zh": "胃底",
+        "note": "画面右上方穹隆状隆起，邻近膈下"
+      },
+      {
+        "en": "Body",
+        "zh": "胃体",
+        "note": "图中胃的主要中部，大括号标出范围"
+      },
+      {
+        "en": "Serosa",
+        "zh": "浆膜",
+        "note": "胃壁最外表面的薄层，与腹膜相关"
+      },
+      {
+        "en": "Lumen",
+        "zh": "胃腔",
+        "note": "容纳胃内容物的内部空间，不是胃壁"
+      },
+      {
+        "en": "Rugae of mucosa",
+        "zh": "胃黏膜皱襞（胃襞）",
+        "note": "胃腔面的起伏，可随充盈而展开"
+      },
+      {
+        "en": "Lesser curvature",
+        "zh": "胃小弯",
+        "note": "画面左侧凹入边缘，弧箭头标示范围"
+      },
+      {
+        "en": "Greater curvature",
+        "zh": "胃大弯",
+        "note": "画面右下凸出长边缘，弧箭头标范围"
+      },
+      {
+        "en": "Pyloric antrum",
+        "zh": "幽门窦",
+        "note": "靠出口较宽的区域，向幽门管过渡"
+      },
+      {
+        "en": "Pyloric canal",
+        "zh": "幽门管",
+        "note": "幽门窦之后较窄部分，通向出口"
+      },
+      {
+        "en": "Pyloric sphincter (valve) at pylorus",
+        "zh": "幽门处的幽门括约肌",
+        "note": "出口环形增厚平滑肌，帮助控制排空"
+      },
+      {
+        "en": "Duodenum",
+        "zh": "十二指肠",
+        "note": "图中左下离开胃的管道，接幽门"
+      }
+    ]
   },
   {
     "section": "23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder",
@@ -759,12 +4042,89 @@
     "chapter": "16",
     "id": "16-02",
     "title_zh": "肝胆胰与十二指肠的联系",
-    "labels_zh": "bile duct 胆管；pancreatic duct 胰管；duodenum 十二指肠",
-    "guide_zh": "从肝胆和胰分别追踪导管到肠腔，区分胆汁与消化酶的来源。胆囊储存浓缩胆汁，胆汁由肝产生。",
+    "labels_zh": "Liver: 肝；Right lobe 肝右叶；Quadrate lobe 肝方叶；Left lobe 肝左叶；Caudate lobe 肝尾状叶；Gallbladder 胆囊；Right hepatic duct 右肝管；Left hepatic duct 左肝管；Common hepatic duct 肝总管；Cystic duct 胆囊管；Common bile duct 胆总管；Spleen 脾；Pancreas 胰腺；Pancreatic duct 胰管",
+    "guide_zh": "先找棕红色肝、绿色胆囊和下方黄色胰，紫色脾在画面右侧。人体右侧在画面左边；背景身体和其他消化器官被淡化，是为显露这些深部器官，并不表示它们悬在空处。 沿肝的绿色导管读：左右肝管汇成肝总管，胆囊经胆囊管接入，合并后的通路称胆总管。胆汁由肝产生，胆囊负责储存和浓缩；引线指出位置，不是表示流向的箭头。 再看胰内的胰管，它把外分泌胰液引向十二指肠。肝分叶名称用于辨认形态，不能当成四个独立器官；脾作为邻近结构一并显示，却不向肠道分泌消化液。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/16-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "先找棕红色肝、绿色胆囊和下方黄色胰，紫色脾在画面右侧。人体右侧在画面左边；背景身体和其他消化器官被淡化，是为显露这些深部器官，并不表示它们悬在空处。",
+      "沿肝的绿色导管读：左右肝管汇成肝总管，胆囊经胆囊管接入，合并后的通路称胆总管。胆汁由肝产生，胆囊负责储存和浓缩；引线指出位置，不是表示流向的箭头。",
+      "再看胰内的胰管，它把外分泌胰液引向十二指肠。肝分叶名称用于辨认形态，不能当成四个独立器官；脾作为邻近结构一并显示，却不向肠道分泌消化液。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Liver:",
+        "zh": "肝",
+        "note": "上方棕红色大器官，图中标出形态分叶"
+      },
+      {
+        "en": "Right lobe",
+        "zh": "肝右叶",
+        "note": "画面左侧较大部分，属于人体右侧"
+      },
+      {
+        "en": "Quadrate lobe",
+        "zh": "肝方叶",
+        "note": "肝脏面上的分叶，图为显露而简化"
+      },
+      {
+        "en": "Left lobe",
+        "zh": "肝左叶",
+        "note": "画面右上较薄延伸部分，按引线辨认"
+      },
+      {
+        "en": "Caudate lobe",
+        "zh": "肝尾状叶",
+        "note": "肝后方相关分叶，并非尾部额外器官"
+      },
+      {
+        "en": "Gallbladder",
+        "zh": "胆囊",
+        "note": "肝下方绿色小囊，储存并浓缩胆汁"
+      },
+      {
+        "en": "Right hepatic duct",
+        "zh": "右肝管",
+        "note": "汇集肝右侧胆汁，与左肝管相接"
+      },
+      {
+        "en": "Left hepatic duct",
+        "zh": "左肝管",
+        "note": "汇集肝左侧胆汁，汇向共同胆道"
+      },
+      {
+        "en": "Common hepatic duct",
+        "zh": "肝总管",
+        "note": "左右肝管汇合后的一段胆汁通道"
+      },
+      {
+        "en": "Cystic duct",
+        "zh": "胆囊管",
+        "note": "连接胆囊与肝外胆道的绿色短管"
+      },
+      {
+        "en": "Common bile duct",
+        "zh": "胆总管",
+        "note": "肝总管与胆囊管汇合后的下行胆道"
+      },
+      {
+        "en": "Spleen",
+        "zh": "脾",
+        "note": "画面右方紫色器官，不分泌消化液"
+      },
+      {
+        "en": "Pancreas",
+        "zh": "胰腺",
+        "note": "肝下黄色横向腺体，兼具两类分泌"
+      },
+      {
+        "en": "Pancreatic duct",
+        "zh": "胰管",
+        "note": "胰内部细管，输送外分泌胰液入肠"
+      }
+    ]
   },
   {
     "section": "25-3-gross-anatomy-of-the-kidney",
@@ -778,12 +4138,104 @@
     "chapter": "17",
     "id": "17-01",
     "title_zh": "肾脏剖面与尿液汇集",
-    "labels_zh": "cortex 皮质；medulla 髓质；renal pelvis 肾盂",
-    "guide_zh": "从外层皮质进入髓质，再沿肾乳头、肾盏、肾盂到输尿管；这不是血液流动路线。",
+    "labels_zh": "Capsule 肾纤维囊；Cortex 肾皮质；Medulla 肾髓质；Pyramid 肾锥体；Papilla 肾乳头；Renal column 肾柱；Minor calyx 肾小盏；Major calyx 肾大盏；Renal pelvis 肾盂；Ureter 输尿管；Renal hilum 肾门；Renal artery 肾动脉；Renal vein 肾静脉；Renal nerve 肾神经；Interlobar blood vessels 叶间血管；Arcuate blood vessels 弓状血管；Cortical blood vessels 皮质血管",
+    "guide_zh": "左上小框先交代两肾在上腹后部的位置，右侧大图展开左肾。先由最外薄囊进入皮质，再认内部放射状肾锥体及锥体间的肾柱；肾髓质主要包括这些锥体区域。 沿淡黄色尿路，从锥体尖端的肾乳头进入肾小盏，汇入肾大盏、肾盂，再向下到输尿管。这是尿液汇集方向，不是红蓝血液从肾门进入后直接流走的路线。 最后读红蓝血管：叶间血管走在锥体之间，弓状血管绕锥体底部，再分到皮质。黄色实心分支是神经，肾门是这些结构出入的区域；三者即使靠近，也不是同一管腔。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/17-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "左上小框先交代两肾在上腹后部的位置，右侧大图展开左肾。先由最外薄囊进入皮质，再认内部放射状肾锥体及锥体间的肾柱；肾髓质主要包括这些锥体区域。",
+      "沿淡黄色尿路，从锥体尖端的肾乳头进入肾小盏，汇入肾大盏、肾盂，再向下到输尿管。这是尿液汇集方向，不是红蓝血液从肾门进入后直接流走的路线。",
+      "最后读红蓝血管：叶间血管走在锥体之间，弓状血管绕锥体底部，再分到皮质。黄色实心分支是神经，肾门是这些结构出入的区域；三者即使靠近，也不是同一管腔。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Capsule",
+        "zh": "肾纤维囊",
+        "note": "紧贴肾表面的薄被膜，包绕肾组织"
+      },
+      {
+        "en": "Cortex",
+        "zh": "肾皮质",
+        "note": "外周较均匀区域，位于髓质外侧"
+      },
+      {
+        "en": "Medulla",
+        "zh": "肾髓质",
+        "note": "内部包含多个肾锥体的组织区域"
+      },
+      {
+        "en": "Pyramid",
+        "zh": "肾锥体",
+        "note": "髓质内放射状三角形区域，尖端朝肾窦"
+      },
+      {
+        "en": "Papilla",
+        "zh": "肾乳头",
+        "note": "肾锥体尖端，尿液从此流入肾小盏"
+      },
+      {
+        "en": "Renal column",
+        "zh": "肾柱",
+        "note": "锥体之间延伸进入深部的皮质组织"
+      },
+      {
+        "en": "Minor calyx",
+        "zh": "肾小盏",
+        "note": "包接肾乳头的较小尿液收集结构"
+      },
+      {
+        "en": "Major calyx",
+        "zh": "肾大盏",
+        "note": "由多个肾小盏汇合形成的较大通路"
+      },
+      {
+        "en": "Renal pelvis",
+        "zh": "肾盂",
+        "note": "肾中央漏斗形汇集部，向输尿管延续"
+      },
+      {
+        "en": "Ureter",
+        "zh": "输尿管",
+        "note": "图中向下延伸的尿液运输管道"
+      },
+      {
+        "en": "Renal hilum",
+        "zh": "肾门",
+        "note": "内侧凹入处，血管神经及尿路出入"
+      },
+      {
+        "en": "Renal artery",
+        "zh": "肾动脉",
+        "note": "红色入肾血管，向肾内逐级分支"
+      },
+      {
+        "en": "Renal vein",
+        "zh": "肾静脉",
+        "note": "蓝色出肾血管，汇集肾内回流血液"
+      },
+      {
+        "en": "Renal nerve",
+        "zh": "肾神经",
+        "note": "黄色实心分支，参与肾脏神经调节"
+      },
+      {
+        "en": "Interlobar blood vessels",
+        "zh": "叶间血管",
+        "note": "走在肾锥体之间的血管，沿肾柱分布"
+      },
+      {
+        "en": "Arcuate blood vessels",
+        "zh": "弓状血管",
+        "note": "在锥体底部附近弯行的红蓝血管"
+      },
+      {
+        "en": "Cortical blood vessels",
+        "zh": "皮质血管",
+        "note": "分布在肾外周皮质中的细小血管"
+      }
+    ]
   },
   {
     "section": "25-3-gross-anatomy-of-the-kidney",
@@ -797,12 +4249,69 @@
     "chapter": "17",
     "id": "17-02",
     "title_zh": "肾单位与周围血管",
-    "labels_zh": "glomerulus 肾小球；proximal tubule 近端小管；collecting duct 集合管",
-    "guide_zh": "分别沿血流和小管液走向读图，观察过滤与后续回收发生在不同位置。集合管由多个肾单位汇入。",
+    "labels_zh": "Glomerular capsule 肾小囊（鲍曼囊）；Afferent arteriole 入球小动脉；Efferent arteriole 出球小动脉；Proximal convoluted tubule 近端曲小管；Cortical radiate artery 皮质辐射动脉；Cortical radiate vein 皮质辐射静脉；Venule 微静脉；Loop of the nephron 肾单位袢（亨利袢）；Peritubular capillary network 肾小管周围毛细血管网；Urine flows into renal papilla 尿液流向肾乳头",
+    "guide_zh": "先分清两套通路：红蓝细管是血管，淡黄色粗一些的管道是肾小管及集合系统。左上杯状肾小囊包住一团肾小球毛细血管；不要把整只杯子与杯内血管混为一物。 血流由左侧皮质辐射动脉分支，经入球小动脉进入肾小球，再经出球小动脉去周围毛细血管网，最终汇入微静脉和蓝色皮质辐射静脉。血管引线并非血流方向箭头。 小管液则从肾小囊走向近端曲小管，经过向下弯回的肾单位袢和后续管段，进入右侧未标名的集合管。底部黑箭头明确表示尿液流向肾乳头；血液不会直接流进这根黄色管。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/17-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "先分清两套通路：红蓝细管是血管，淡黄色粗一些的管道是肾小管及集合系统。左上杯状肾小囊包住一团肾小球毛细血管；不要把整只杯子与杯内血管混为一物。",
+      "血流由左侧皮质辐射动脉分支，经入球小动脉进入肾小球，再经出球小动脉去周围毛细血管网，最终汇入微静脉和蓝色皮质辐射静脉。血管引线并非血流方向箭头。",
+      "小管液则从肾小囊走向近端曲小管，经过向下弯回的肾单位袢和后续管段，进入右侧未标名的集合管。底部黑箭头明确表示尿液流向肾乳头；血液不会直接流进这根黄色管。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Glomerular capsule",
+        "zh": "肾小囊（鲍曼囊）",
+        "note": "左上杯状结构，包围肾小球并接收滤液"
+      },
+      {
+        "en": "Afferent arteriole",
+        "zh": "入球小动脉",
+        "note": "从左侧动脉进入肾小球的供血分支"
+      },
+      {
+        "en": "Efferent arteriole",
+        "zh": "出球小动脉",
+        "note": "离开肾小球后接续另一毛细血管网"
+      },
+      {
+        "en": "Proximal convoluted tubule",
+        "zh": "近端曲小管",
+        "note": "肾小囊之后弯曲黄色管段，回收多种物质"
+      },
+      {
+        "en": "Cortical radiate artery",
+        "zh": "皮质辐射动脉",
+        "note": "左侧红色主干，发出肾小球供血分支"
+      },
+      {
+        "en": "Cortical radiate vein",
+        "zh": "皮质辐射静脉",
+        "note": "左侧蓝色主干，汇集周围微静脉血液"
+      },
+      {
+        "en": "Venule",
+        "zh": "微静脉",
+        "note": "连接毛细血管网与蓝色较大静脉"
+      },
+      {
+        "en": "Loop of the nephron",
+        "zh": "肾单位袢（亨利袢）",
+        "note": "淡黄色向下后折返的细长小管段"
+      },
+      {
+        "en": "Peritubular capillary network",
+        "zh": "肾小管周围毛细血管网",
+        "note": "围绕黄色小管的细血管，参与物质交换"
+      },
+      {
+        "en": "Urine flows into renal papilla",
+        "zh": "尿液流向肾乳头",
+        "note": "底部黑箭头，指集合系统中尿液去向"
+      }
+    ]
   },
   {
     "section": "27-1-anatomy-and-physiology-of-the-testicular-reproductive-system",
@@ -816,12 +4325,154 @@
     "chapter": "18",
     "id": "18-01",
     "title_zh": "一类常见盆腔矢状解剖",
-    "labels_zh": "bladder 膀胱；prostate 前列腺；rectum 直肠",
-    "guide_zh": "从前向后找膀胱、尿道周围的前列腺与后方直肠；部分生殖结构位于盆腔外。",
+    "labels_zh": "(a) Uncircumcised penis 分图a：未环切阴茎；(b) Circumcised penis 分图b：环切后阴茎；(c) Male Reproductive System: lateral view 分图c：男性生殖系统侧面观；Penis 阴茎；Prepuce (foreskin) 包皮；Corona 龟头冠；Glans penis 阴茎头（龟头）；Scrotum 阴囊；Ductus (vas) deferens 输精管；Suspensory ligament of penis 阴茎悬韧带；Urinary bladder 膀胱；Pubic symphysis 耻骨联合；Prostate gland 前列腺；Ampulla of ductus deferens 输精管壶腹；Seminal vesicle 精囊；Ejaculatory duct 射精管；Prostatic urethra 尿道前列腺部；Membranous urethra 尿道膜部；Spongy urethra 尿道海绵体部；Bulbourethral gland 尿道球腺；Deep muscles of perineum 会阴深部肌肉；Muscles of perineum surrounding anus 肛门周围的会阴肌肉；Corpus cavernosum 阴茎海绵体；Corpus spongiosum 尿道海绵体；External urethral opening 尿道外口；Testis 睾丸；Epididymis 附睾",
+    "guide_zh": "上方a、b只比较包皮保留与环切后的外观，灰色箭头表示局部放大。先认阴茎、龟头和阴囊，别把外观分图当成展示盆腔内部的切面，也不要把阴囊误称睾丸本身。 下方c为侧面剖开示意：画面左为前、右为后。先以耻骨联合定位，再找其后的膀胱、膀胱下方前列腺和更后方直肠区域，尿道依次穿过前列腺、会阴和阴茎。 生殖通路从阴囊内睾丸、附睾进入输精管，绕向膀胱后方，与精囊导管汇合后经射精管接入尿道。尿道旁海绵体是组织，不是额外空管；两处阴茎外观也不代表两种内部器官配置。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/18-01.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "上方a、b只比较包皮保留与环切后的外观，灰色箭头表示局部放大。先认阴茎、龟头和阴囊，别把外观分图当成展示盆腔内部的切面，也不要把阴囊误称睾丸本身。",
+      "下方c为侧面剖开示意：画面左为前、右为后。先以耻骨联合定位，再找其后的膀胱、膀胱下方前列腺和更后方直肠区域，尿道依次穿过前列腺、会阴和阴茎。",
+      "生殖通路从阴囊内睾丸、附睾进入输精管，绕向膀胱后方，与精囊导管汇合后经射精管接入尿道。尿道旁海绵体是组织，不是额外空管；两处阴茎外观也不代表两种内部器官配置。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "(a) Uncircumcised penis",
+        "zh": "分图a：未环切阴茎",
+        "note": "上方左图，显示包皮保留时的外观"
+      },
+      {
+        "en": "(b) Circumcised penis",
+        "zh": "分图b：环切后阴茎",
+        "note": "上方右图，显示包皮环切后的外观"
+      },
+      {
+        "en": "(c) Male Reproductive System: lateral view",
+        "zh": "分图c：男性生殖系统侧面观",
+        "note": "下方剖面图，画面左侧为人体前方"
+      },
+      {
+        "en": "Penis",
+        "zh": "阴茎",
+        "note": "上方外观图的主体，尿道从内部经过"
+      },
+      {
+        "en": "Prepuce (foreskin)",
+        "zh": "包皮",
+        "note": "分图a覆盖龟头的皮肤褶，不是龟头"
+      },
+      {
+        "en": "Corona",
+        "zh": "龟头冠",
+        "note": "分图b龟头根部突出的冠状边缘"
+      },
+      {
+        "en": "Glans penis",
+        "zh": "阴茎头（龟头）",
+        "note": "阴茎远端膨大部，尿道开口在末端"
+      },
+      {
+        "en": "Scrotum",
+        "zh": "阴囊",
+        "note": "包容睾丸的体表囊，不是睾丸实质"
+      },
+      {
+        "en": "Ductus (vas) deferens",
+        "zh": "输精管",
+        "note": "从附睾上行后进入盆腔的输精通路"
+      },
+      {
+        "en": "Suspensory ligament of penis",
+        "zh": "阴茎悬韧带",
+        "note": "耻骨前方的支持结构，固定阴茎根部"
+      },
+      {
+        "en": "Urinary bladder",
+        "zh": "膀胱",
+        "note": "耻骨后方的大囊状器官，负责储尿"
+      },
+      {
+        "en": "Pubic symphysis",
+        "zh": "耻骨联合",
+        "note": "画面前方骨性连接，是前后定位标志"
+      },
+      {
+        "en": "Prostate gland",
+        "zh": "前列腺",
+        "note": "膀胱下方腺体，围绕近端尿道区域"
+      },
+      {
+        "en": "Ampulla of ductus deferens",
+        "zh": "输精管壶腹",
+        "note": "膀胱后方输精管末端的扩大部分"
+      },
+      {
+        "en": "Seminal vesicle",
+        "zh": "精囊",
+        "note": "膀胱后方黄色腺体，贡献精液成分"
+      },
+      {
+        "en": "Ejaculatory duct",
+        "zh": "射精管",
+        "note": "接续输精管与精囊导管，进入前列腺"
+      },
+      {
+        "en": "Prostatic urethra",
+        "zh": "尿道前列腺部",
+        "note": "穿过前列腺的尿道段，接收射精管"
+      },
+      {
+        "en": "Membranous urethra",
+        "zh": "尿道膜部",
+        "note": "前列腺下方较短尿道段，位于会阴深部"
+      },
+      {
+        "en": "Spongy urethra",
+        "zh": "尿道海绵体部",
+        "note": "在尿道海绵体内向阴茎末端延伸"
+      },
+      {
+        "en": "Bulbourethral gland",
+        "zh": "尿道球腺",
+        "note": "会阴深部小腺体，分泌物进入尿道"
+      },
+      {
+        "en": "Deep muscles of perineum",
+        "zh": "会阴深部肌肉",
+        "note": "尿道经过的深部支持与控制结构"
+      },
+      {
+        "en": "Muscles of perineum surrounding anus",
+        "zh": "肛门周围的会阴肌肉",
+        "note": "画面后下方肌肉，围绕肛门区域"
+      },
+      {
+        "en": "Corpus cavernosum",
+        "zh": "阴茎海绵体",
+        "note": "阴茎内勃起组织，与尿道海绵体区分"
+      },
+      {
+        "en": "Corpus spongiosum",
+        "zh": "尿道海绵体",
+        "note": "包绕海绵体部尿道的勃起组织"
+      },
+      {
+        "en": "External urethral opening",
+        "zh": "尿道外口",
+        "note": "阴茎末端开口，尿道在这里通向体外"
+      },
+      {
+        "en": "Testis",
+        "zh": "睾丸",
+        "note": "阴囊内浅色器官，产生精子及相关激素"
+      },
+      {
+        "en": "Epididymis",
+        "zh": "附睾",
+        "note": "贴附睾丸后侧的盘曲管道，精子在此成熟"
+      }
+    ]
   },
   {
     "section": "27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system",
@@ -835,12 +4486,129 @@
     "chapter": "18",
     "id": "18-02",
     "title_zh": "另一类常见盆腔矢状解剖",
-    "labels_zh": "uterus 子宫；vagina 阴道；urethra 尿道",
-    "guide_zh": "先辨前方膀胱、中间生殖道、后方直肠。阴道和尿道为不同通道，不能把外阴等同阴道。",
+    "labels_zh": "(a) Human female reproductive system: lateral view 分图a：女性生殖系统侧面观；(b) Human female reproductive system: anterior view 分图b：女性生殖系统前面观；Uterus 子宫；Ovary 卵巢；Cervix 子宫颈；Posterior fornix of uterus 阴道后穹隆（原图误写uterus）；Vagina 阴道；Bladder 膀胱；Urethra 尿道；Pubic symphysis 耻骨联合；Mons pubis 阴阜；Clitoris 阴蒂；Labium minora 小阴唇（上图原文拼写）；Labium majora 大阴唇（上图原文拼写）；Labia minora 小阴唇；Labia majora 大阴唇；Rectum 直肠；Anus 肛门；Fimbriae 输卵管伞；Uterine tube (oviduct) 输卵管；Ovarian ligament 卵巢固有韧带；Broad ligament 子宫阔韧带",
+    "guide_zh": "上方a是侧面剖开示意，画面左为前、右为后。先找耻骨联合，再依前后顺序辨膀胱与尿道、子宫与阴道、直肠及肛门；尿道和阴道是两条各有开口的通道。 卵巢被示意投到视野中，不能据此认定它位于正中切面。图中“Posterior fornix of uterus”误把子宫写进名称，所指应按阴道后穹隆理解：它是宫颈后方的阴道隐窝。 下方b改为前面观，人体左在画面右。沿子宫两侧输卵管走向伞端和卵巢，注意管口并未与卵巢密封相接；再看子宫颈进入阴道。大、小阴唇属于外阴，不能统一叫作阴道。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/18-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "上方a是侧面剖开示意，画面左为前、右为后。先找耻骨联合，再依前后顺序辨膀胱与尿道、子宫与阴道、直肠及肛门；尿道和阴道是两条各有开口的通道。",
+      "卵巢被示意投到视野中，不能据此认定它位于正中切面。图中“Posterior fornix of uterus”误把子宫写进名称，所指应按阴道后穹隆理解：它是宫颈后方的阴道隐窝。",
+      "下方b改为前面观，人体左在画面右。沿子宫两侧输卵管走向伞端和卵巢，注意管口并未与卵巢密封相接；再看子宫颈进入阴道。大、小阴唇属于外阴，不能统一叫作阴道。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "(a) Human female reproductive system: lateral view",
+        "zh": "分图a：女性生殖系统侧面观",
+        "note": "上方剖面示意，画面左侧为人体前方"
+      },
+      {
+        "en": "(b) Human female reproductive system: anterior view",
+        "zh": "分图b：女性生殖系统前面观",
+        "note": "下方正面展开，人体左右与画面相反"
+      },
+      {
+        "en": "Uterus",
+        "zh": "子宫",
+        "note": "上图粉红色肌性器官，下图位于中央"
+      },
+      {
+        "en": "Ovary",
+        "zh": "卵巢",
+        "note": "绿色成对器官，上图为示意投影显示"
+      },
+      {
+        "en": "Cervix",
+        "zh": "子宫颈",
+        "note": "子宫下部较窄区域，向下连通阴道"
+      },
+      {
+        "en": "Posterior fornix of uterus",
+        "zh": "阴道后穹隆（原图误写uterus）",
+        "note": "宫颈后方阴道隐窝，并不属于子宫"
+      },
+      {
+        "en": "Vagina",
+        "zh": "阴道",
+        "note": "连接宫颈周围与体外的可扩张管道"
+      },
+      {
+        "en": "Bladder",
+        "zh": "膀胱",
+        "note": "上图前方囊状器官，位于子宫前下方"
+      },
+      {
+        "en": "Urethra",
+        "zh": "尿道",
+        "note": "膀胱下方短管，与后方阴道分别开口"
+      },
+      {
+        "en": "Pubic symphysis",
+        "zh": "耻骨联合",
+        "note": "上图最前方骨性连接，作为定位参照"
+      },
+      {
+        "en": "Mons pubis",
+        "zh": "阴阜",
+        "note": "耻骨联合前方的脂肪性隆起区域"
+      },
+      {
+        "en": "Clitoris",
+        "zh": "阴蒂",
+        "note": "上图前方所示局部，深部结构未全展开"
+      },
+      {
+        "en": "Labium minora",
+        "zh": "小阴唇（上图原文拼写）",
+        "note": "上图内侧皮肤褶，阴道口并非整片外阴"
+      },
+      {
+        "en": "Labium majora",
+        "zh": "大阴唇（上图原文拼写）",
+        "note": "上图外侧较大皮肤褶，为外阴结构"
+      },
+      {
+        "en": "Labia minora",
+        "zh": "小阴唇",
+        "note": "下图外阴内侧皮肤褶，形态可有差异"
+      },
+      {
+        "en": "Labia majora",
+        "zh": "大阴唇",
+        "note": "下图外阴外侧皮肤褶，不是阴道管壁"
+      },
+      {
+        "en": "Rectum",
+        "zh": "直肠",
+        "note": "上图靠后管道，位于子宫阴道之后"
+      },
+      {
+        "en": "Anus",
+        "zh": "肛门",
+        "note": "上图后下方开口，与尿道口分开"
+      },
+      {
+        "en": "Fimbriae",
+        "zh": "输卵管伞",
+        "note": "输卵管近卵巢端的指状边缘结构"
+      },
+      {
+        "en": "Uterine tube (oviduct)",
+        "zh": "输卵管",
+        "note": "从子宫两侧伸向卵巢附近的管道"
+      },
+      {
+        "en": "Ovarian ligament",
+        "zh": "卵巢固有韧带",
+        "note": "下图卵巢与子宫间的纤维连接结构"
+      },
+      {
+        "en": "Broad ligament",
+        "zh": "子宫阔韧带",
+        "note": "子宫两侧腹膜褶，提供相关悬系关系"
+      }
+    ]
   },
   {
     "section": "13-3-circulation-and-the-central-nervous-system",
@@ -854,12 +4622,84 @@
     "chapter": "19",
     "id": "19-01",
     "title_zh": "脑脊液的循环路径",
-    "labels_zh": "ventricle 脑室；subarachnoid space 蛛网膜下腔",
-    "guide_zh": "从脑室向蛛网膜下腔追踪箭头，区分脑脊液通路和脑血管通路。",
+    "labels_zh": "Superior sagittal sinus 上矢状窦；Choroid plexus 脉络丛；Interventricular foramen 室间孔；Third ventricle 第三脑室；Cerebral aqueduct 中脑水管；Lateral aperture 第四脑室外侧孔；Fourth ventricle 第四脑室；Arachnoid granulation 蛛网膜颗粒；Subarachnoid space 蛛网膜下隙；Meningeal dura mater 脑膜层硬膜；Right lateral ventricle 右侧脑室；Median aperture 第四脑室正中孔；Central canal 中央管",
+    "guide_zh": "先把这幅图看作脑的纵向剖面：脸部方向在左，小脑和脑干位于右下。由脑内中央的脉络丛起步，找到右侧脑室，经室间孔进入第三脑室，再沿中脑水管向后下方到第四脑室。 随后看第四脑室周围的正中孔、外侧孔。黑色箭头表示脑脊液流动，从这些出口进入包围脑和脊髓的蛛网膜下隙；这与图顶端深蓝色上矢状窦内的静脉血通路不同。 最后沿脑表面的箭头向上追到蛛网膜颗粒，理解脑脊液回流入静脉的经典路径。中央管虽与脑室系统相续，不能把它当成成人脑脊液回流的唯一或主要出口。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/19-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "先把这幅图看作脑的纵向剖面：脸部方向在左，小脑和脑干位于右下。由脑内中央的脉络丛起步，找到右侧脑室，经室间孔进入第三脑室，再沿中脑水管向后下方到第四脑室。",
+      "随后看第四脑室周围的正中孔、外侧孔。黑色箭头表示脑脊液流动，从这些出口进入包围脑和脊髓的蛛网膜下隙；这与图顶端深蓝色上矢状窦内的静脉血通路不同。",
+      "最后沿脑表面的箭头向上追到蛛网膜颗粒，理解脑脊液回流入静脉的经典路径。中央管虽与脑室系统相续，不能把它当成成人脑脊液回流的唯一或主要出口。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Superior sagittal sinus",
+        "zh": "上矢状窦",
+        "note": "位于脑顶部的硬脑膜静脉窦"
+      },
+      {
+        "en": "Choroid plexus",
+        "zh": "脉络丛",
+        "note": "脑室内主要产生脑脊液的结构"
+      },
+      {
+        "en": "Interventricular foramen",
+        "zh": "室间孔",
+        "note": "连接侧脑室与第三脑室的通道"
+      },
+      {
+        "en": "Third ventricle",
+        "zh": "第三脑室",
+        "note": "位于间脑中线附近的脑室腔"
+      },
+      {
+        "en": "Cerebral aqueduct",
+        "zh": "中脑水管",
+        "note": "连接第三脑室和第四脑室的细管"
+      },
+      {
+        "en": "Lateral aperture",
+        "zh": "第四脑室外侧孔",
+        "note": "第四脑室通向蛛网膜下隙的出口"
+      },
+      {
+        "en": "Fourth ventricle",
+        "zh": "第四脑室",
+        "note": "位于脑干背侧与小脑之间的腔隙"
+      },
+      {
+        "en": "Arachnoid granulation",
+        "zh": "蛛网膜颗粒",
+        "note": "向静脉窦突入并参与脑脊液回流"
+      },
+      {
+        "en": "Subarachnoid space",
+        "zh": "蛛网膜下隙",
+        "note": "位于蛛网膜和软膜之间的含液空间"
+      },
+      {
+        "en": "Meningeal dura mater",
+        "zh": "脑膜层硬膜",
+        "note": "脑外较坚韧的硬膜组成部分"
+      },
+      {
+        "en": "Right lateral ventricle",
+        "zh": "右侧脑室",
+        "note": "大脑半球深部脑室系统的一部分"
+      },
+      {
+        "en": "Median aperture",
+        "zh": "第四脑室正中孔",
+        "note": "第四脑室通向蛛网膜下隙的正中出口"
+      },
+      {
+        "en": "Central canal",
+        "zh": "中央管",
+        "note": "位于脊髓中央并与脑室系统相续"
+      }
+    ]
   },
   {
     "section": "13-2-the-central-nervous-system",
@@ -873,12 +4713,59 @@
     "chapter": "19",
     "id": "19-02",
     "title_zh": "大脑的外部结构",
-    "labels_zh": "cerebrum 大脑；gyrus 脑回；sulcus 脑沟",
-    "guide_zh": "比较半球外表的沟与回。外表分区是定位线索，功能依赖多区域连接。",
+    "labels_zh": "Corpus callosum 胼胝体；Cerebrum 大脑；Cerebral cortex 大脑皮质；Right hemisphere 右大脑半球；Left hemisphere 左大脑半球；Longitudinal fissure 大脑纵裂；Lateral view 侧面观；Anterior view 前面观",
+    "guide_zh": "左图是侧面观，先看大脑占据上方的大部分体积，再看覆盖其表面的脑皮质。右下方能见到小脑和脑干轮廓，但本图没有逐一标注，不能把大脑标签理解为包括这些结构。 侧面图中的胼胝体采用虚线显示，表示它埋在深部，完整外表并不能直接看见。它是连接左右大脑半球的重要白质结构，不是脑皮质外表的一条凹沟。 右图改为前面观，中间深裂是大脑纵裂，将左右半球分开。图左标的是受观察者的右半球，图右是左半球；阅读左右标注应按人体本身的方向，不能按看图者左右命名。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/19-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "左图是侧面观，先看大脑占据上方的大部分体积，再看覆盖其表面的脑皮质。右下方能见到小脑和脑干轮廓，但本图没有逐一标注，不能把大脑标签理解为包括这些结构。",
+      "侧面图中的胼胝体采用虚线显示，表示它埋在深部，完整外表并不能直接看见。它是连接左右大脑半球的重要白质结构，不是脑皮质外表的一条凹沟。",
+      "右图改为前面观，中间深裂是大脑纵裂，将左右半球分开。图左标的是受观察者的右半球，图右是左半球；阅读左右标注应按人体本身的方向，不能按看图者左右命名。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Corpus callosum",
+        "zh": "胼胝体",
+        "note": "深部连接左右大脑半球的白质结构"
+      },
+      {
+        "en": "Cerebrum",
+        "zh": "大脑",
+        "note": "占据图中上部大部分体积的脑区"
+      },
+      {
+        "en": "Cerebral cortex",
+        "zh": "大脑皮质",
+        "note": "覆盖大脑表面的薄层灰质结构"
+      },
+      {
+        "en": "Right hemisphere",
+        "zh": "右大脑半球",
+        "note": "前面观中位于读者左手一侧"
+      },
+      {
+        "en": "Left hemisphere",
+        "zh": "左大脑半球",
+        "note": "前面观中位于读者右手一侧"
+      },
+      {
+        "en": "Longitudinal fissure",
+        "zh": "大脑纵裂",
+        "note": "位于两侧大脑半球之间的深裂"
+      },
+      {
+        "en": "Lateral view",
+        "zh": "侧面观",
+        "note": "左侧分图从脑的一侧进行观察"
+      },
+      {
+        "en": "Anterior view",
+        "zh": "前面观",
+        "note": "右侧分图从脑的前方向后观察"
+      }
+    ]
   },
   {
     "section": "13-2-the-central-nervous-system",
@@ -892,13 +4779,65 @@
     "chapter": "19",
     "id": "19-03",
     "title_zh": "脊髓横断面",
-    "labels_zh": "gray matter 灰质；white matter 白质；central canal 中央管",
-    "guide_zh": "先找中央蝶形灰质，再看外围白质，随后辨认前后方向；不要直接套用大脑皮层的内外布局。",
+    "labels_zh": "Gray matter 灰质；Posterior (dorsal) horn 后角（背角）；Lateral horn 侧角；Anterior (ventral) horn 前角（腹角）；White matter 白质；Posterior (dorsal) columns 后索（背索）；Lateral columns 侧索；Anterior (ventral) columns 前索（腹索）；Central canal 中央管",
+    "guide_zh": "上半部为脊髓横断面的模式图，方向是上后、下前。先找中央黄色的蝶形灰质，再找其外围较浅的白质；脊髓的灰白质布局与大脑表面有皮质的安排不同。 从灰质向外辨认三种角：后角较细长，前角较宽，侧角在左右侧面突出。再看白质的后索、侧索和前索；灰质的角与白质的索不能因为位置相近就混称。 中央小孔为中央管。下半部是染色组织的光学显微照片，可用中央蝶形与外围区域对应上图，而不是按颜色逐点照搬；它不是超声影像，染色颜色也不是活体原色。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/19-03.jpg",
     "after_section": 3,
-    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "上半部为脊髓横断面的模式图，方向是上后、下前。先找中央黄色的蝶形灰质，再找其外围较浅的白质；脊髓的灰白质布局与大脑表面有皮质的安排不同。",
+      "从灰质向外辨认三种角：后角较细长，前角较宽，侧角在左右侧面突出。再看白质的后索、侧索和前索；灰质的角与白质的索不能因为位置相近就混称。",
+      "中央小孔为中央管。下半部是染色组织的光学显微照片，可用中央蝶形与外围区域对应上图，而不是按颜色逐点照搬；它不是超声影像，染色颜色也不是活体原色。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Gray matter",
+        "zh": "灰质",
+        "note": "中央呈蝶形并形成各灰质角的区域"
+      },
+      {
+        "en": "Posterior (dorsal) horn",
+        "zh": "后角（背角）",
+        "note": "位于图上方的细长灰质突出部分"
+      },
+      {
+        "en": "Lateral horn",
+        "zh": "侧角",
+        "note": "灰质向侧方突出的自主神经相关区域"
+      },
+      {
+        "en": "Anterior (ventral) horn",
+        "zh": "前角（腹角）",
+        "note": "图下方较宽的运动神经元所在区域"
+      },
+      {
+        "en": "White matter",
+        "zh": "白质",
+        "note": "位于灰质周围并含多条传导通路"
+      },
+      {
+        "en": "Posterior (dorsal) columns",
+        "zh": "后索（背索）",
+        "note": "位于后角之间的后部白质区域"
+      },
+      {
+        "en": "Lateral columns",
+        "zh": "侧索",
+        "note": "位于脊髓两侧的白质通路区域"
+      },
+      {
+        "en": "Anterior (ventral) columns",
+        "zh": "前索（腹索）",
+        "note": "位于前角前方与前正中裂两旁"
+      },
+      {
+        "en": "Central canal",
+        "zh": "中央管",
+        "note": "位于脊髓横断面正中央的小孔"
+      }
+    ]
   },
   {
     "section": "13-4-the-peripheral-nervous-system",
@@ -912,13 +4851,60 @@
     "chapter": "20",
     "id": "20-01",
     "title_zh": "一条神经中的束与纤维",
-    "labels_zh": "epineurium 神经外膜；perineurium 神经束膜；axon 轴突",
-    "guide_zh": "从整条神经逐级进入神经束、神经纤维，比较它与肌肉成束组织的相似包裹方式；组成和功能并不相同。",
+    "labels_zh": "Spinal nerve 脊神经；Epineurium 神经外膜；Blood vessels 血管；Fascicle 神经束；Perineurium 神经束膜；Endoneurium 神经内膜；Axon 轴突；Fascicles 神经束（复数）",
+    "guide_zh": "先看左上整体神经，外层为神经外膜，里面含多个神经束和伴行血管。抽出的圆柱代表其中一个神经束；大弯箭头只是把选中部分放大，表示尺度转换，不是信号流向。 进入神经束后，分清包单束的神经束膜、纤维间的神经内膜和内部轴突。右上原图有层级错位：Axon大括号圈住的整束不等于一根轴突；包围多个束的外边界应按神经外膜理解，不应随其Perineurium引线误认为神经束膜。以左图及下方切片的包裹关系为准。 下半部是神经的染色切片，用圆形或椭圆形束与上图对照，找到包束的结缔组织。黄色是模式图的分类色，并非神经在活体内呈明亮黄色；切片染色也不代表组织原色。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/20-01.jpg",
     "after_section": 1,
-    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "先看左上整体神经，外层为神经外膜，里面含多个神经束和伴行血管。抽出的圆柱代表其中一个神经束；大弯箭头只是把选中部分放大，表示尺度转换，不是信号流向。",
+      "进入神经束后，分清包单束的神经束膜、纤维间的神经内膜和内部轴突。右上原图有层级错位：Axon大括号圈住的整束不等于一根轴突；包围多个束的外边界应按神经外膜理解，不应随其Perineurium引线误认为神经束膜。以左图及下方切片的包裹关系为准。",
+      "下半部是神经的染色切片，用圆形或椭圆形束与上图对照，找到包束的结缔组织。黄色是模式图的分类色，并非神经在活体内呈明亮黄色；切片染色也不代表组织原色。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Spinal nerve",
+        "zh": "脊神经",
+        "note": "包含许多神经纤维与支持组织的整体"
+      },
+      {
+        "en": "Epineurium",
+        "zh": "神经外膜",
+        "note": "包围整条神经并连接束间的结缔组织"
+      },
+      {
+        "en": "Blood vessels",
+        "zh": "血管",
+        "note": "分布于神经内并为组织供应血液"
+      },
+      {
+        "en": "Fascicle",
+        "zh": "神经束",
+        "note": "多根神经纤维构成的束状单位"
+      },
+      {
+        "en": "Perineurium",
+        "zh": "神经束膜",
+        "note": "包围单个束；右上外边界引线有层级错位"
+      },
+      {
+        "en": "Endoneurium",
+        "zh": "神经内膜",
+        "note": "位于单根神经纤维周围的细薄结缔组织"
+      },
+      {
+        "en": "Axon",
+        "zh": "轴突",
+        "note": "神经纤维的传导部分并非整个神经束"
+      },
+      {
+        "en": "Fascicles",
+        "zh": "神经束（复数）",
+        "note": "下方切片中可见的多个束状截面"
+      }
+    ]
   },
   {
     "section": "13-4-the-peripheral-nervous-system",
@@ -932,13 +4918,19 @@
     "chapter": "20",
     "id": "20-02",
     "title_zh": "神经根、脊神经与前后支",
-    "labels_zh": "后根 感觉传入；前根 运动传出；前支与后支 均为混合支",
-    "guide_zh": "先看两条神经根的不同功能，再看汇合后的脊神经如何分成前后支。后根与后支不是同一结构。此图仅表达连接关系。",
+    "labels_zh": "",
+    "guide_zh": "先从左侧脊髓出发，但要按颜色分别追线：蓝色后根箭头指向脊髓，表示感觉信息传入；红色前根箭头离开脊髓，表示运动信息传出。蓝色椭圆是后根神经节，含感觉神经元胞体。 两根在中部汇合后成为短段脊神经，紫色表示其中兼有感觉和运动纤维。紫线向右分出的后支与前支也都是混合支，不能把后支直接等同于感觉通路，或把前支等同于运动通路。 这幅图只画连接关系，线条长度、夹角和上下位置均不按真实解剖比例。最重要的读图结果是分清靠近脊髓的前后根，与汇合之后再分出的前后支，二者名称相近但层级不同。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "本书原创连接示意；结构依据 OpenStax Anatomy and Physiology 2e §13.2、§13.4",
     "path": "assets/images/20-02.png",
     "modification": "Original Chinese schematic; not an anatomical-scale rendering.",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "先从左侧脊髓出发，但要按颜色分别追线：蓝色后根箭头指向脊髓，表示感觉信息传入；红色前根箭头离开脊髓，表示运动信息传出。蓝色椭圆是后根神经节，含感觉神经元胞体。",
+      "两根在中部汇合后成为短段脊神经，紫色表示其中兼有感觉和运动纤维。紫线向右分出的后支与前支也都是混合支，不能把后支直接等同于感觉通路，或把前支等同于运动通路。",
+      "这幅图只画连接关系，线条长度、夹角和上下位置均不按真实解剖比例。最重要的读图结果是分清靠近脊髓的前后根，与汇合之后再分出的前后支，二者名称相近但层级不同。"
+    ],
+    "labels_zh_full": []
   },
   {
     "section": "15-1-divisions-of-the-autonomic-nervous-system",
@@ -951,13 +4943,255 @@
     "figure_id": "fig-ch15_01_03",
     "chapter": "20",
     "id": "20-03",
-    "title_zh": "副交感通路的两级连接",
-    "labels_zh": "preganglionic 节前；postganglionic 节后；ganglion 神经节",
-    "guide_zh": "先找中枢起点，再看近靶器官的神经节。交感与副交感需要比较，不能由一幅图推出所有器官都有双重支配。",
+    "title_zh": "交感与副交感通路总览",
+    "labels_zh": "Region of spinal cord 脊髓相关区域；Associated nerves and terminal ganglia 相关神经与终末神经节；Target organs (effectors) 靶器官（效应器）；Edinger–Westphal nucleus 动眼神经副核；Superior salivatory nucleus 上泌涎核；Inferior salivatory nucleus 下泌涎核；Dorsal nucleus of the vagus and nucleus ambiguus 迷走神经背核与疑核；Cranial nerve III 第三对脑神经（动眼神经）；Cranial nerve VII 第七对脑神经（面神经）；Cranial nerve IX 第九对脑神经（舌咽神经）；Cranial nerve X 第十对脑神经（迷走神经）；Ciliary ganglion 睫状神经节；Pterygopalatine ganglion 翼腭神经节；Submandibular ganglion 下颌下神经节；Otic ganglion 耳神经节；Eye 眼；Lacrimal gland 泪腺；Mucous membrane (nose and palate) 鼻与腭的黏膜；Submaxillary gland 下颌下腺；Sublingual gland 舌下腺；Mucous membrane (mouth) 口腔黏膜；Parotid gland 腮腺；Heart 心脏；Larynx 喉；Trachea 气管；Bronchi 支气管；Esophagus 食管；Stomach 胃；Abdominal blood vessels 腹部血管；Liver and bile duct 肝与胆管；Pancreas 胰腺；Adrenal gland 肾上腺；Small intestine 小肠；Large intestine 大肠；Rectum 直肠；Kidney 肾；Bladder 膀胱；Gonads 性腺；External genitalia 外生殖器；Skin 皮肤；Spinal cord 脊髓；Coccygeal ganglia fused together (ganglion impar) 融合的尾部交感神经节（奇神经节）；Sympathetic fibers 交感神经纤维；Parasympathetic fibers 副交感神经纤维；T1 / T2 / T3 / T4 / T5 / T6 / T7 / T8 / T9 / T10 / T11 / T12 第一至第十二胸段；L1 / L2 / L3 / L4 / L5 第一至第五腰段；S1 / S2 / S3 / S4 / S5 第一至第五骶段",
+    "guide_zh": "先看底部图例：红线为交感纤维，蓝线为副交感纤维，这是一幅同时呈现两者的线路总览。左边长形结构兼画脑干和脊髓相关区域，不能把最上方的脑神经核团也当成脊髓节段。 蓝线从脑干的相关核团经第三、七、九、十对脑神经走向靶器官，下方还有来自骶段的蓝线。圈内的接点表示近器官的终末神经节换接，需区分较长的节前段与较短的节后段。 再对比红线在脊柱旁形成的交感干和胸腰段起点。右列器官用于并置路线，不表示每个器官都具有同样的双重支配；图中的器官位置、线条交叉和距离都是示意，不能当作局部手术定位图。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/20-03.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "先看底部图例：红线为交感纤维，蓝线为副交感纤维，这是一幅同时呈现两者的线路总览。左边长形结构兼画脑干和脊髓相关区域，不能把最上方的脑神经核团也当成脊髓节段。",
+      "蓝线从脑干的相关核团经第三、七、九、十对脑神经走向靶器官，下方还有来自骶段的蓝线。圈内的接点表示近器官的终末神经节换接，需区分较长的节前段与较短的节后段。",
+      "再对比红线在脊柱旁形成的交感干和胸腰段起点。右列器官用于并置路线，不表示每个器官都具有同样的双重支配；图中的器官位置、线条交叉和距离都是示意，不能当作局部手术定位图。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Region of spinal cord",
+        "zh": "脊髓相关区域",
+        "note": "左列概括中枢起点并含脑干示意"
+      },
+      {
+        "en": "Associated nerves and terminal ganglia",
+        "zh": "相关神经与终末神经节",
+        "note": "中列展示传出路线及接力的位置"
+      },
+      {
+        "en": "Target organs (effectors)",
+        "zh": "靶器官（效应器）",
+        "note": "右列显示神经输出所影响的组织"
+      },
+      {
+        "en": "Edinger–Westphal nucleus",
+        "zh": "动眼神经副核",
+        "note": "脑干内与眼部副交感输出相关的核团"
+      },
+      {
+        "en": "Superior salivatory nucleus",
+        "zh": "上泌涎核",
+        "note": "与面神经携带的副交感输出相关"
+      },
+      {
+        "en": "Inferior salivatory nucleus",
+        "zh": "下泌涎核",
+        "note": "与舌咽神经携带的副交感输出相关"
+      },
+      {
+        "en": "Dorsal nucleus of the vagus and nucleus ambiguus",
+        "zh": "迷走神经背核与疑核",
+        "note": "延髓内参与迷走神经输出的核团"
+      },
+      {
+        "en": "Cranial nerve III",
+        "zh": "第三对脑神经（动眼神经）",
+        "note": "携带到睫状神经节的节前纤维"
+      },
+      {
+        "en": "Cranial nerve VII",
+        "zh": "第七对脑神经（面神经）",
+        "note": "携带泪腺与部分唾液腺相关纤维"
+      },
+      {
+        "en": "Cranial nerve IX",
+        "zh": "第九对脑神经（舌咽神经）",
+        "note": "携带经耳神经节通向腮腺的纤维"
+      },
+      {
+        "en": "Cranial nerve X",
+        "zh": "第十对脑神经（迷走神经）",
+        "note": "携带到多种胸腹器官的副交感纤维"
+      },
+      {
+        "en": "Ciliary ganglion",
+        "zh": "睫状神经节",
+        "note": "位于眼眶内的副交感换接结构"
+      },
+      {
+        "en": "Pterygopalatine ganglion",
+        "zh": "翼腭神经节",
+        "note": "与泪腺及鼻腭黏膜分泌调节相关"
+      },
+      {
+        "en": "Submandibular ganglion",
+        "zh": "下颌下神经节",
+        "note": "与下颌下腺和舌下腺分泌调节相关"
+      },
+      {
+        "en": "Otic ganglion",
+        "zh": "耳神经节",
+        "note": "与腮腺副交感输出相关的换接处"
+      },
+      {
+        "en": "Eye",
+        "zh": "眼",
+        "note": "接受与瞳孔和调焦相关的神经输出"
+      },
+      {
+        "en": "Lacrimal gland",
+        "zh": "泪腺",
+        "note": "分泌泪液并接受相关自主神经调节"
+      },
+      {
+        "en": "Mucous membrane (nose and palate)",
+        "zh": "鼻与腭的黏膜",
+        "note": "包含接受自主神经调节的腺体组织"
+      },
+      {
+        "en": "Submaxillary gland",
+        "zh": "下颌下腺",
+        "note": "图用旧称表示下颌下部的唾液腺"
+      },
+      {
+        "en": "Sublingual gland",
+        "zh": "舌下腺",
+        "note": "位于口底并参与唾液分泌的腺体"
+      },
+      {
+        "en": "Mucous membrane (mouth)",
+        "zh": "口腔黏膜",
+        "note": "图中表示口腔内的相关分泌组织"
+      },
+      {
+        "en": "Parotid gland",
+        "zh": "腮腺",
+        "note": "位于耳前下方并参与唾液分泌"
+      },
+      {
+        "en": "Heart",
+        "zh": "心脏",
+        "note": "心率等活动受到自主神经的调节"
+      },
+      {
+        "en": "Larynx",
+        "zh": "喉",
+        "note": "位于气道上部并与迷走神经联系"
+      },
+      {
+        "en": "Trachea",
+        "zh": "气管",
+        "note": "连接喉与主支气管的气道部分"
+      },
+      {
+        "en": "Bronchi",
+        "zh": "支气管",
+        "note": "气管向肺内分支形成的气道结构"
+      },
+      {
+        "en": "Esophagus",
+        "zh": "食管",
+        "note": "胸腹段活动接受自主神经的调节"
+      },
+      {
+        "en": "Stomach",
+        "zh": "胃",
+        "note": "分泌与运动受到神经及局部机制调节"
+      },
+      {
+        "en": "Abdominal blood vessels",
+        "zh": "腹部血管",
+        "note": "在图中作为腹部自主神经路线参照"
+      },
+      {
+        "en": "Liver and bile duct",
+        "zh": "肝与胆管",
+        "note": "图中并列展示的肝胆相关靶结构"
+      },
+      {
+        "en": "Pancreas",
+        "zh": "胰腺",
+        "note": "兼有分泌功能并接受自主神经影响"
+      },
+      {
+        "en": "Adrenal gland",
+        "zh": "肾上腺",
+        "note": "其中髓质受交感节前纤维直接影响"
+      },
+      {
+        "en": "Small intestine",
+        "zh": "小肠",
+        "note": "消化运动受肠神经与自主神经调节"
+      },
+      {
+        "en": "Large intestine",
+        "zh": "大肠",
+        "note": "不同区段接受不同来源的副交感联系"
+      },
+      {
+        "en": "Rectum",
+        "zh": "直肠",
+        "note": "位于大肠末端并接受盆部神经调节"
+      },
+      {
+        "en": "Kidney",
+        "zh": "肾",
+        "note": "肾血管与肾功能受到相关神经影响"
+      },
+      {
+        "en": "Bladder",
+        "zh": "膀胱",
+        "note": "储尿和排尿需要多种神经活动协调"
+      },
+      {
+        "en": "Gonads",
+        "zh": "性腺",
+        "note": "图中概括表示卵巢或睾丸等结构"
+      },
+      {
+        "en": "External genitalia",
+        "zh": "外生殖器",
+        "note": "血管及平滑肌活动受自主神经影响"
+      },
+      {
+        "en": "Skin",
+        "zh": "皮肤",
+        "note": "图中左侧示意交感纤维到体表组织"
+      },
+      {
+        "en": "Spinal cord",
+        "zh": "脊髓",
+        "note": "左侧中枢结构下部的脊髓示意"
+      },
+      {
+        "en": "Coccygeal ganglia fused together (ganglion impar)",
+        "zh": "融合的尾部交感神经节（奇神经节）",
+        "note": "位于两侧交感干最下端的连接处"
+      },
+      {
+        "en": "Sympathetic fibers",
+        "zh": "交感神经纤维",
+        "note": "图例红色表示交感系统相关路线"
+      },
+      {
+        "en": "Parasympathetic fibers",
+        "zh": "副交感神经纤维",
+        "note": "图例蓝色表示副交感系统相关路线"
+      },
+      {
+        "en": "T1 / T2 / T3 / T4 / T5 / T6 / T7 / T8 / T9 / T10 / T11 / T12",
+        "zh": "第一至第十二胸段",
+        "note": "字母与数字共同标记各胸髓节段"
+      },
+      {
+        "en": "L1 / L2 / L3 / L4 / L5",
+        "zh": "第一至第五腰段",
+        "note": "标记腰髓节段而非五条独立外周神经"
+      },
+      {
+        "en": "S1 / S2 / S3 / S4 / S5",
+        "zh": "第一至第五骶段",
+        "note": "骶段相关蓝线对应盆部副交感输出"
+      }
+    ]
   },
   {
     "section": "14-1-sensory-perception",
@@ -971,12 +5205,144 @@
     "chapter": "21",
     "id": "21-01",
     "title_zh": "眼球的光路与感光层",
-    "labels_zh": "cornea 角膜；lens 晶状体；retina 视网膜",
-    "guide_zh": "沿光进入的方向从角膜、瞳孔、晶状体走到视网膜，再区分光路与视神经输出方向。",
+    "labels_zh": "Lateral 外侧；Medial 内侧；Superior rectus muscle 上直肌；Inferior rectus muscle 下直肌；Sclera 巩膜；Choroid 脉络膜；Retina 视网膜；Fovea centralis 中央凹；Optic (II) nerve 视神经（第二对脑神经）；Central retinal artery and vein 视网膜中央动脉与静脉；Optic disc (blind spot) 视盘（盲点）；Posterior cavity 眼后部腔隙；Vitreous chamber 玻璃体腔；Scleral venous sinus (canal of Schlemm) 巩膜静脉窦（施莱姆管）；Suspensory ligaments 晶状体悬韧带；Lens 晶状体；Cornea 角膜；Iris 虹膜；Pupil 瞳孔；Anterior cavity (contains aqueous humor) 眼前部腔隙（含房水）；Posterior chamber 后房；Anterior chamber 前房；Ciliary body 睫状体；Ciliary process 睫状突；Ciliary muscle 睫状肌",
+    "guide_zh": "先认前后：图右侧透明角膜是眼球前部，左侧为视神经离开的后部。沿角膜、瞳孔、晶状体、玻璃体腔走向视网膜，理解光的传播；图中黑线是标注引线，并不是光路箭头。原图内外侧字样与上下直肌标签不一致，这里只用角膜和视神经判断前后，不按画面上下推断人体上下或内外。 再看眼球壁，从外向内分辨巩膜、脉络膜和视网膜。中央凹位于视网膜上，视盘则是视神经和血管通过的部位，后者没有感光细胞，不能将两处当成同一点。 最后放大图右前部，虹膜把含房水的眼前部腔隙分成前房与后房；后房仍在晶状体前方附近，不是晶状体后面的玻璃体腔。睫状肌、悬韧带与晶状体联系，眼外直肌则负责转动眼球。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/21-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "先认前后：图右侧透明角膜是眼球前部，左侧为视神经离开的后部。沿角膜、瞳孔、晶状体、玻璃体腔走向视网膜，理解光的传播；图中黑线是标注引线，并不是光路箭头。原图内外侧字样与上下直肌标签不一致，这里只用角膜和视神经判断前后，不按画面上下推断人体上下或内外。",
+      "再看眼球壁，从外向内分辨巩膜、脉络膜和视网膜。中央凹位于视网膜上，视盘则是视神经和血管通过的部位，后者没有感光细胞，不能将两处当成同一点。",
+      "最后放大图右前部，虹膜把含房水的眼前部腔隙分成前房与后房；后房仍在晶状体前方附近，不是晶状体后面的玻璃体腔。睫状肌、悬韧带与晶状体联系，眼外直肌则负责转动眼球。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Lateral",
+        "zh": "外侧",
+        "note": "意为外侧；原图与上下直肌方位标注冲突"
+      },
+      {
+        "en": "Medial",
+        "zh": "内侧",
+        "note": "意为内侧；本图不据此推断完整切面方向"
+      },
+      {
+        "en": "Superior rectus muscle",
+        "zh": "上直肌",
+        "note": "图中眼球外上方所画的眼外肌"
+      },
+      {
+        "en": "Inferior rectus muscle",
+        "zh": "下直肌",
+        "note": "图中眼球外下方所画的眼外肌"
+      },
+      {
+        "en": "Sclera",
+        "zh": "巩膜",
+        "note": "形成眼球壁外层大部分的纤维膜"
+      },
+      {
+        "en": "Choroid",
+        "zh": "脉络膜",
+        "note": "位于巩膜与视网膜之间的血管层"
+      },
+      {
+        "en": "Retina",
+        "zh": "视网膜",
+        "note": "眼球壁内层包含感光与神经回路"
+      },
+      {
+        "en": "Fovea centralis",
+        "zh": "中央凹",
+        "note": "视网膜上与精细视觉密切相关的小凹"
+      },
+      {
+        "en": "Optic (II) nerve",
+        "zh": "视神经（第二对脑神经）",
+        "note": "将视网膜神经信号传向中枢的通路"
+      },
+      {
+        "en": "Central retinal artery and vein",
+        "zh": "视网膜中央动脉与静脉",
+        "note": "经视神经附近通向视网膜的血管"
+      },
+      {
+        "en": "Optic disc (blind spot)",
+        "zh": "视盘（盲点）",
+        "note": "神经纤维汇出且缺少感光细胞的区域"
+      },
+      {
+        "en": "Posterior cavity",
+        "zh": "眼后部腔隙",
+        "note": "晶状体之后主要为玻璃体占据的空间"
+      },
+      {
+        "en": "Vitreous chamber",
+        "zh": "玻璃体腔",
+        "note": "位于晶状体与眼后壁视网膜之间"
+      },
+      {
+        "en": "Scleral venous sinus (canal of Schlemm)",
+        "zh": "巩膜静脉窦（施莱姆管）",
+        "note": "位于前房角附近并参与房水引流"
+      },
+      {
+        "en": "Suspensory ligaments",
+        "zh": "晶状体悬韧带",
+        "note": "连接睫状体与晶状体并传递张力"
+      },
+      {
+        "en": "Lens",
+        "zh": "晶状体",
+        "note": "位于虹膜后方并参与眼球调焦"
+      },
+      {
+        "en": "Cornea",
+        "zh": "角膜",
+        "note": "眼球前部透明并有重要折光作用"
+      },
+      {
+        "en": "Iris",
+        "zh": "虹膜",
+        "note": "位于晶状体前方并围成中央瞳孔"
+      },
+      {
+        "en": "Pupil",
+        "zh": "瞳孔",
+        "note": "虹膜中央供光线通过的可变大小开口"
+      },
+      {
+        "en": "Anterior cavity (contains aqueous humor)",
+        "zh": "眼前部腔隙（含房水）",
+        "note": "角膜与晶状体之间含前房和后房"
+      },
+      {
+        "en": "Posterior chamber",
+        "zh": "后房",
+        "note": "虹膜后方与晶状体前方之间的窄隙"
+      },
+      {
+        "en": "Anterior chamber",
+        "zh": "前房",
+        "note": "角膜后方与虹膜前方之间的空间"
+      },
+      {
+        "en": "Ciliary body",
+        "zh": "睫状体",
+        "note": "前部血管膜的增厚部分包含睫状肌"
+      },
+      {
+        "en": "Ciliary process",
+        "zh": "睫状突",
+        "note": "睫状体向内的突起并参与房水形成"
+      },
+      {
+        "en": "Ciliary muscle",
+        "zh": "睫状肌",
+        "note": "借悬韧带张力变化影响晶状体形状"
+      }
+    ]
   },
   {
     "section": "14-1-sensory-perception",
@@ -990,12 +5356,99 @@
     "chapter": "21",
     "id": "21-02",
     "title_zh": "外耳、中耳与内耳",
-    "labels_zh": "tympanic membrane 鼓膜；ossicles 听小骨；cochlea 耳蜗",
-    "guide_zh": "按声能进入方向识别三区，注意内耳同时包含听觉与前庭结构，并非所有部分都负责听。",
+    "labels_zh": "Auricle 耳廓；Ear canal 外耳道；Tympanic membrane 鼓膜；Malleus 锤骨；Incus 砧骨；Stapes (attached to oval window) 镫骨（连接卵圆窗）；Tympanic cavity 鼓室；Vestibule 前庭；Vestibular nerve 前庭神经；Cochlear nerve 耳蜗神经；Round window 圆窗；Cochlea 耳蜗；Eustachian tube 咽鼓管；External ear 外耳；Middle ear 中耳；Inner ear 内耳",
+    "guide_zh": "沿图下方括号先把耳分成外耳、中耳、内耳，再从左侧耳廓向右沿外耳道找到鼓膜。鼓膜把外耳道与含气的中耳鼓室隔开，不应把整条通道都看成通向内耳的空管。 继续追到与鼓膜相接的锤骨，再到砧骨与镫骨；镫骨底部接在卵圆窗，把振动传向内耳。耳蜗像盘绕的小壳，与上方前庭相邻；耳蜗神经与前庭神经传送的信息不同。 右下斜向下方的咽鼓管连接鼓室与鼻咽部，参与压力平衡，不通入脑内。圆窗位于耳蜗邻近的骨壁，和镫骨所接的卵圆窗是两个不同的膜性窗口，不能混为同一出口。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/21-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "沿图下方括号先把耳分成外耳、中耳、内耳，再从左侧耳廓向右沿外耳道找到鼓膜。鼓膜把外耳道与含气的中耳鼓室隔开，不应把整条通道都看成通向内耳的空管。",
+      "继续追到与鼓膜相接的锤骨，再到砧骨与镫骨；镫骨底部接在卵圆窗，把振动传向内耳。耳蜗像盘绕的小壳，与上方前庭相邻；耳蜗神经与前庭神经传送的信息不同。",
+      "右下斜向下方的咽鼓管连接鼓室与鼻咽部，参与压力平衡，不通入脑内。圆窗位于耳蜗邻近的骨壁，和镫骨所接的卵圆窗是两个不同的膜性窗口，不能混为同一出口。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Auricle",
+        "zh": "耳廓",
+        "note": "外侧可见并帮助收集声音的部分"
+      },
+      {
+        "en": "Ear canal",
+        "zh": "外耳道",
+        "note": "将声音从耳廓附近传向鼓膜的通道"
+      },
+      {
+        "en": "Tympanic membrane",
+        "zh": "鼓膜",
+        "note": "外耳道内端随声音振动的薄膜"
+      },
+      {
+        "en": "Malleus",
+        "zh": "锤骨",
+        "note": "与鼓膜相连的第一块听小骨"
+      },
+      {
+        "en": "Incus",
+        "zh": "砧骨",
+        "note": "位于锤骨与镫骨之间的听小骨"
+      },
+      {
+        "en": "Stapes (attached to oval window)",
+        "zh": "镫骨（连接卵圆窗）",
+        "note": "其底部将听小骨振动传向内耳"
+      },
+      {
+        "en": "Tympanic cavity",
+        "zh": "鼓室",
+        "note": "位于鼓膜内侧并容纳听小骨的含气腔"
+      },
+      {
+        "en": "Vestibule",
+        "zh": "前庭",
+        "note": "内耳中连接半规管与耳蜗邻近的区域"
+      },
+      {
+        "en": "Vestibular nerve",
+        "zh": "前庭神经",
+        "note": "传送与头位和运动相关的平衡信息"
+      },
+      {
+        "en": "Cochlear nerve",
+        "zh": "耳蜗神经",
+        "note": "将耳蜗产生的听觉信息传向中枢"
+      },
+      {
+        "en": "Round window",
+        "zh": "圆窗",
+        "note": "耳蜗邻近由膜封闭的另一窗口"
+      },
+      {
+        "en": "Cochlea",
+        "zh": "耳蜗",
+        "note": "内耳中盘绕并完成听觉转换的结构"
+      },
+      {
+        "en": "Eustachian tube",
+        "zh": "咽鼓管",
+        "note": "连接鼓室与鼻咽部以帮助平衡压力"
+      },
+      {
+        "en": "External ear",
+        "zh": "外耳",
+        "note": "图下左侧括号划定耳廓到鼓膜的部分"
+      },
+      {
+        "en": "Middle ear",
+        "zh": "中耳",
+        "note": "图下中部括号包含鼓室与听小骨"
+      },
+      {
+        "en": "Inner ear",
+        "zh": "内耳",
+        "note": "图下右侧括号包含耳蜗与前庭结构"
+      }
+    ]
   },
   {
     "section": "14-1-sensory-perception",
@@ -1009,13 +5462,110 @@
     "chapter": "21",
     "id": "21-03",
     "title_zh": "嗅上皮与嗅觉通路",
-    "labels_zh": "olfactory epithelium 嗅上皮；olfactory bulb 嗅球",
-    "guide_zh": "嗅觉感受区位于鼻腔上部，并非整片鼻黏膜都有相同功能；图中感觉传入与气流路径要区分。",
+    "labels_zh": "Olfactory bulb 嗅球；Olfactory tract 嗅束；Olfactory epithelium 嗅上皮；Nasal conchae 鼻甲；Path of inhaled air 吸入空气的路径；Mitral cells 僧帽细胞；Olfactory neurons 嗅觉神经元；Ethmoid bone 筛骨；Filaments of olfactory nerve 嗅神经细丝；Connective tissue 结缔组织；Olfactory gland 嗅腺；Olfactory receptor 嗅觉感受神经元；Dendrite 树突；Mucus 黏液；Olfactory cilia 嗅纤毛；Path of inhaled air containing odorant molecules 含气味分子的吸入气流路径；Nasal cavity 鼻腔；Olfactory system 嗅觉系统",
+    "guide_zh": "先看左上鼻腔侧面图，红箭头是吸入气流，嗅上皮只位于鼻腔顶部的一小片区域。灰色大箭头将这个局部放大到右图，既不是气流，也不是神经信号的传播方向。 右图由下向上读：气味分子随气流到达黏液，接触嗅纤毛及嗅觉感受神经元。它们的轴突汇成嗅神经细丝，穿过筛骨筛板小孔，在嗅球内与后续神经元建立联系，之后接入嗅束。 右图的嗅腺与结缔组织位于上皮的深面，不能把嗅腺当成感受神经元。最下方是染色嗅上皮的显微照片，对照模式图找排列密集的细胞层；原材料来自动物组织，并非人体鼻腔实拍。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/21-03.jpg",
     "after_section": 3,
-    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012"
+    "additional_credit": "Micrograph provided by the Regents of University of Michigan Medical School © 2012",
+    "reading_zh_full": [
+      "先看左上鼻腔侧面图，红箭头是吸入气流，嗅上皮只位于鼻腔顶部的一小片区域。灰色大箭头将这个局部放大到右图，既不是气流，也不是神经信号的传播方向。",
+      "右图由下向上读：气味分子随气流到达黏液，接触嗅纤毛及嗅觉感受神经元。它们的轴突汇成嗅神经细丝，穿过筛骨筛板小孔，在嗅球内与后续神经元建立联系，之后接入嗅束。",
+      "右图的嗅腺与结缔组织位于上皮的深面，不能把嗅腺当成感受神经元。最下方是染色嗅上皮的显微照片，对照模式图找排列密集的细胞层；原材料来自动物组织，并非人体鼻腔实拍。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Olfactory bulb",
+        "zh": "嗅球",
+        "note": "位于鼻腔顶部骨板上方的嗅觉中继结构"
+      },
+      {
+        "en": "Olfactory tract",
+        "zh": "嗅束",
+        "note": "由嗅球向后联系其他脑区的纤维通路"
+      },
+      {
+        "en": "Olfactory epithelium",
+        "zh": "嗅上皮",
+        "note": "鼻腔上部含嗅觉感受神经元的上皮"
+      },
+      {
+        "en": "Nasal conchae",
+        "zh": "鼻甲",
+        "note": "鼻腔侧壁向内突出的卷曲骨性结构"
+      },
+      {
+        "en": "Path of inhaled air",
+        "zh": "吸入空气的路径",
+        "note": "左图红箭头表示空气进入鼻腔方向"
+      },
+      {
+        "en": "Mitral cells",
+        "zh": "僧帽细胞",
+        "note": "嗅球内接收输入并参与输出的神经元"
+      },
+      {
+        "en": "Olfactory neurons",
+        "zh": "嗅觉神经元",
+        "note": "原图引线指向嗅球下部的轴突汇聚区"
+      },
+      {
+        "en": "Ethmoid bone",
+        "zh": "筛骨",
+        "note": "图中多孔骨板属于筛骨的筛板部分"
+      },
+      {
+        "en": "Filaments of olfactory nerve",
+        "zh": "嗅神经细丝",
+        "note": "嗅觉感受神经元轴突穿筛板形成的细束"
+      },
+      {
+        "en": "Connective tissue",
+        "zh": "结缔组织",
+        "note": "位于嗅上皮深面并支持血管和腺体"
+      },
+      {
+        "en": "Olfactory gland",
+        "zh": "嗅腺",
+        "note": "位于上皮深面并向表面分泌的腺体"
+      },
+      {
+        "en": "Olfactory receptor",
+        "zh": "嗅觉感受神经元",
+        "note": "黄色细长细胞负责感受气味刺激"
+      },
+      {
+        "en": "Dendrite",
+        "zh": "树突",
+        "note": "从感受神经元胞体伸向表面的突起"
+      },
+      {
+        "en": "Mucus",
+        "zh": "黏液",
+        "note": "覆盖嗅上皮表面并溶解气味分子"
+      },
+      {
+        "en": "Olfactory cilia",
+        "zh": "嗅纤毛",
+        "note": "位于上皮表面黏液中并承载感受结构"
+      },
+      {
+        "en": "Path of inhaled air containing odorant molecules",
+        "zh": "含气味分子的吸入气流路径",
+        "note": "右图底部红箭头表示气流经过上皮表面"
+      },
+      {
+        "en": "Nasal cavity",
+        "zh": "鼻腔",
+        "note": "左侧分图显示嗅觉区域的整体位置"
+      },
+      {
+        "en": "Olfactory system",
+        "zh": "嗅觉系统",
+        "note": "右侧分图显示从上皮到嗅球的局部连接"
+      }
+    ]
   },
   {
     "section": "17-1-an-overview-of-the-endocrine-system",
@@ -1029,12 +5579,89 @@
     "chapter": "22",
     "id": "22-01",
     "title_zh": "内分泌结构分散在全身",
-    "labels_zh": "pituitary 垂体；thyroid 甲状腺；adrenal 肾上腺",
-    "guide_zh": "从头部到颈、胸腹与盆部定位腺体。胰等器官兼有内分泌和其他功能，不能只按外形归类。",
+    "labels_zh": "Pineal gland 松果体；Hypothalamus 下丘脑；Pituitary gland 垂体；Thymus 胸腺；Thyroid 甲状腺局部图；Thyroid cartilage of the larynx 喉的甲状软骨；Thyroid gland 甲状腺；Parathyroid glands (on posterior side of thyroid) 甲状旁腺（位于甲状腺后侧）；Trachea 气管；Adrenal glands 肾上腺；Pancreas 胰腺；Uterus 子宫；Ovaries (female) 卵巢（女性常见性腺）；Testes (male) 睾丸（男性常见性腺）",
+    "guide_zh": "先从左侧人体轮廓由上向下定位：头部下丘脑、垂体和松果体，颈部甲状腺及甲状旁腺，上胸部胸腺，再到腹部肾上腺和胰腺。图省略了很多邻近器官，并不是完整解剖剖面。 两支灰色大箭头仅表示局部放大。头部框用于分清松果体、下丘脑和垂体；颈部框把通常位于甲状腺后侧的甲状旁腺透出显示，四个小点不表示它们都能从正面直接看见。 下方把卵巢和睾丸两类性腺并置于同一轮廓内以便比较，并非一名个体的实际器官组合。子宫、气管与甲状软骨是位置参照，不能因被标出就把它们等同于图中独立内分泌腺。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/22-01.jpg",
-    "after_section": 1
+    "after_section": 1,
+    "reading_zh_full": [
+      "先从左侧人体轮廓由上向下定位：头部下丘脑、垂体和松果体，颈部甲状腺及甲状旁腺，上胸部胸腺，再到腹部肾上腺和胰腺。图省略了很多邻近器官，并不是完整解剖剖面。",
+      "两支灰色大箭头仅表示局部放大。头部框用于分清松果体、下丘脑和垂体；颈部框把通常位于甲状腺后侧的甲状旁腺透出显示，四个小点不表示它们都能从正面直接看见。",
+      "下方把卵巢和睾丸两类性腺并置于同一轮廓内以便比较，并非一名个体的实际器官组合。子宫、气管与甲状软骨是位置参照，不能因被标出就把它们等同于图中独立内分泌腺。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Pineal gland",
+        "zh": "松果体",
+        "note": "位于间脑后上部并产生褪黑素的结构"
+      },
+      {
+        "en": "Hypothalamus",
+        "zh": "下丘脑",
+        "note": "位于间脑下部并联系神经与内分泌调节"
+      },
+      {
+        "en": "Pituitary gland",
+        "zh": "垂体",
+        "note": "位于下丘脑下方并由垂体柄相连"
+      },
+      {
+        "en": "Thymus",
+        "zh": "胸腺",
+        "note": "位于胸腔前上部的免疫相关器官"
+      },
+      {
+        "en": "Thyroid",
+        "zh": "甲状腺局部图",
+        "note": "右中放大框展示甲状腺邻近结构"
+      },
+      {
+        "en": "Thyroid cartilage of the larynx",
+        "zh": "喉的甲状软骨",
+        "note": "位于甲状腺上方的喉部软骨参照"
+      },
+      {
+        "en": "Thyroid gland",
+        "zh": "甲状腺",
+        "note": "位于颈前并分列气管上段两侧"
+      },
+      {
+        "en": "Parathyroid glands (on posterior side of thyroid)",
+        "zh": "甲状旁腺（位于甲状腺后侧）",
+        "note": "小型独立腺体借透视方式显示在图中"
+      },
+      {
+        "en": "Trachea",
+        "zh": "气管",
+        "note": "颈部放大图中用于定位的管状结构"
+      },
+      {
+        "en": "Adrenal glands",
+        "zh": "肾上腺",
+        "note": "位于两侧肾的上方并分皮质与髓质"
+      },
+      {
+        "en": "Pancreas",
+        "zh": "胰腺",
+        "note": "腹部横向结构兼有内外分泌功能"
+      },
+      {
+        "en": "Uterus",
+        "zh": "子宫",
+        "note": "此处作为卵巢位置关系的盆腔参照"
+      },
+      {
+        "en": "Ovaries (female)",
+        "zh": "卵巢（女性常见性腺）",
+        "note": "位于子宫两侧并兼具生殖与内分泌作用"
+      },
+      {
+        "en": "Testes (male)",
+        "zh": "睾丸（男性常见性腺）",
+        "note": "通常位于阴囊并兼具生殖与内分泌作用"
+      }
+    ]
   },
   {
     "section": "17-3-the-pituitary-gland-and-hypothalamus",
@@ -1048,12 +5675,44 @@
     "chapter": "22",
     "id": "22-02",
     "title_zh": "下丘脑与垂体的连接",
-    "labels_zh": "hypothalamus 下丘脑；anterior pituitary 腺垂体；posterior pituitary 神经垂体",
-    "guide_zh": "比较前后部与下丘脑的不同连接；神经联系和垂体门脉系统不是同一条通路。",
+    "labels_zh": "Thalamus 丘脑；Hypothalamus 下丘脑；Infundibulum 漏斗部（垂体柄相关部分）；Anterior pituitary 垂体前叶；Posterior pituitary 垂体后叶",
+    "guide_zh": "先看左上头部正中剖面，方框圈出颅底附近的下丘脑与垂体区域；灰色箭头将它放大到右图。脸部在左，脑干在右下，因此图中左右不能直接解释为人体左右侧。 右图先找到较大的丘脑，再向其前下方找蓝绿色下丘脑。向下沿橙色漏斗部到达垂体，左侧浅绿色部分为垂体前叶，右侧紫色部分为垂体后叶，两者借同一柄部与下丘脑邻接。 这幅图直接显示的是位置和外形，不包含神经轴突或垂体门脉血管的完整细线。前叶经门脉信号调节、后叶由下丘脑轴突延伸等关系需结合正文理解，不能宣称已由此图逐条展示。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/22-02.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "先看左上头部正中剖面，方框圈出颅底附近的下丘脑与垂体区域；灰色箭头将它放大到右图。脸部在左，脑干在右下，因此图中左右不能直接解释为人体左右侧。",
+      "右图先找到较大的丘脑，再向其前下方找蓝绿色下丘脑。向下沿橙色漏斗部到达垂体，左侧浅绿色部分为垂体前叶，右侧紫色部分为垂体后叶，两者借同一柄部与下丘脑邻接。",
+      "这幅图直接显示的是位置和外形，不包含神经轴突或垂体门脉血管的完整细线。前叶经门脉信号调节、后叶由下丘脑轴突延伸等关系需结合正文理解，不能宣称已由此图逐条展示。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Thalamus",
+        "zh": "丘脑",
+        "note": "位于下丘脑上方的间脑主要结构"
+      },
+      {
+        "en": "Hypothalamus",
+        "zh": "下丘脑",
+        "note": "蓝绿色区域并位于丘脑前下方"
+      },
+      {
+        "en": "Infundibulum",
+        "zh": "漏斗部（垂体柄相关部分）",
+        "note": "橙色柄部连接下丘脑与下方垂体"
+      },
+      {
+        "en": "Anterior pituitary",
+        "zh": "垂体前叶",
+        "note": "图左浅绿色部分以腺性组织为主"
+      },
+      {
+        "en": "Posterior pituitary",
+        "zh": "垂体后叶",
+        "note": "图右紫色部分与下丘脑神经轴突相续"
+      }
+    ]
   },
   {
     "section": "4-2-epithelial-tissue",
@@ -1067,12 +5726,84 @@
     "chapter": "23",
     "id": "23-01",
     "title_zh": "上皮细胞的排列方式",
-    "labels_zh": "simple 单层；stratified 复层；squamous 鳞状；columnar 柱状",
-    "guide_zh": "分别观察层数与表层细胞形状，这两条分类线索共同决定名称；假复层不能单凭细胞核高低判断层数。",
+    "labels_zh": "Simple 单层；Stratified 复层；Squamous 鳞状（扁平）；Cuboidal 立方状；Columnar 柱状；Pseudostratified 假复层；Simple squamous epithelium 单层鳞状上皮；Stratified squamous epithelium 复层鳞状上皮；Simple cuboidal epithelium 单层立方上皮；Stratified cuboidal epithelium 复层立方上皮；Simple columnar epithelium 单层柱状上皮；Stratified columnar epithelium 复层柱状上皮；Pseudostratified columnar epithelium 假复层柱状上皮",
+    "guide_zh": "这是一张按两个维度排列的分类表，不是连续剥开身体的步骤图。先横看列标题：左列单层，中列复层；再竖看行标题：从上到下依次为鳞状、立方状、柱状，组合起来才是上皮类型的名称。 各小格底部紫色细带表示细胞附着的基底侧，顶部为自由表面。比较同一行的左右两格可看清层数差异，比较单层一列的上下三格则能看清细胞由扁到高的形状变化。 右下单独的小格是假复层柱状上皮，细胞核高度不齐，但所有细胞都接触基底膜。复层上皮按最表层细胞形状命名，不能用底层细胞形状或细胞核的排数代替分类判断。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/23-01.jpg",
-    "after_section": 2
+    "after_section": 2,
+    "reading_zh_full": [
+      "这是一张按两个维度排列的分类表，不是连续剥开身体的步骤图。先横看列标题：左列单层，中列复层；再竖看行标题：从上到下依次为鳞状、立方状、柱状，组合起来才是上皮类型的名称。",
+      "各小格底部紫色细带表示细胞附着的基底侧，顶部为自由表面。比较同一行的左右两格可看清层数差异，比较单层一列的上下三格则能看清细胞由扁到高的形状变化。",
+      "右下单独的小格是假复层柱状上皮，细胞核高度不齐，但所有细胞都接触基底膜。复层上皮按最表层细胞形状命名，不能用底层细胞形状或细胞核的排数代替分类判断。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Simple",
+        "zh": "单层",
+        "note": "列标题表示上皮只有一层细胞"
+      },
+      {
+        "en": "Stratified",
+        "zh": "复层",
+        "note": "列标题表示上皮由多层细胞构成"
+      },
+      {
+        "en": "Squamous",
+        "zh": "鳞状（扁平）",
+        "note": "行标题表示表层细胞呈扁平形态"
+      },
+      {
+        "en": "Cuboidal",
+        "zh": "立方状",
+        "note": "行标题表示细胞高度与宽度较接近"
+      },
+      {
+        "en": "Columnar",
+        "zh": "柱状",
+        "note": "行标题表示表层细胞高度明显较大"
+      },
+      {
+        "en": "Pseudostratified",
+        "zh": "假复层",
+        "note": "看似多层但所有细胞均接触基底膜"
+      },
+      {
+        "en": "Simple squamous epithelium",
+        "zh": "单层鳞状上皮",
+        "note": "左上格为一层扁平细胞覆盖的表面"
+      },
+      {
+        "en": "Stratified squamous epithelium",
+        "zh": "复层鳞状上皮",
+        "note": "右上格有多层且表层细胞较扁平"
+      },
+      {
+        "en": "Simple cuboidal epithelium",
+        "zh": "单层立方上皮",
+        "note": "左中格为一层近立方形细胞排列"
+      },
+      {
+        "en": "Stratified cuboidal epithelium",
+        "zh": "复层立方上皮",
+        "note": "右中格由多层近立方形细胞构成"
+      },
+      {
+        "en": "Simple columnar epithelium",
+        "zh": "单层柱状上皮",
+        "note": "左下格为一层较高柱形细胞排列"
+      },
+      {
+        "en": "Stratified columnar epithelium",
+        "zh": "复层柱状上皮",
+        "note": "中下格的表面一层呈较高柱形"
+      },
+      {
+        "en": "Pseudostratified columnar epithelium",
+        "zh": "假复层柱状上皮",
+        "note": "右下格细胞核高低不齐但不是真复层"
+      }
+    ]
   },
   {
     "section": "3-2-the-cytoplasm-and-cellular-organelles",
@@ -1086,12 +5817,114 @@
     "chapter": "23",
     "id": "23-02",
     "title_zh": "一个概括性的人体细胞示意",
-    "labels_zh": "nucleus 细胞核；mitochondrion 线粒体；ribosome 核糖体",
-    "guide_zh": "把细胞膜、细胞核与细胞质细胞器区分开。该图是综合示意，成熟红细胞等特化细胞并不具备图中所有结构。",
+    "labels_zh": "Intermediate filament 中间丝；Ribosomes 核糖体；Rough endoplasmic reticulum 粗面内质网；Nucleus 细胞核；Nucleolus 核仁；Chromatin 染色质；Golgi apparatus 高尔基体；Golgi vesicle 高尔基体囊泡；Cytoplasm 细胞质；Vacuole 液泡（概括性囊泡）；Mitochondria 线粒体；Plasma membrane 细胞膜；Microtubule 微管；Centrosome 中心体；Microfilament 微丝；Lysosome 溶酶体；Smooth endoplasmic reticulum 滑面内质网；Secretory vesicle 分泌囊泡；Peroxisome 过氧化物酶体",
+    "guide_zh": "先沿外圈找到细胞膜，再把内部紫色大圆的细胞核与周围细胞质分开。核内深色核仁和细线状染色质是不同成分；这是一张综合模式图，不代表每种人体细胞都长成同样外形。 沿细胞核外围蓝色折叠膜找粗面内质网，红色小点是核糖体；再向左下找到粉色高尔基体及附近囊泡，理解部分蛋白质从合成、加工到分拣运输的联系，图中并未画出完整运输箭头。 最后找橙色线粒体、粉色溶酶体、绿色过氧化物酶体及三类细胞骨架。图中比例和数量为便于识别而简化，浅蓝液泡也不是人体细胞普遍具有的植物式大中央液泡。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/23-02.jpg",
-    "after_section": 3
+    "after_section": 3,
+    "reading_zh_full": [
+      "先沿外圈找到细胞膜，再把内部紫色大圆的细胞核与周围细胞质分开。核内深色核仁和细线状染色质是不同成分；这是一张综合模式图，不代表每种人体细胞都长成同样外形。",
+      "沿细胞核外围蓝色折叠膜找粗面内质网，红色小点是核糖体；再向左下找到粉色高尔基体及附近囊泡，理解部分蛋白质从合成、加工到分拣运输的联系，图中并未画出完整运输箭头。",
+      "最后找橙色线粒体、粉色溶酶体、绿色过氧化物酶体及三类细胞骨架。图中比例和数量为便于识别而简化，浅蓝液泡也不是人体细胞普遍具有的植物式大中央液泡。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Intermediate filament",
+        "zh": "中间丝",
+        "note": "图中较细纤维之一参与承受细胞牵拉"
+      },
+      {
+        "en": "Ribosomes",
+        "zh": "核糖体",
+        "note": "红色小点参与细胞内的蛋白质合成"
+      },
+      {
+        "en": "Rough endoplasmic reticulum",
+        "zh": "粗面内质网",
+        "note": "细胞核附近附有核糖体的蓝色膜网"
+      },
+      {
+        "en": "Nucleus",
+        "zh": "细胞核",
+        "note": "包含主要遗传信息的紫色大结构"
+      },
+      {
+        "en": "Nucleolus",
+        "zh": "核仁",
+        "note": "细胞核内较深色并与核糖体生成相关"
+      },
+      {
+        "en": "Chromatin",
+        "zh": "染色质",
+        "note": "细胞核内由遗传物质与蛋白构成"
+      },
+      {
+        "en": "Golgi apparatus",
+        "zh": "高尔基体",
+        "note": "左下粉色扁囊参与分拣加工细胞产物"
+      },
+      {
+        "en": "Golgi vesicle",
+        "zh": "高尔基体囊泡",
+        "note": "高尔基体附近用于运输的膜性小泡"
+      },
+      {
+        "en": "Cytoplasm",
+        "zh": "细胞质",
+        "note": "细胞膜内而位于细胞核之外的部分"
+      },
+      {
+        "en": "Vacuole",
+        "zh": "液泡（概括性囊泡）",
+        "note": "原图浅蓝囊泡并非植物式大中央液泡"
+      },
+      {
+        "en": "Mitochondria",
+        "zh": "线粒体",
+        "note": "橙色双膜结构参与细胞能量转换"
+      },
+      {
+        "en": "Plasma membrane",
+        "zh": "细胞膜",
+        "note": "围住整个细胞并形成选择性交换界面"
+      },
+      {
+        "en": "Microtubule",
+        "zh": "微管",
+        "note": "较粗的骨架管状成分参与运输和分裂"
+      },
+      {
+        "en": "Centrosome",
+        "zh": "中心体",
+        "note": "细胞内与微管组织相关的结构区域"
+      },
+      {
+        "en": "Microfilament",
+        "zh": "微丝",
+        "note": "细胞骨架成分并参与形态和运动"
+      },
+      {
+        "en": "Lysosome",
+        "zh": "溶酶体",
+        "note": "粉色囊泡内的酶参与分解与回收"
+      },
+      {
+        "en": "Smooth endoplasmic reticulum",
+        "zh": "滑面内质网",
+        "note": "无表面核糖体的膜网参与脂质等代谢"
+      },
+      {
+        "en": "Secretory vesicle",
+        "zh": "分泌囊泡",
+        "note": "图右靠近细胞膜并将产物送往胞外"
+      },
+      {
+        "en": "Peroxisome",
+        "zh": "过氧化物酶体",
+        "note": "绿色小体参与脂质与过氧化物的代谢"
+      }
+    ]
   },
   {
     "section": "1-5-homeostasis",
@@ -1105,11 +5938,78 @@
     "chapter": "24",
     "id": "24-01",
     "title_zh": "负反馈如何维持动态稳定",
-    "labels_zh": "stimulus 刺激；receptor 感受器；control center 控制中心；effector 效应器",
-    "guide_zh": "按箭头追踪偏离、检测、调节与结果，理解负反馈抵消偏离趋势；稳态不是所有指标永远固定。",
+    "labels_zh": "Stimulus 刺激（偏离）；Sensor 传感环节（感受器）；Control Center 控制中心；Effector 效应器；Response 反应；Body temperature exceeds 37°C 体温超过三十七摄氏度；Nerve cells in skin and brain 皮肤和脑中的神经细胞；Temperature regulatory center in brain 脑内体温调节中心；Sweat glands throughout body 全身汗腺；Increased heat loss 散热增加；Negative feedback loop 负反馈环路；Body temperature regulation 体温调节",
+    "guide_zh": "先看左边的通用流程：从最上方刺激开始，沿向下箭头依次到传感环节、控制中心、效应器和反应。左侧粗红线将反应绕回刺激，表示结果反过来影响最初偏离，不能仅按红线理解为进一步放大刺激。 再逐行对应右侧体温例子：体温升高被皮肤和脑中的相关神经细胞检测，脑内调节中心影响汗腺，增加散热。汗液蒸发等作用抵消升温趋势，这种抵消关系才是负反馈的关键。 图以三十七摄氏度作为便于说明的参考值，并非所有人、所有时间和所有测量部位的固定阈值。它只突出汗腺这一条效应路线，还省略皮肤血流等参与散热的调节途径。",
     "license": "CC BY-NC-SA 4.0",
     "attribution": "OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University",
     "path": "assets/images/24-01.jpg",
-    "after_section": 4
+    "after_section": 4,
+    "reading_zh_full": [
+      "先看左边的通用流程：从最上方刺激开始，沿向下箭头依次到传感环节、控制中心、效应器和反应。左侧粗红线将反应绕回刺激，表示结果反过来影响最初偏离，不能仅按红线理解为进一步放大刺激。",
+      "再逐行对应右侧体温例子：体温升高被皮肤和脑中的相关神经细胞检测，脑内调节中心影响汗腺，增加散热。汗液蒸发等作用抵消升温趋势，这种抵消关系才是负反馈的关键。",
+      "图以三十七摄氏度作为便于说明的参考值，并非所有人、所有时间和所有测量部位的固定阈值。它只突出汗腺这一条效应路线，还省略皮肤血流等参与散热的调节途径。"
+    ],
+    "labels_zh_full": [
+      {
+        "en": "Stimulus",
+        "zh": "刺激（偏离）",
+        "note": "流程最上端代表引起调节的状态变化"
+      },
+      {
+        "en": "Sensor",
+        "zh": "传感环节（感受器）",
+        "note": "检测相关变量并向调节中心提供信息"
+      },
+      {
+        "en": "Control Center",
+        "zh": "控制中心",
+        "note": "整合信息并影响效应器活动的环节"
+      },
+      {
+        "en": "Effector",
+        "zh": "效应器",
+        "note": "接受调节信号并执行相应活动的结构"
+      },
+      {
+        "en": "Response",
+        "zh": "反应",
+        "note": "效应器活动造成对原有偏离的抵消"
+      },
+      {
+        "en": "Body temperature exceeds 37°C",
+        "zh": "体温超过三十七摄氏度",
+        "note": "右图用来简化说明升温偏离的参考例"
+      },
+      {
+        "en": "Nerve cells in skin and brain",
+        "zh": "皮肤和脑中的神经细胞",
+        "note": "右图中承担温度检测相关功能的环节"
+      },
+      {
+        "en": "Temperature regulatory center in brain",
+        "zh": "脑内体温调节中心",
+        "note": "整合温度信息并组织散热相关反应"
+      },
+      {
+        "en": "Sweat glands throughout body",
+        "zh": "全身汗腺",
+        "note": "右图选取增加出汗作为效应器活动"
+      },
+      {
+        "en": "Increased heat loss",
+        "zh": "散热增加",
+        "note": "借散热增强来抵消最初的升温趋势"
+      },
+      {
+        "en": "Negative feedback loop",
+        "zh": "负反馈环路",
+        "note": "左侧分图展示调节抵消偏离的基本关系"
+      },
+      {
+        "en": "Body temperature regulation",
+        "zh": "体温调节",
+        "note": "右侧分图将通用环路对应到体温例子"
+      }
+    ]
   }
 ]

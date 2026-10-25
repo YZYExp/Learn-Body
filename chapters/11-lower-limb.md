@@ -22,9 +22,53 @@
 
 ![髋与大腿肌肉的空间关系](../assets/images/11-01.jpg)
 
-**读图：** 比较前后与浅深层视图，先看臀区肌群，再追踪肌肉跨越髋关节的方向。臀中肌在单腿支撑时参与骨盆稳定。
+#### 中文读图说明
 
-**标注对应：** gluteus maximus 臀大肌；gluteus medius 臀中肌；iliopsoas 髂腰肌。
+本图不是从左到右等高排列：上左为右侧髋大腿前面浅层，下左为前面深层，右下为后面观。先由骨盆追到膝：髌上是股四头肌腱，髌下是髌韧带；原图把髌腱括注在髌上，易混，需按位置区分。
+
+前面浅层的缝匠肌斜跨大腿；深层图去除遮挡，显出长短内收肌、大收肌及闭孔外肌。腰大肌与髂肌靠近骨盆内侧，共同联系髋前方，不是长在臀部表面的肌块。
+
+后面观把臀大肌、臀中肌切开翻起，才显露臀小肌、梨状肌、上下孖肌等深部结构。继续向下可见半膜肌、半腱肌和股二头肌；括号cut表示人为切开，不能把残留断面误读成完整肌腹。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Quadratus lumborum | 腰方肌 | 位于后腹壁并参与腰部稳定和侧屈 |
+| Iliacus | 髂肌 | 位于髂窝内与腰大肌共同参与屈髋 |
+| Crest of ilium / Iliac crest | 髂嵴 | 髋骨上缘为多处肌肉附着的骨性标志 |
+| Tensor fascia latae | 阔筋膜张肌 | 髋前外侧肌与髂胫束相连并参与稳定 |
+| Rectus femoris | 股直肌 | 前侧股四头肌之一同时跨越髋膝关节 |
+| Vastus lateralis | 股外侧肌 | 股四头肌外侧部分主要参与伸膝 |
+| Psoas major | 腰大肌 | 自腰部向下经过髋前方并参与屈髋 |
+| Pectineus | 耻骨肌 | 大腿近端前内侧参与内收和屈髋 |
+| Sacrum | 骶骨 | 骨盆后方中轴骨把脊柱与髋骨联系 |
+| Adductor longus | 长收肌 | 大腿内侧肌群中较浅层的内收肌 |
+| Gracilis | 股薄肌 | 大腿内侧细长肌同时跨越髋与膝 |
+| Adductor magnus | 大收肌 | 大腿内侧宽大深肌参与内收等动作 |
+| Sartorius | 缝匠肌 | 从髋外上向膝内侧斜跨的带状肌 |
+| Vastus medialis | 股内侧肌 | 股四头肌内侧部分参与伸膝装置 |
+| Quadriceps tendon (or patellar tendon) | 股四头肌腱（原图括注髌腱） | 引线指髌骨上方应与髌下髌韧带区分 |
+| Patellar ligament | 髌韧带 | 髌骨下方连到胫骨以传递伸膝拉力 |
+| Pubis | 耻骨 | 髋骨前下部为部分内收肌提供起点 |
+| Obturator externus | 闭孔外肌 | 位于髋深部参与股骨外旋和稳定 |
+| Adductor brevis | 短收肌 | 位于长收肌深方参与大腿内收 |
+| Adductor group | 内收肌群 | 括线合列长收肌短收肌和大收肌 |
+| Gluteus medius (cut) | 臀中肌（已切开） | 右图切开后显露更深的臀小肌部分 |
+| Gluteus minimus | 臀小肌 | 位于臀中肌深面参与外展与骨盆控制 |
+| Piriformis | 梨状肌 | 从骶骨区域向股骨外侧延伸的深肌 |
+| Superior gemellus | 上孖肌 | 位于闭孔内肌腱上方的短小髋深肌 |
+| Inferior gemellus | 下孖肌 | 位于闭孔内肌腱下方的短小髋深肌 |
+| Obturator internis | 闭孔内肌 | 原图拼写有误实际为髋深部闭孔内肌 |
+| Gluteus maximus (cut) | 臀大肌（已切开） | 仅保留翻起断端以显露臀区深层结构 |
+| Quadratus femoris | 股方肌 | 后髋部短而宽的肌肉参与股骨外旋 |
+| Biceps femoris | 股二头肌 | 大腿后外侧肌参与屈膝及相应髋动作 |
+| Semimembranosus | 半膜肌 | 大腿后内侧深部肌参与屈膝和伸髋 |
+| Semitendinosus | 半腱肌 | 大腿后内侧浅部肌具有较长远端肌腱 |
+| Femur | 股骨 | 大腿中央长骨为周围肌群提供附着 |
+| Superficial pelvic and thigh muscles of right leg (anterior view) | 右侧骨盆与大腿浅层肌（前面观） | 上左图显示前侧表浅肌肉与膝前连接 |
+| Deep pelvic and thigh muscles of right leg (anterior view) | 右侧骨盆与大腿深层肌（前面观） | 下左去除浅层后显出内收肌等深层关系 |
+| Pelvic and thigh muscles of right leg (posterior view) | 右侧骨盆与大腿肌（后面观） | 右下图切开臀肌后显示后方深浅结构 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 11.29](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -55,9 +99,42 @@
 
 ![足骨与足弓的空间关系](../assets/images/11-02.jpg)
 
-**读图：** 先从侧面辨认后足，再顺着跗骨、跖骨到趾骨；足弓还依赖韧带、筋膜和肌腱，骨图不等于全部支撑系统。
+#### 中文读图说明
 
-**标注对应：** talus 距骨；calcaneus 跟骨；metatarsals 跖骨。
+三幅均为右足：左大图从上方看，右上从内侧看，右下从外侧看；上方小图只示骨组位置。先由后足的距骨、跟骨向前追到跗骨、跖骨及趾骨，不要把所有足骨都叫作趾骨。
+
+左图数字一至五对应从拇趾向小趾排列的五块跖骨。拇趾只有近、远两节趾骨，其余趾通常另有中节。三块楔骨位于舟骨前方，骰骨在外侧，名称相近却不是同一块骨的不同视角。
+
+右上内侧图清楚显示纵向拱形，距骨在跟骨上方，载距突由跟骨向内伸出。右下外侧图的弓较低；内外踝关节面是距骨与小腿骨连接处。图省去足底韧带和肌腱，骨的弯曲不能代表足弓全部支撑。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Tarsals | 跗骨 | 足后部和近侧骨组通常共有七块骨 |
+| Metatarsals | 跖骨 | 位于跗骨与趾骨之间的五块长骨 |
+| Phalanges | 趾骨 | 位于足趾内部并分成不同节段的骨 |
+| Distal / Distal phalange | 远节趾骨 | 图中足趾末端一节靠近趾尖位置 |
+| Proximal phalanges / Proximal phalange | 近节趾骨 | 各趾靠近跖骨端的第一节趾骨 |
+| Middle phalange | 中节趾骨 | 第二至第五趾中间一节而拇趾没有此节 |
+| Medial cuneiform | 内侧楔骨 | 位于第一跖骨近端并参与足内侧骨链 |
+| Intermediate cuneiform | 中间楔骨 | 三块楔骨中间一块邻近第二跖骨 |
+| Lateral cuneiform | 外侧楔骨 | 位于中间楔骨外侧并邻近第三跖骨 |
+| Navicular | 舟骨 | 位于距骨前方并连接前方楔骨组 |
+| Talus | 距骨 | 位于踝部接受小腿传来的承重负荷 |
+| Trochlea of talus | 距骨滑车 | 距骨上方与胫腓骨踝穴相接的关节面 |
+| Calcaneus | 跟骨 | 后足下方较大的骨构成足跟骨性基础 |
+| Cuboid | 骰骨 | 足外侧跗骨连接跟骨与外侧跖骨 |
+| First metatarsal | 第一跖骨 | 通向拇趾的跖骨位于足的内侧 |
+| Fifth metatarsal | 第五跖骨 | 通向小趾的跖骨位于足的外侧 |
+| Facet for medial malleolus | 内踝关节面 | 距骨内侧与胫骨内踝相接的表面 |
+| Facet for lateral malleolus | 外踝关节面 | 距骨外侧与腓骨外踝相接的表面 |
+| Sustentaculum tali (talar shelf) | 载距突 | 跟骨内侧伸出的骨台参与支撑距骨 |
+| Calcaneal tuberosity | 跟骨结节 | 跟骨后下部突出是足跟承重的骨性部分 |
+| Right foot, superior view | 右足上面观 | 左图从足背方向看各骨的前后内外排列 |
+| Right foot, medial view | 右足内侧面观 | 右上显示内侧纵弓以及载距突位置 |
+| Right foot, lateral view | 右足外侧面观 | 右下显示外侧低弓及第五跖骨位置 |
+| 1 / 2 / 3 / 4 / 5 | 第一至第五跖骨编号 | 由拇趾侧向小趾侧依次给跖骨编号 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 8.19](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -65,9 +142,40 @@
 
 ![小腿的不同肌群](../assets/images/11-03.jpg)
 
-**读图：** 从后侧与前侧分别看肌群，辨认肌腹向远端肌腱过渡；踝的不同运动由多组肌肉共同完成。
+#### 中文读图说明
 
-**标注对应：** gastrocnemius 腓肠肌；soleus 比目鱼肌；tibialis anterior 胫骨前肌。
+三幅均为右小腿，左图看前面，中图看后面较浅层，右图看后面深层。它们不是三个动作阶段；中图已将腓肠肌截断显出比目鱼肌，右图又切开比目鱼肌，才看到更深肌群。
+
+左图胫骨前肌靠胫骨前外侧，趾长伸肌和拇长伸肌的肌腱走向足背；伸肌上、下支持带像横向约束，防止长腱活动时远离踝前骨面。外侧的腓骨长短肌不能误认成胫骨肌。
+
+中图从腓肠肌、比目鱼肌向下追到跟腱和跟骨。右图膝后方是腘肌，更下方有胫骨后肌及趾、拇长屈肌。英文hallucis指足拇趾，digitorum指其他足趾；图中的长肌腱说明肌腹虽在小腿，作用却可到足趾。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Tibialis anterior | 胫骨前肌 | 位于小腿前群并主要参与足背屈 |
+| Fibularis longus | 腓骨长肌 | 位于小腿外侧群并参与足外翻与支撑 |
+| Extensor digitorum longus | 趾长伸肌 | 前群肌腱延伸至足背并参与伸趾 |
+| Fibularis brevis | 腓骨短肌 | 小腿外侧较远端肌腹参与足外翻 |
+| Extensor hallucis longus | 拇长伸肌（足） | 小腿前群深处肌腱连向足拇趾 |
+| Fibularis tertius | 第三腓骨肌 | 前群远端小肌参与背屈及外翻动作 |
+| Superior extensor retinaculum | 伸肌上支持带 | 踝前近侧横行纤维带约束伸肌腱 |
+| Inferior extensor retinaculum | 伸肌下支持带 | 踝前较远端分叉纤维带约束长肌腱 |
+| Gastrocnemius (lateral head) | 腓肠肌（外侧头） | 后群浅层肌的外侧起始部分图中已截断 |
+| Gastrocnemius (medial head) | 腓肠肌（内侧头） | 后群浅层肌的内侧起始部分图中已截断 |
+| Plantaris | 跖肌 | 膝后附近细小肌腹延续成细长肌腱 |
+| Soleus | 比目鱼肌 | 腓肠肌深方宽扁肌参与跖屈与站立 |
+| Calcaneal (Achilles) tendon | 跟腱（阿基里斯腱） | 小腿后方强腱把跖屈肌拉力传至跟骨 |
+| Calcaneus (heel) | 跟骨（足跟部） | 跟腱远端附着于足跟后方骨性基础 |
+| Popliteus | 腘肌 | 位于膝后深面并参与膝部运动协调 |
+| Soleus (cut) | 比目鱼肌（已切开） | 右图保留断端以显露小腿后群深层肌 |
+| Tibialis posterior | 胫骨后肌 | 位于后群深层并参与足内翻与足弓支持 |
+| Flexor digitorum longus | 趾长屈肌 | 后群深层肌腱延伸至其他四个足趾 |
+| Flexor hallucis longus | 拇长屈肌（足） | 后群深层肌腱延伸并屈曲足拇趾 |
+| Superficial muscles of the right lower leg (anterior view) | 右小腿浅层肌（前面观） | 左图显示前群肌肉与踝前支持带关系 |
+| Superficial muscles of the right lower leg (posterior view) | 右小腿浅层肌（后面观） | 中图后侧显出腓肠肌断端和比目鱼肌 |
+| Deep muscles of the right lower leg (posterior view) | 右小腿深层肌（后面观） | 右图进一步去除遮挡显示后群深肌 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 11.32](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

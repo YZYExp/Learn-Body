@@ -14,9 +14,31 @@
 
 ![脑脊液的循环路径](../assets/images/19-01.jpg)
 
-**读图：** 从脑室向蛛网膜下腔追踪箭头，区分脑脊液通路和脑血管通路。
+#### 中文读图说明
 
-**标注对应：** ventricle 脑室；subarachnoid space 蛛网膜下腔。
+先把这幅图看作脑的纵向剖面：脸部方向在左，小脑和脑干位于右下。由脑内中央的脉络丛起步，找到右侧脑室，经室间孔进入第三脑室，再沿中脑水管向后下方到第四脑室。
+
+随后看第四脑室周围的正中孔、外侧孔。黑色箭头表示脑脊液流动，从这些出口进入包围脑和脊髓的蛛网膜下隙；这与图顶端深蓝色上矢状窦内的静脉血通路不同。
+
+最后沿脑表面的箭头向上追到蛛网膜颗粒，理解脑脊液回流入静脉的经典路径。中央管虽与脑室系统相续，不能把它当成成人脑脊液回流的唯一或主要出口。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Superior sagittal sinus | 上矢状窦 | 位于脑顶部的硬脑膜静脉窦 |
+| Choroid plexus | 脉络丛 | 脑室内主要产生脑脊液的结构 |
+| Interventricular foramen | 室间孔 | 连接侧脑室与第三脑室的通道 |
+| Third ventricle | 第三脑室 | 位于间脑中线附近的脑室腔 |
+| Cerebral aqueduct | 中脑水管 | 连接第三脑室和第四脑室的细管 |
+| Lateral aperture | 第四脑室外侧孔 | 第四脑室通向蛛网膜下隙的出口 |
+| Fourth ventricle | 第四脑室 | 位于脑干背侧与小脑之间的腔隙 |
+| Arachnoid granulation | 蛛网膜颗粒 | 向静脉窦突入并参与脑脊液回流 |
+| Subarachnoid space | 蛛网膜下隙 | 位于蛛网膜和软膜之间的含液空间 |
+| Meningeal dura mater | 脑膜层硬膜 | 脑外较坚韧的硬膜组成部分 |
+| Right lateral ventricle | 右侧脑室 | 大脑半球深部脑室系统的一部分 |
+| Median aperture | 第四脑室正中孔 | 第四脑室通向蛛网膜下隙的正中出口 |
+| Central canal | 中央管 | 位于脊髓中央并与脑室系统相续 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 13.18](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -34,9 +56,26 @@
 
 ![大脑的外部结构](../assets/images/19-02.jpg)
 
-**读图：** 比较半球外表的沟与回。外表分区是定位线索，功能依赖多区域连接。
+#### 中文读图说明
 
-**标注对应：** cerebrum 大脑；gyrus 脑回；sulcus 脑沟。
+左图是侧面观，先看大脑占据上方的大部分体积，再看覆盖其表面的脑皮质。右下方能见到小脑和脑干轮廓，但本图没有逐一标注，不能把大脑标签理解为包括这些结构。
+
+侧面图中的胼胝体采用虚线显示，表示它埋在深部，完整外表并不能直接看见。它是连接左右大脑半球的重要白质结构，不是脑皮质外表的一条凹沟。
+
+右图改为前面观，中间深裂是大脑纵裂，将左右半球分开。图左标的是受观察者的右半球，图右是左半球；阅读左右标注应按人体本身的方向，不能按看图者左右命名。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Corpus callosum | 胼胝体 | 深部连接左右大脑半球的白质结构 |
+| Cerebrum | 大脑 | 占据图中上部大部分体积的脑区 |
+| Cerebral cortex | 大脑皮质 | 覆盖大脑表面的薄层灰质结构 |
+| Right hemisphere | 右大脑半球 | 前面观中位于读者左手一侧 |
+| Left hemisphere | 左大脑半球 | 前面观中位于读者右手一侧 |
+| Longitudinal fissure | 大脑纵裂 | 位于两侧大脑半球之间的深裂 |
+| Lateral view | 侧面观 | 左侧分图从脑的一侧进行观察 |
+| Anterior view | 前面观 | 右侧分图从脑的前方向后观察 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 13.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -56,14 +95,31 @@
 
 ![脊髓横断面](../assets/images/19-03.jpg)
 
-**读图：** 先找中央蝶形灰质，再看外围白质，随后辨认前后方向；不要直接套用大脑皮层的内外布局。
+#### 中文读图说明
 
-**标注对应：** gray matter 灰质；white matter 白质；central canal 中央管。
+上半部为脊髓横断面的模式图，方向是上后、下前。先找中央黄色的蝶形灰质，再找其外围较浅的白质；脊髓的灰白质布局与大脑表面有皮质的安排不同。
+
+从灰质向外辨认三种角：后角较细长，前角较宽，侧角在左右侧面突出。再看白质的后索、侧索和前索；灰质的角与白质的索不能因为位置相近就混称。
+
+中央小孔为中央管。下半部是染色组织的光学显微照片，可用中央蝶形与外围区域对应上图，而不是按颜色逐点照搬；它不是超声影像，染色颜色也不是活体原色。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Gray matter | 灰质 | 中央呈蝶形并形成各灰质角的区域 |
+| Posterior (dorsal) horn | 后角（背角） | 位于图上方的细长灰质突出部分 |
+| Lateral horn | 侧角 | 灰质向侧方突出的自主神经相关区域 |
+| Anterior (ventral) horn | 前角（腹角） | 图下方较宽的运动神经元所在区域 |
+| White matter | 白质 | 位于灰质周围并含多条传导通路 |
+| Posterior (dorsal) columns | 后索（背索） | 位于后角之间的后部白质区域 |
+| Lateral columns | 侧索 | 位于脊髓两侧的白质通路区域 |
+| Anterior (ventral) columns | 前索（腹索） | 位于前角前方与前正中裂两旁 |
+| Central canal | 中央管 | 位于脊髓横断面正中央的小孔 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 13.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrograph provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 血液与神经组织之间也有边界
 

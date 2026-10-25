@@ -20,9 +20,31 @@
 
 ![腹膜与肠系膜的反折](../assets/images/15-01.jpg)
 
-**读图：** 沿同一层膜从腹壁走向器官表面，理解反折与悬系；正常腹膜腔为含少量液体的潜在间隙。
+#### 中文读图说明
 
-**标注对应：** parietal peritoneum 壁腹膜；visceral peritoneum 脏腹膜；mesentery 肠系膜。
+右上角小人上的横线说明切面高度。主图上方是后方、下方是前方；按常见从足端看的横断显示，人体右侧在画面左边。先用上方椎骨和椎管内脊髓固定方向。
+
+接着沿腹壁内缘找壁腹膜，再沿器官表面找脏腹膜。两层之间的蓝绿间隙表示被夸张放宽的腹膜腔，并非腹腔内真的有这么宽的空水带；膜的反折联系器官与腹壁。
+
+最后比较上方两肾与中下方胃肠：肾在壁腹膜后方，胃肠不同部分与腹膜的关系各异。多个肠管截面属于弯曲肠袢，不代表互不相连的新器官；本图也为教学简化了实际位置。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Vertebra | 椎骨 | 上方后正中骨性结构，用于确定后方 |
+| Spinal cord | 脊髓 | 椎管内中央小圆结构，位于后正中 |
+| Kidney | 肾 | 上方两侧器官，位于壁腹膜的后方 |
+| Pancreas | 胰腺 | 引线指向靠后中央附近的腺性器官 |
+| Liver | 肝 | 画面左侧大器官，属于人体右侧区域 |
+| Gallbladder | 胆囊 | 邻近肝下缘的小囊，参与胆汁储存 |
+| Spleen | 脾 | 画面右上外侧器官，属于人体左侧 |
+| Small intestine | 小肠 | 可见带皱褶的多个肠管截面与反折 |
+| Large intestine | 大肠 | 两侧较小圆形肠管截面，按引线识别 |
+| Stomach | 胃 | 画面右下的较大空腔结构，位于偏前 |
+| Visceral peritoneum | 脏腹膜 | 贴着器官表面的浆膜，与壁层相续 |
+| Parietal peritoneum | 壁腹膜 | 衬在腹壁内面的浆膜，围出腹膜界面 |
+| Peritoneal cavity | 腹膜腔 | 蓝绿间隙为放大表示，正常仅有少量液体 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 23.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-1-overview-of-the-digestive-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -57,9 +79,45 @@
 
 ![腹部消化器官的总体位置](../assets/images/15-02.jpg)
 
-**读图：** 先认肝胃，再找胃后方的胰与下方肠管。前视展开图不能完整表达器官彼此前后遮挡。
+#### 中文读图说明
 
-**标注对应：** liver 肝；stomach 胃；pancreas 胰；small intestine 小肠。
+先从上向下追踪真正让食物经过的路线：口腔、咽、食管、胃、小肠、大肠、直肠与肛管。头部使用侧面示意，腹部则展开为前方视角，因此不是同一张严格切面。
+
+腹部画面左上是人体右侧的肝，画面右上是偏左的胃；胃后的胰被显露，脾画在胃的外侧。唾液腺、肝、胆囊和胰通过分泌物参与消化，食物不会穿过这些腺体。
+
+再沿外周大肠找升、横、降、乙状结肠，中央为弯曲小肠。阑尾从盲肠旁伸出，不是食物必经的主路；脾虽一起画出，却不属于分泌消化液的附属消化器官。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Mouth | 口腔 | 食物入口，图中头部用侧面显示 |
+| Tongue | 舌 | 口腔内肌性器官，参与处理与推送食物 |
+| Salivary glands: | 唾液腺 | 头部三组腺体的总称，向口腔分泌唾液 |
+| Parotid gland | 腮腺 | 耳前附近较大的黄色分叶状腺体 |
+| Sublingual gland | 舌下腺 | 口底舌下的小唾液腺，按引线定位 |
+| Submandibular gland | 下颌下腺 | 下颌骨下方腺体，分泌进入口腔 |
+| Pharynx | 咽 | 口鼻腔后方通道，向下与食管相接 |
+| Esophagus | 食管 | 颈胸部纵行管道，将食团送到胃 |
+| Liver | 肝 | 腹部画面左上的大器官，产生胆汁 |
+| Gallbladder | 胆囊 | 肝下绿色小囊，储存并浓缩胆汁 |
+| Stomach | 胃 | 画面右上弯曲囊状器官，连接食管 |
+| Spleen | 脾 | 胃外侧紫色器官，主要处理血液 |
+| Pancreas | 胰腺 | 胃后方黄色腺体，图中被显露以便观察 |
+| Small intestine: | 小肠 | 中央盘曲管道的总称，分为三个区域 |
+| Duodenum | 十二指肠 | 接胃幽门的起始段，绕过胰头附近 |
+| Jejunum | 空肠 | 小肠中段，与回肠之间无明显外界线 |
+| Ileum | 回肠 | 小肠末段，向下连接右下腹的盲肠 |
+| Large intestine: | 大肠 | 多从中央小肠外围绕行的较粗管道 |
+| Cecum | 盲肠 | 画面左下囊状起始部，接收回肠内容物 |
+| Appendix | 阑尾 | 从盲肠旁伸出的小管，不是主通路 |
+| Ascending colon | 升结肠 | 画面左侧向上走行，位于人体右侧 |
+| Transverse colon | 横结肠 | 腹部上方横向连接左右两侧结肠 |
+| Descending colon | 降结肠 | 画面右侧向下走行，位于人体左侧 |
+| Sigmoid colon | 乙状结肠 | 下部弯曲结肠，继续连接直肠 |
+| Rectum | 直肠 | 下部接近正中的末段，向肛管延续 |
+| Anal canal | 肛管 | 直肠之后的末端管道，开口于肛门 |
+| Anus | 肛门 | 最下方体外开口，是消化管终点 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 23.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-1-overview-of-the-digestive-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

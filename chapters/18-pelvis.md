@@ -22,9 +22,45 @@
 
 ![一类常见盆腔矢状解剖](../assets/images/18-01.jpg)
 
-**读图：** 从前向后找膀胱、尿道周围的前列腺与后方直肠；部分生殖结构位于盆腔外。
+#### 中文读图说明
 
-**标注对应：** bladder 膀胱；prostate 前列腺；rectum 直肠。
+上方a、b只比较包皮保留与环切后的外观，灰色箭头表示局部放大。先认阴茎、龟头和阴囊，别把外观分图当成展示盆腔内部的切面，也不要把阴囊误称睾丸本身。
+
+下方c为侧面剖开示意：画面左为前、右为后。先以耻骨联合定位，再找其后的膀胱、膀胱下方前列腺和更后方直肠区域，尿道依次穿过前列腺、会阴和阴茎。
+
+生殖通路从阴囊内睾丸、附睾进入输精管，绕向膀胱后方，与精囊导管汇合后经射精管接入尿道。尿道旁海绵体是组织，不是额外空管；两处阴茎外观也不代表两种内部器官配置。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| (a) Uncircumcised penis | 分图a：未环切阴茎 | 上方左图，显示包皮保留时的外观 |
+| (b) Circumcised penis | 分图b：环切后阴茎 | 上方右图，显示包皮环切后的外观 |
+| (c) Male Reproductive System: lateral view | 分图c：男性生殖系统侧面观 | 下方剖面图，画面左侧为人体前方 |
+| Penis | 阴茎 | 上方外观图的主体，尿道从内部经过 |
+| Prepuce (foreskin) | 包皮 | 分图a覆盖龟头的皮肤褶，不是龟头 |
+| Corona | 龟头冠 | 分图b龟头根部突出的冠状边缘 |
+| Glans penis | 阴茎头（龟头） | 阴茎远端膨大部，尿道开口在末端 |
+| Scrotum | 阴囊 | 包容睾丸的体表囊，不是睾丸实质 |
+| Ductus (vas) deferens | 输精管 | 从附睾上行后进入盆腔的输精通路 |
+| Suspensory ligament of penis | 阴茎悬韧带 | 耻骨前方的支持结构，固定阴茎根部 |
+| Urinary bladder | 膀胱 | 耻骨后方的大囊状器官，负责储尿 |
+| Pubic symphysis | 耻骨联合 | 画面前方骨性连接，是前后定位标志 |
+| Prostate gland | 前列腺 | 膀胱下方腺体，围绕近端尿道区域 |
+| Ampulla of ductus deferens | 输精管壶腹 | 膀胱后方输精管末端的扩大部分 |
+| Seminal vesicle | 精囊 | 膀胱后方黄色腺体，贡献精液成分 |
+| Ejaculatory duct | 射精管 | 接续输精管与精囊导管，进入前列腺 |
+| Prostatic urethra | 尿道前列腺部 | 穿过前列腺的尿道段，接收射精管 |
+| Membranous urethra | 尿道膜部 | 前列腺下方较短尿道段，位于会阴深部 |
+| Spongy urethra | 尿道海绵体部 | 在尿道海绵体内向阴茎末端延伸 |
+| Bulbourethral gland | 尿道球腺 | 会阴深部小腺体，分泌物进入尿道 |
+| Deep muscles of perineum | 会阴深部肌肉 | 尿道经过的深部支持与控制结构 |
+| Muscles of perineum surrounding anus | 肛门周围的会阴肌肉 | 画面后下方肌肉，围绕肛门区域 |
+| Corpus cavernosum | 阴茎海绵体 | 阴茎内勃起组织，与尿道海绵体区分 |
+| Corpus spongiosum | 尿道海绵体 | 包绕海绵体部尿道的勃起组织 |
+| External urethral opening | 尿道外口 | 阴茎末端开口，尿道在这里通向体外 |
+| Testis | 睾丸 | 阴囊内浅色器官，产生精子及相关激素 |
+| Epididymis | 附睾 | 贴附睾丸后侧的盘曲管道，精子在此成熟 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 27.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -42,9 +78,40 @@
 
 ![另一类常见盆腔矢状解剖](../assets/images/18-02.jpg)
 
-**读图：** 先辨前方膀胱、中间生殖道、后方直肠。阴道和尿道为不同通道，不能把外阴等同阴道。
+#### 中文读图说明
 
-**标注对应：** uterus 子宫；vagina 阴道；urethra 尿道。
+上方a是侧面剖开示意，画面左为前、右为后。先找耻骨联合，再依前后顺序辨膀胱与尿道、子宫与阴道、直肠及肛门；尿道和阴道是两条各有开口的通道。
+
+卵巢被示意投到视野中，不能据此认定它位于正中切面。图中“Posterior fornix of uterus”误把子宫写进名称，所指应按阴道后穹隆理解：它是宫颈后方的阴道隐窝。
+
+下方b改为前面观，人体左在画面右。沿子宫两侧输卵管走向伞端和卵巢，注意管口并未与卵巢密封相接；再看子宫颈进入阴道。大、小阴唇属于外阴，不能统一叫作阴道。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| (a) Human female reproductive system: lateral view | 分图a：女性生殖系统侧面观 | 上方剖面示意，画面左侧为人体前方 |
+| (b) Human female reproductive system: anterior view | 分图b：女性生殖系统前面观 | 下方正面展开，人体左右与画面相反 |
+| Uterus | 子宫 | 上图粉红色肌性器官，下图位于中央 |
+| Ovary | 卵巢 | 绿色成对器官，上图为示意投影显示 |
+| Cervix | 子宫颈 | 子宫下部较窄区域，向下连通阴道 |
+| Posterior fornix of uterus | 阴道后穹隆（原图误写uterus） | 宫颈后方阴道隐窝，并不属于子宫 |
+| Vagina | 阴道 | 连接宫颈周围与体外的可扩张管道 |
+| Bladder | 膀胱 | 上图前方囊状器官，位于子宫前下方 |
+| Urethra | 尿道 | 膀胱下方短管，与后方阴道分别开口 |
+| Pubic symphysis | 耻骨联合 | 上图最前方骨性连接，作为定位参照 |
+| Mons pubis | 阴阜 | 耻骨联合前方的脂肪性隆起区域 |
+| Clitoris | 阴蒂 | 上图前方所示局部，深部结构未全展开 |
+| Labium minora | 小阴唇（上图原文拼写） | 上图内侧皮肤褶，阴道口并非整片外阴 |
+| Labium majora | 大阴唇（上图原文拼写） | 上图外侧较大皮肤褶，为外阴结构 |
+| Labia minora | 小阴唇 | 下图外阴内侧皮肤褶，形态可有差异 |
+| Labia majora | 大阴唇 | 下图外阴外侧皮肤褶，不是阴道管壁 |
+| Rectum | 直肠 | 上图靠后管道，位于子宫阴道之后 |
+| Anus | 肛门 | 上图后下方开口，与尿道口分开 |
+| Fimbriae | 输卵管伞 | 输卵管近卵巢端的指状边缘结构 |
+| Uterine tube (oviduct) | 输卵管 | 从子宫两侧伸向卵巢附近的管道 |
+| Ovarian ligament | 卵巢固有韧带 | 下图卵巢与子宫间的纤维连接结构 |
+| Broad ligament | 子宫阔韧带 | 子宫两侧腹膜褶，提供相关悬系关系 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 27.9](https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

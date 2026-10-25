@@ -14,9 +14,48 @@
 
 ![中轴骨与附肢骨](../assets/images/06-01.jpg)
 
-**读图：** 先看颅骨、脊柱、胸廓组成的中轴，再沿肩带和骨盆带连接四肢；骨骼不是独立散件的清单。
+#### 中文读图说明
 
-**标注对应：** axial skeleton 中轴骨；appendicular skeleton 附肢骨。
+左边是前面观，右边是后面观，先用右下图例分组：米灰色中轴骨骼包括颅骨、脊柱和胸廓，浅绿色附肢骨骼包括肩带、骨盆带及四肢。蓝色关节区域只是辅助显示，不属于第三类骨骼。
+
+沿上肢从锁骨和肩胛骨到肱骨，再到尺桡骨、腕骨、掌骨和指骨；前面观手掌朝前，桡骨在拇指侧。沿下肢从髋骨到股骨，再看髌骨、胫腓骨、跗骨、跖骨和趾骨。
+
+两图共同显示被前方遮住的肩胛骨与脊柱关系，不能把前后图当成两套不同骨架。特别注意骶骨属于中轴骨骼，而两侧髋骨属于骨盆带；分组颜色说明连接归属，不是骨头的自然颜色。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Anterior view | 前面观 | 左侧骨架从身体正前方观察 |
+| Posterior view | 后面观 | 右侧骨架从身体正后方观察 |
+| Key | 图例 | 右下方颜色说明骨骼分组归属 |
+| Axial skeleton | 中轴骨骼 | 米灰色标示颅骨脊柱及胸廓 |
+| Appendicular skeleton | 附肢骨骼 | 浅绿色标示肢带和四肢骨骼 |
+| Skull | 颅骨 | 顶部总称脑颅与面颅的骨性结构 |
+| Cranial portion | 脑颅部分 | 颅骨上后部围护脑的骨性结构 |
+| Facial portion | 面颅部分 | 颅骨前下部构成面部的骨性结构 |
+| Pectoral (shoulder) girdle | 肩带 | 锁骨与肩胛骨连接上肢和躯干 |
+| Clavicle | 锁骨 | 胸廓上方横行连接胸骨与肩部 |
+| Scapula | 肩胛骨 | 胸廓后方扁骨在后面观更清楚 |
+| Thoracic cage | 胸廓 | 由肋骨胸骨及胸椎等构成框架 |
+| Sternum | 胸骨 | 前胸正中纵向扁骨与肋软骨相连 |
+| Ribs | 肋骨 | 胸廓两侧弧形骨性围护结构 |
+| Vertebral column | 脊柱 | 躯干中央支撑并形成椎管的骨柱 |
+| Upper limb | 上肢 | 肩带之外上臂前臂及手的分组 |
+| Humerus | 肱骨 | 上臂内从肩到肘的一根长骨 |
+| Ulna | 尺骨 | 前臂小指侧并参与形成肘部结构 |
+| Radius | 桡骨 | 前臂拇指侧并参与腕部连接 |
+| Carpals | 腕骨 | 手掌近端多块小骨构成腕部 |
+| Metacarpals | 掌骨 | 腕骨与指骨之间构成手掌支架 |
+| Phalanges | 指骨、趾骨 | 手指与足趾内多节排列的骨骼 |
+| Pelvic girdle (hip bones) | 骨盆带（髋骨） | 两侧髋骨连接下肢与中轴骨骼 |
+| Lower limb | 下肢 | 骨盆带之外大腿小腿及足的分组 |
+| Femur | 股骨 | 大腿内从髋到膝的一根长骨 |
+| Patella | 髌骨 | 膝关节前方肌腱中的骨性结构 |
+| Tibia | 胫骨 | 小腿内侧较粗并承担主要重量 |
+| Fibula | 腓骨 | 小腿外侧较细长骨并参与踝部稳定 |
+| Tarsals | 跗骨 | 足近端构成踝和后足等区域 |
+| Metatarsals | 跖骨 | 跗骨与趾骨之间支撑足前部 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 7.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-1-divisions-of-the-skeletal-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -37,9 +76,32 @@
 
 ![长骨的外形与内部](../assets/images/06-02.jpg)
 
-**读图：** 沿长轴观察骨干与两端，再看皮质骨、松质骨和髓腔；不要把松质骨理解为软骨。
+#### 中文读图说明
 
-**标注对应：** diaphysis 骨干；epiphysis 骨骺；medullary cavity 骨髓腔。
+先沿左侧括号由上向下读：近端骨骺、干骺端、骨干，再到另一端的干骺端与远端骨骺。“近端”表示更靠近肢体与躯干连接处，图把上半部剖开，让外形与内部同时可见。
+
+骨干较厚的密质骨围住骨髓腔，骨端的松质骨呈骨小梁网络，其间可有红骨髓。关节面上的蓝灰色是关节软骨，骨骺线则是生长板骨化后的标志，两者的位置和功能不同。
+
+在骨干下部辨认揭开的骨膜、内面的骨内膜与进入骨内的滋养动脉。黄骨髓被简化成柱状方便认读，并非真实独立圆柱；红黄骨髓分布随年龄及部位改变，不能把示意的颜色范围当作人人一致。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Proximal epiphysis | 近端骨骺 | 长骨靠近肢体根部的膨大骨端 |
+| Metaphysis | 干骺端 | 骨干与骨骺之间逐渐过渡的区域 |
+| Diaphysis | 骨干 | 长骨中间较长的管状主体部分 |
+| Distal epiphysis | 远端骨骺 | 长骨远离肢体根部的另一骨端 |
+| Articular cartilage | 关节软骨 | 骨端关节表面的蓝灰色覆盖结构 |
+| Spongy bone | 松质骨 | 骨端内部骨小梁组成有隙网络 |
+| Epiphyseal line | 骨骺线 | 生长板骨化后留在干骺交界的标志 |
+| Red bone marrow | 红骨髓 | 骨小梁间的造血相关骨髓示例 |
+| Medullary cavity | 骨髓腔 | 骨干密质骨围成的内部空间 |
+| Compact bone | 密质骨 | 骨干外周较致密坚实的骨皮质 |
+| Endosteum | 骨内膜 | 衬在髓腔等内部骨表面的薄层 |
+| Yellow bone marrow | 黄骨髓 | 图中含较多脂肪的黄色骨髓示例 |
+| Periosteum | 骨膜 | 图中揭开显示骨外表面的包膜 |
+| Nutrient artery | 滋养动脉 | 进入骨内部并提供血供的动脉 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 6.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -59,14 +121,42 @@
 
 ![皮质骨的骨单位](../assets/images/06-03.jpg)
 
-**读图：** 沿中央管看血管通道，再看围绕它排列的骨板。骨组织有细胞、血供和更新活动。
+#### 中文读图说明
 
-**标注对应：** osteon 骨单位；central canal 中央管；lamellae 骨板。
+左上小长骨定位本次放大的密质骨区域，灰箭头导向上方（a）立体示意。先找黑圈圈出的骨单位：中央管内通过血管等结构，周围同心骨板层层排列；骨单位不是只有中间一根血管。
+
+再从左向右看骨膜、外周环骨板、骨单位与间骨板，直至右侧松质骨的骨小梁。横向穿通管连接不同通道，和纵向中央管共同解释坚硬骨组织为何仍能获得血供与神经联系。
+
+下方（b）是真实显微照片，可见较大的中央管截面及周围骨板、许多细小暗点，不能把暗点都当作血管。立体图把通道和颜色夸张以便认读，显微照片也不与上图一一对应，二者需按结构关系比较。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| (a) | （a）骨组织立体示意 | 上方大图解释密质骨内通道关系 |
+| (b) | （b）骨单位显微照片 | 下方照片呈现骨单位的切面外观 |
+| Compact bone | 密质骨 | 主图大部分坚实骨组织与左上定位 |
+| Spongy bone | 松质骨 | 主图右侧及小长骨两端的网架区 |
+| Medullary cavity | 骨髓腔 | 松质骨邻近骨内空间在图右标出 |
+| Periosteum | 骨膜 | 主图左侧揭开并显示两层结构 |
+| Outer fibrous layer | 外纤维层 | 骨膜外层纤维性支持与连接部分 |
+| Inner osteogenic layer | 内成骨层 | 骨膜内侧含成骨相关细胞的部分 |
+| Circumferential lamellae | 环骨板 | 沿骨表面周向排列的较外侧骨板 |
+| Concentric lamellae | 同心骨板 | 围绕中央管层层排列的骨基质薄层 |
+| Osteon | 骨单位 | 黑圈圈出中央管及周围同心骨板 |
+| Interstitial lamellae | 间骨板 | 填在相邻骨单位之间的不完整骨板 |
+| Perforating canal | 穿通管 | 横向或斜向联系骨内通道的结构 |
+| Central canal | 中央管 | 骨单位中央纵行的血管神经通道 |
+| Periosteal artery | 骨膜动脉 | 左侧骨膜附近红色血管供血示例 |
+| Periosteal vein | 骨膜静脉 | 左侧骨膜附近蓝色血管回流示例 |
+| Blood vessels | 血管 | 主图红蓝管道示动静脉等结构 |
+| Lymphatic vessel | 淋巴管 | 主图绿色细管示组织液回流通道 |
+| Nerve | 神经 | 主图黄色细索与血管伴行的结构 |
+| Trabeculae | 骨小梁 | 右侧松质骨中交叉连接的骨性支架 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 6.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrograph provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 硬度来自基质，更新依赖细胞
 

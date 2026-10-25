@@ -10,13 +10,32 @@
 
 右肺通常分为上、中、下三叶，左肺通常分为上、下两叶，并在靠近心脏的边缘形成心切迹。左右肺的外形并不完全对称。肺尖位于上方，肺底贴近膈；图上的“底部”依附于弯曲的膈面，并非水平平板。[来源：OpenStax，22.2 肺，Gross Anatomy](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)
 
-### 图 12-01｜肺叶与肺门
+### 图 12-01｜左右肺叶与支气管分支
 
-![肺叶与肺门](../assets/images/12-01.jpg)
+![左右肺叶与支气管分支](../assets/images/12-01.jpg)
 
-**读图：** 先比较左右肺叶数，再看支气管和血管从肺门进出。左右肺并非完全对称。
+#### 中文读图说明
 
-**标注对应：** right lung 右肺；left lung 左肺；hilum 肺门。
+这是肺与支气管的前面示意，画面左边是人体右肺，画面右边是左肺；不要直接按看图者左右命名。先比较叶数：右肺上、中、下三叶，左肺上、下两叶，左肺内侧缘可见心切迹。
+
+从中央气管向下追，先分左右主支气管，再到进入肺叶的叶支气管，随后为段支气管。括号中的英文分别表示这几个分支层级，不是三种不同材料的管道。
+
+浅蓝树枝强调空气通路，紫色半透明区域强调肺叶关系；图没有画出完整肺门血管或肺泡网络。肺叶有相互重叠的三维位置，不能按正面投影的面积判断每叶真实体积，也不能把蓝色分支误当肺动脉。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Trachea | 气管 | 中央向下延续并分出左右主支气管 |
+| Superior lobe | 上叶 | 两侧肺的上方肺叶并非仅右肺具有 |
+| Middle lobe | 中叶 | 位于右肺上叶与下叶之间左肺无此叶 |
+| Inferior lobe | 下叶 | 两侧肺均有并有较大部分位于后方 |
+| Main (primary) bronchus | 主支气管（一级支气管） | 气管分出的左右主支各进入一侧肺 |
+| Lobar (secondary) bronchus | 叶支气管（二级支气管） | 主支气管的分支进入对应肺叶区域 |
+| Segmental (tertiary) bronchus | 段支气管（三级支气管） | 叶支气管再分支通向各支气管肺段 |
+| Cardiac notch | 心切迹 | 左肺前缘内侧为心脏位置留出的凹缺 |
+| Right lung | 右肺 | 位于画面左边通常分上中下三叶 |
+| Left lung | 左肺 | 位于画面右边通常分上叶和下叶 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 22.13](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -40,9 +59,26 @@
 
 ![脏胸膜与壁胸膜](../assets/images/12-02.jpg)
 
-**读图：** 沿胸壁向肺表面追踪两层胸膜。图中间隙为便于显示而扩大，正常并不是充气空间。
+#### 中文读图说明
 
-**标注对应：** visceral pleura 脏胸膜；parietal pleura 壁胸膜；pleural cavity 胸膜腔。
+左图从胸部前方打开胸壁，画面右侧显露肺表面，框选处沿粗箭头放大到右图。左侧保留的肋骨和肋间肌说明胸壁结构，肺下方穹隆形膈把胸腔与腹腔分隔。
+
+在右侧放大框，从右向左依次找肋骨与肋间肌区域、壁胸膜、胸膜腔、脏胸膜、肺。壁胸膜贴胸壁内面，脏胸膜贴肺表面，两者名称依据所贴结构，不能因画面左右互换名称。
+
+两层胸膜之间仅为少量液体润湿的潜在间隙，图为标注把间距放大；这里正常不充呼吸空气。胸膜囊指包绕关系，而气管支气管中的气体走另一条路线，不能把箭头理解成空气由胸壁流入肺。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Lung | 肺 | 放大框左侧为被脏胸膜覆盖的肺组织 |
+| Intercostal muscles / Intercostal muscle | 肋间肌 | 位于肋骨之间并参与胸廓运动的肌层 |
+| Pleural sac | 胸膜囊 | 胸膜包绕肺并形成封闭潜在间隙的整体 |
+| Parietal pleura | 壁胸膜 | 贴胸壁等边界内面并位于放大框靠右侧 |
+| Visceral pleura | 脏胸膜 | 紧贴肺表面并随肺裂向深处延伸 |
+| Pleural cavity | 胸膜腔 | 两层胸膜之间含少量液体的潜在间隙 |
+| Diaphragm | 膈 | 位于胸腔下界的穹隆形骨骼肌结构 |
+| Chest wall (rib cage, sternum, thoracic vertebrae, connective tissue, intercostal muscles) | 胸壁（肋廓、胸骨、胸椎、结缔组织与肋间肌） | 下方括线说明胸壁由多种骨与软组织共同构成 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 22.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -67,14 +103,35 @@
 
 ![从细支气管走到肺泡](../assets/images/12-03.jpg)
 
-**读图：** 把通气的腔道与运血的毛细血管分开，观察两者紧贴形成的交换界面。
+#### 中文读图说明
 
-**标注对应：** alveolus 肺泡；capillary 毛细血管；respiratory membrane 呼吸膜。
+左上先看气道末端与成簇肺泡，红蓝细网表示贴近肺泡的血管；灰箭头把一个肺泡壁区域放大到左下(a)。箭头表示放大关系，不是气流或血流方向，肺泡内腔与血管腔始终分开。
+
+左下扁平Ⅰ型肺泡细胞构成主要交换表面，Ⅱ型细胞分泌表面活性物质，巨噬细胞参与清除。呼吸膜位于肺泡与毛细血管相贴处，肺泡孔则连接相邻肺泡，不是通向血管的洞。
+
+右侧(b)是染色组织切片：大片白色为腔隙，粉红薄隔是肺泡壁等组织。依标签分清肺泡、肺泡管和细支气管腔；截面形状受切割方向影响，不能把每个白洞都当成大小相同的球形肺泡。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Alveolar pores | 肺泡孔 | 相邻肺泡之间的小孔不直接连通血液 |
+| Capillary | 毛细血管 | 紧贴肺泡壁的细血管内可见红细胞 |
+| Respiratory membrane | 呼吸膜 | 肺泡壁与毛细血管壁构成的薄交换屏障 |
+| Type I alveolar cell | Ⅰ型肺泡细胞 | 扁平细胞构成肺泡主要气体交换表面 |
+| Macrophage | 巨噬细胞 | 肺泡表面或腔内参与吞噬清除异物 |
+| Alveolus (gas-filled space) / Alveolus | 肺泡（含气腔隙） | 左下中央空间容纳空气并与气道相连 |
+| Type II alveolar cell | Ⅱ型肺泡细胞 | 较饱满细胞产生表面活性物质帮助稳定肺泡 |
+| Alveoli | 肺泡（复数） | 右侧切片中由薄壁分隔的多个含气腔隙 |
+| Alveolar duct | 肺泡管 | 右图较大气道末端通道沿壁开放肺泡 |
+| Blood vessels | 血管 | 右图实质内有独立管壁的运输血液通道 |
+| Lumen of bronchiole | 细支气管腔 | 右图上方较大腔道与周围肺泡腔相区别 |
+| Alveolar sac | 肺泡囊 | 多枚肺泡开口相邻所组成的末端集合 |
+| (a) / (b) | 示意放大图／组织显微图 | 左下示结构关系右侧示真实切片外观 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 22.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
 *原图显微照片署名：Micrograph provided by the Regents of University of Michigan Medical School © 2012。*
-
 
 ## 识别肺门：空气与血液从同一地区进出
 

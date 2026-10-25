@@ -14,6 +14,8 @@ def main():
  for f in fs:
   Image.open(R/f['path']).load();assert f"图 {f['id']}｜" in alltext,f['id']
   assert f['attribution'] and f['license']
+  assert len(f.get('reading_zh_full',[]))>=3,('Missing Chinese reading guide',f['id'])
+  assert len(f.get('labels_zh_full',[]))>=1 or f['original_number']=='原创辅助图',('Missing label translations',f['id'])
  assert len(re.findall(r'!\[',alltext))==len(fs)
  ep=R/'build/Human-Body-Outside-In.epub'
  if ep.exists():

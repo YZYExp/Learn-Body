@@ -14,9 +14,25 @@
 
 ![脊柱的分区与生理曲度](../assets/images/09-01.jpg)
 
-**读图：** 先从侧面看曲线，再从上向下辨认分区。侧面正常曲度不同于冠状面上的侧弯。
+#### 中文读图说明
 
-**标注对应：** cervical 颈段；thoracic 胸段；lumbar 腰段；sacrum 骶骨。
+左图显示脊柱的正面排列，右图是侧面，右侧人物面朝画面右方。先按括线从上到下找颈、胸、腰三段；C、T、L分别是颈椎、胸椎和腰椎的英文编号前缀。
+
+颈椎七块、胸椎十二块、腰椎五块，编号在每一段重新开始。浅色横带表示椎间盘，骶骨和尾骨位于腰段以下；图中骶尾区由融合骨段构成，不是又一串同样活动的腰椎。
+
+再看右图曲度：颈腰段向前凸、胸骶段向后凸，是侧面正常空间安排。左图用于理解排列与分区，右图用于看前后弯曲，不能把侧面曲线误认作从正面观察到的脊柱侧弯。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| 7 Cervical vertebrae (C1–C7) form cervical curve | 七块颈椎构成颈曲 | 上段编号从第一至第七并形成向前曲度 |
+| 12 Thoracic vertbrae (T1–T12) form thoracic curve | 十二块胸椎构成胸曲 | 中段与肋骨相联系并形成向后曲度 |
+| 5 Lumbar vertebrae (L1–L5) form lumbar curve | 五块腰椎构成腰曲 | 下腰段承担负荷并形成向前的曲度 |
+| Intervertebral disc | 椎间盘 | 图中相邻椎体之间浅色带参与缓冲承载 |
+| Sacrum | 骶骨 | 位于腰椎下方由通常五块骶椎融合形成 |
+| Coccyx | 尾骨 | 位于骶骨以下由数量有变异的尾椎构成 |
+| Fused vertebrae of sacrum and coccyx form sacrococcygeal curve | 融合的骶尾椎形成骶尾曲 | 最下段的向后曲线与颈腰段方向不同 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 7.20](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -42,9 +58,24 @@
 
 ![椎间盘、椎体与神经通道](../assets/images/09-02.jpg)
 
-**读图：** 把椎体间承重区与其后神经通道区区分开；椎间盘位于相邻椎体之间，并不填满椎管。
+#### 中文读图说明
 
-**标注对应：** intervertebral disc 椎间盘；annulus fibrosus 纤维环；nucleus pulposus 髓核。
+左图为侧面观，椎体在画面左方，棘突在右后方；两块椎体之间的蓝色结构是椎间盘。先辨认承重的椎体，再看其后方椎弓附近的开口，避免把骨间所有空白都称为椎间盘。
+
+侧面引线指向椎间孔，它位于相邻椎骨之间，是脊神经出入椎管的侧向通道；它并不等于正中纵行椎管的横切面，椎间盘也没有填满神经通道。
+
+右图改为从上方看，在椎体表面显露椎间盘内部：外周一圈圈纤维环围住中央髓核。两者共同承载并允许有限变形，中央蓝色不表示一个能够自由滚动或整体滑出的硬球。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Vertebral body | 椎体 | 侧面图前方较大的骨块承担轴向负荷 |
+| Intervertebral foramen | 椎间孔 | 位于相邻椎骨之间为脊神经侧向出口 |
+| Anulus fibrosus | 纤维环 | 椎间盘外周层状纤维组织围护中央髓核 |
+| Nucleus pulposus | 髓核 | 椎间盘中央富含水分并参与压力分配 |
+| Lateral view | 侧面观 | 左图从侧面比较椎体椎间盘和侧方孔隙 |
+| Superior view | 上面观 | 右图从上向下看椎间盘中央与外周结构 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 7.24](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

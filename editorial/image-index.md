@@ -1,64 +1,64 @@
 # 内部图像审查索引
 
-不进入EPUB。
+不进入EPUB。全部图下均有中文解读；英文原图附逐项对照。
 
-| 图号 | 中文题名 | 文件 | 原图 |
-| --- | --- | --- | --- |
-| 01-01 | 从前后两面认识体表分区 | [文件](../assets/images/01-01.jpg) | [1.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology) |
-| 01-02 | 三个基本切面 | [文件](../assets/images/01-02.jpg) | [1.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology) |
-| 01-03 | 体腔与分隔 | [文件](../assets/images/01-03.jpg) | [1.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology) |
-| 02-01 | 四类基本组织 | [文件](../assets/images/02-01.jpg) | [4.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues) |
-| 02-02 | 膜也有不同组成 | [文件](../assets/images/02-02.jpg) | [4.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues) |
-| 03-01 | 皮肤与皮下组织的连续层次 | [文件](../assets/images/03-01.jpg) | [5.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) |
-| 03-02 | 毛囊及其附属结构 | [文件](../assets/images/03-02.jpg) | [5.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-2-accessory-structures-of-the-skin) |
-| 04-01 | 疏松结缔组织中的纤维与细胞 | [文件](../assets/images/04-01.jpg) | [4.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects) |
-| 04-02 | 致密结缔组织的纤维方向 | [文件](../assets/images/04-02.jpg) | [4.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects) |
-| 05-01 | 一块肌肉内部的包裹层 | [文件](../assets/images/05-01.jpg) | [10.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle) |
-| 05-02 | 肌节的基本结构 | [文件](../assets/images/05-02.jpg) | [10.5](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle) |
-| 05-03 | 收缩时缩短的是肌节 | [文件](../assets/images/05-03.jpg) | [10.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation) |
-| 06-01 | 中轴骨与附肢骨 | [文件](../assets/images/06-01.jpg) | [7.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-1-divisions-of-the-skeletal-system) |
-| 06-02 | 长骨的外形与内部 | [文件](../assets/images/06-02.jpg) | [6.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure) |
-| 06-03 | 皮质骨的骨单位 | [文件](../assets/images/06-03.jpg) | [6.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure) |
-| 07-01 | 滑膜关节的包裹与间隙 | [文件](../assets/images/07-01.jpg) | [9.8](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints) |
-| 07-02 | 关节形状与活动方式 | [文件](../assets/images/07-02.jpg) | [9.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints) |
-| 08-01 | 头颅矢状面：骨壳与腔隙 | [文件](../assets/images/08-01.jpg) | [7.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull) |
-| 08-02 | 表情肌与面部软组织 | [文件](../assets/images/08-02.jpg) | [11.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back) |
-| 08-03 | 咀嚼肌如何移动下颌 | [文件](../assets/images/08-03.jpg) | [11.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back) |
-| 09-01 | 脊柱的分区与生理曲度 | [文件](../assets/images/09-01.jpg) | [7.20](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column) |
-| 09-02 | 椎间盘、椎体与神经通道 | [文件](../assets/images/09-02.jpg) | [7.24](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column) |
-| 10-01 | 肩带怎样连接上肢与躯干 | [文件](../assets/images/10-01.jpg) | [8.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle) |
-| 10-02 | 桡尺骨与前臂旋转 | [文件](../assets/images/10-02.jpg) | [8.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb) |
-| 10-03 | 手内在肌：指间精细控制 | [文件](../assets/images/10-03.jpg) | [11.28](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs) |
-| 11-01 | 髋与大腿肌肉的空间关系 | [文件](../assets/images/11-01.jpg) | [11.29](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs) |
-| 11-02 | 足骨与足弓的空间关系 | [文件](../assets/images/11-02.jpg) | [8.19](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb) |
-| 11-03 | 小腿的不同肌群 | [文件](../assets/images/11-03.jpg) | [11.32](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs) |
-| 12-01 | 肺叶与肺门 | [文件](../assets/images/12-01.jpg) | [22.13](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs) |
-| 12-02 | 脏胸膜与壁胸膜 | [文件](../assets/images/12-02.jpg) | [22.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs) |
-| 12-03 | 从细支气管走到肺泡 | [文件](../assets/images/12-03.jpg) | [22.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system) |
-| 13-01 | 体循环与肺循环串联 | [文件](../assets/images/13-01.jpg) | [19.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy) |
-| 13-02 | 心脏四腔、瓣膜与大血管 | [文件](../assets/images/13-02.jpg) | [19.9](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy) |
-| 14-01 | 动脉、静脉与毛细血管的管壁 | [文件](../assets/images/14-01.jpg) | [20.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels) |
-| 14-02 | 组织液如何进入淋巴毛细管 | [文件](../assets/images/14-02.jpg) | [21.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems) |
-| 14-03 | 淋巴系统的回流路线 | [文件](../assets/images/14-03.jpg) | [21.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems) |
-| 15-01 | 腹膜与肠系膜的反折 | [文件](../assets/images/15-01.jpg) | [23.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-1-overview-of-the-digestive-system) |
-| 15-02 | 腹部消化器官的总体位置 | [文件](../assets/images/15-02.jpg) | [23.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-1-overview-of-the-digestive-system) |
-| 16-01 | 胃的入口、出口和壁层 | [文件](../assets/images/16-01.jpg) | [23.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach) |
-| 16-02 | 肝胆胰与十二指肠的联系 | [文件](../assets/images/16-02.jpg) | [23.24](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder) |
-| 17-01 | 肾脏剖面与尿液汇集 | [文件](../assets/images/17-01.jpg) | [25.8](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney) |
-| 17-02 | 肾单位与周围血管 | [文件](../assets/images/17-02.jpg) | [25.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney) |
-| 18-01 | 一类常见盆腔矢状解剖 | [文件](../assets/images/18-01.jpg) | [27.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system) |
-| 18-02 | 另一类常见盆腔矢状解剖 | [文件](../assets/images/18-02.jpg) | [27.9](https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system) |
-| 19-01 | 脑脊液的循环路径 | [文件](../assets/images/19-01.jpg) | [13.18](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system) |
-| 19-02 | 大脑的外部结构 | [文件](../assets/images/19-02.jpg) | [13.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system) |
-| 19-03 | 脊髓横断面 | [文件](../assets/images/19-03.jpg) | [13.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system) |
-| 20-01 | 一条神经中的束与纤维 | [文件](../assets/images/20-01.jpg) | [13.21](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system) |
-| 20-02 | 神经根、脊神经与前后支 | [文件](../assets/images/20-02.png) | [原创辅助图](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system) |
-| 20-03 | 副交感通路的两级连接 | [文件](../assets/images/20-03.jpg) | [15.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/15-1-divisions-of-the-autonomic-nervous-system) |
-| 21-01 | 眼球的光路与感光层 | [文件](../assets/images/21-01.jpg) | [14.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception) |
-| 21-02 | 外耳、中耳与内耳 | [文件](../assets/images/21-02.jpg) | [14.5](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception) |
-| 21-03 | 嗅上皮与嗅觉通路 | [文件](../assets/images/21-03.jpg) | [14.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception) |
-| 22-01 | 内分泌结构分散在全身 | [文件](../assets/images/22-01.jpg) | [17.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system) |
-| 22-02 | 下丘脑与垂体的连接 | [文件](../assets/images/22-02.jpg) | [17.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus) |
-| 23-01 | 上皮细胞的排列方式 | [文件](../assets/images/23-01.jpg) | [4.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-2-epithelial-tissue) |
-| 23-02 | 一个概括性的人体细胞示意 | [文件](../assets/images/23-02.jpg) | [3.13](https://openstax.org/books/anatomy-and-physiology-2e/pages/3-2-the-cytoplasm-and-cellular-organelles) |
-| 24-01 | 负反馈如何维持动态稳定 | [文件](../assets/images/24-01.jpg) | [1.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis) |
+| 图号 | 中文题名 | 文件 | 对照条目 | 原图 |
+| --- | --- | --- | --- | --- |
+| 01-01 | 从前后两面认识体表分区 | [文件](../assets/images/01-01.jpg) | 50 | [1.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology) |
+| 01-02 | 三个基本切面 | [文件](../assets/images/01-02.jpg) | 4 | [1.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology) |
+| 01-03 | 体腔与分隔 | [文件](../assets/images/01-03.jpg) | 14 | [1.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology) |
+| 02-01 | 四类基本组织 | [文件](../assets/images/02-01.jpg) | 15 | [4.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues) |
+| 02-02 | 膜也有不同组成 | [文件](../assets/images/02-02.jpg) | 9 | [4.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-1-types-of-tissues) |
+| 03-01 | 皮肤与皮下组织的连续层次 | [文件](../assets/images/03-01.jpg) | 17 | [5.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin) |
+| 03-02 | 毛囊及其附属结构 | [文件](../assets/images/03-02.jpg) | 11 | [5.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-2-accessory-structures-of-the-skin) |
+| 04-01 | 疏松结缔组织中的纤维与细胞 | [文件](../assets/images/04-01.jpg) | 10 | [4.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects) |
+| 04-02 | 致密结缔组织的纤维方向 | [文件](../assets/images/04-02.jpg) | 5 | [4.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects) |
+| 05-01 | 一块肌肉内部的包裹层 | [文件](../assets/images/05-01.jpg) | 9 | [10.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle) |
+| 05-02 | 肌节的基本结构 | [文件](../assets/images/05-02.jpg) | 20 | [10.5](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle) |
+| 05-03 | 收缩时缩短的是肌节 | [文件](../assets/images/05-03.jpg) | 5 | [10.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation) |
+| 06-01 | 中轴骨与附肢骨 | [文件](../assets/images/06-01.jpg) | 30 | [7.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-1-divisions-of-the-skeletal-system) |
+| 06-02 | 长骨的外形与内部 | [文件](../assets/images/06-02.jpg) | 14 | [6.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure) |
+| 06-03 | 皮质骨的骨单位 | [文件](../assets/images/06-03.jpg) | 20 | [6.12](https://openstax.org/books/anatomy-and-physiology-2e/pages/6-3-bone-structure) |
+| 07-01 | 滑膜关节的包裹与间隙 | [文件](../assets/images/07-01.jpg) | 6 | [9.8](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints) |
+| 07-02 | 关节形状与活动方式 | [文件](../assets/images/07-02.jpg) | 6 | [9.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints) |
+| 08-01 | 头颅矢状面：骨壳与腔隙 | [文件](../assets/images/08-01.jpg) | 24 | [7.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull) |
+| 08-02 | 表情肌与面部软组织 | [文件](../assets/images/08-02.jpg) | 9 | [11.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back) |
+| 08-03 | 咀嚼肌如何移动下颌 | [文件](../assets/images/08-03.jpg) | 7 | [11.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back) |
+| 09-01 | 脊柱的分区与生理曲度 | [文件](../assets/images/09-01.jpg) | 7 | [7.20](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column) |
+| 09-02 | 椎间盘、椎体与神经通道 | [文件](../assets/images/09-02.jpg) | 6 | [7.24](https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column) |
+| 10-01 | 肩带怎样连接上肢与躯干 | [文件](../assets/images/10-01.jpg) | 16 | [8.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle) |
+| 10-02 | 右侧桡骨、尺骨的前面与后面 | [文件](../assets/images/10-02.jpg) | 18 | [8.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb) |
+| 10-03 | 手内在肌：指间精细控制 | [文件](../assets/images/10-03.jpg) | 15 | [11.28](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs) |
+| 11-01 | 髋与大腿肌肉的空间关系 | [文件](../assets/images/11-01.jpg) | 35 | [11.29](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs) |
+| 11-02 | 足骨与足弓的空间关系 | [文件](../assets/images/11-02.jpg) | 24 | [8.19](https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb) |
+| 11-03 | 小腿的不同肌群 | [文件](../assets/images/11-03.jpg) | 22 | [11.32](https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs) |
+| 12-01 | 左右肺叶与支气管分支 | [文件](../assets/images/12-01.jpg) | 10 | [22.13](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs) |
+| 12-02 | 脏胸膜与壁胸膜 | [文件](../assets/images/12-02.jpg) | 8 | [22.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs) |
+| 12-03 | 从细支气管走到肺泡 | [文件](../assets/images/12-03.jpg) | 13 | [22.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system) |
+| 13-01 | 体循环与肺循环串联 | [文件](../assets/images/13-01.jpg) | 23 | [19.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy) |
+| 13-02 | 心脏四腔、瓣膜与大血管 | [文件](../assets/images/13-02.jpg) | 26 | [19.9](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy) |
+| 14-01 | 动脉与静脉的管壁比较 | [文件](../assets/images/14-01.jpg) | 15 | [20.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels) |
+| 14-02 | 组织液如何进入淋巴毛细管 | [文件](../assets/images/14-02.jpg) | 13 | [21.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems) |
+| 14-03 | 淋巴系统的回流路线 | [文件](../assets/images/14-03.jpg) | 9 | [21.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems) |
+| 15-01 | 腹膜与肠系膜的反折 | [文件](../assets/images/15-01.jpg) | 13 | [23.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-1-overview-of-the-digestive-system) |
+| 15-02 | 腹部消化器官的总体位置 | [文件](../assets/images/15-02.jpg) | 27 | [23.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-1-overview-of-the-digestive-system) |
+| 16-01 | 胃的入口、出口和壁层 | [文件](../assets/images/16-01.jpg) | 17 | [23.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach) |
+| 16-02 | 肝胆胰与十二指肠的联系 | [文件](../assets/images/16-02.jpg) | 14 | [23.24](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder) |
+| 17-01 | 肾脏剖面与尿液汇集 | [文件](../assets/images/17-01.jpg) | 17 | [25.8](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney) |
+| 17-02 | 肾单位与周围血管 | [文件](../assets/images/17-02.jpg) | 10 | [25.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney) |
+| 18-01 | 一类常见盆腔矢状解剖 | [文件](../assets/images/18-01.jpg) | 27 | [27.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system) |
+| 18-02 | 另一类常见盆腔矢状解剖 | [文件](../assets/images/18-02.jpg) | 22 | [27.9](https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system) |
+| 19-01 | 脑脊液的循环路径 | [文件](../assets/images/19-01.jpg) | 13 | [13.18](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system) |
+| 19-02 | 大脑的外部结构 | [文件](../assets/images/19-02.jpg) | 8 | [13.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system) |
+| 19-03 | 脊髓横断面 | [文件](../assets/images/19-03.jpg) | 9 | [13.14](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system) |
+| 20-01 | 一条神经中的束与纤维 | [文件](../assets/images/20-01.jpg) | 8 | [13.21](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system) |
+| 20-02 | 神经根、脊神经与前后支 | [文件](../assets/images/20-02.png) | 0 | [原创辅助图](https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system) |
+| 20-03 | 交感与副交感通路总览 | [文件](../assets/images/20-03.jpg) | 47 | [15.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/15-1-divisions-of-the-autonomic-nervous-system) |
+| 21-01 | 眼球的光路与感光层 | [文件](../assets/images/21-01.jpg) | 25 | [14.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception) |
+| 21-02 | 外耳、中耳与内耳 | [文件](../assets/images/21-02.jpg) | 16 | [14.5](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception) |
+| 21-03 | 嗅上皮与嗅觉通路 | [文件](../assets/images/21-03.jpg) | 18 | [14.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception) |
+| 22-01 | 内分泌结构分散在全身 | [文件](../assets/images/22-01.jpg) | 14 | [17.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system) |
+| 22-02 | 下丘脑与垂体的连接 | [文件](../assets/images/22-02.jpg) | 5 | [17.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus) |
+| 23-01 | 上皮细胞的排列方式 | [文件](../assets/images/23-01.jpg) | 13 | [4.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-2-epithelial-tissue) |
+| 23-02 | 一个概括性的人体细胞示意 | [文件](../assets/images/23-02.jpg) | 19 | [3.13](https://openstax.org/books/anatomy-and-physiology-2e/pages/3-2-the-cytoplasm-and-cellular-organelles) |
+| 24-01 | 负反馈如何维持动态稳定 | [文件](../assets/images/24-01.jpg) | 12 | [1.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis) |

@@ -14,9 +14,27 @@
 
 ![一块肌肉内部的包裹层](../assets/images/05-01.jpg)
 
-**读图：** 沿整块肌肉、肌束、肌纤维三个尺度逐级放大；这些是包裹和连接关系，不能当成三种独立肌肉。
+#### 中文读图说明
 
-**标注对应：** epimysium 肌外膜；perimysium 肌束膜；endomysium 肌内膜。
+从最上方整块骨骼肌开始，先找包在整体外面的肌外膜，再看被抽出放大的肌束。灰色箭头表示逐级放大，并非肌肉收缩方向；肌束周围的结缔组织称肌束膜。
+
+中间把一个肌束再次放大，显示里面的多条肌纤维，每条外周有肌内膜。肌纤维其实是一条肌细胞；图右侧的卫星细胞贴近肌纤维表面，与肌纤维内的小圆结构并不是同一类成分。
+
+最下方继续放大一条肌纤维，肌膜围住细胞，内部平行排列许多肌原纤维。肌外膜、肌束膜、肌内膜是结缔组织层次，肌膜则是细胞膜；各级放大不同比例，不能把图中抽出的部分看作活体里游离的绳索。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Skeletal muscle | 骨骼肌 | 上方整块肌肉器官的外观示例 |
+| Epimysium | 肌外膜 | 围绕整块肌肉的结缔组织外层 |
+| Muscle fascicle | 肌束 | 多条肌纤维组成并被继续放大 |
+| Perimysium | 肌束膜 | 包围一束肌纤维的结缔组织层 |
+| Endomysium | 肌内膜 | 每条肌纤维外周的薄结缔组织 |
+| Muscle fiber | 肌纤维 | 中下图所示一条细长骨骼肌细胞 |
+| Satellite cell | 卫星细胞 | 肌纤维表面附近的修复相关细胞 |
+| Sarcolemma | 肌膜 | 围住肌纤维细胞的质膜结构 |
+| Myofibril | 肌原纤维 | 肌纤维内部平行细丝状收缩结构 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 10.3](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -32,9 +50,38 @@
 
 ![肌节的基本结构](../assets/images/05-02.jpg)
 
-**读图：** 先找相邻两条Z线，把两线之间视为一个肌节，再比较粗细肌丝的位置。
+#### 中文读图说明
 
-**标注对应：** sarcomere 肌节；actin 肌动蛋白；myosin 肌球蛋白。
+上图以两条Z线之间标出一个肌节。绿色细肌丝从两端向中央伸入，紫色粗肌丝居中；A带跨越粗肌丝全长，I带只有细肌丝，H带是中央不与细肌丝重叠的区域，M线位于中央。
+
+沿灰箭头向下，左边把粗肌丝放大成带许多头部的结构，右边显示细肌丝的肌动蛋白、原肌球蛋白和肌钙蛋白。再看最下方，肌球蛋白分子的头部同时具有与肌动蛋白、ATP结合的位点。
+
+这些位点与头部活动解释了肌丝如何相互作用。颜色只为区分蛋白，图中各层放大倍数不同；Z线不是细肌丝本身，粗肌丝也不是只有一个肌球蛋白分子，不能把分子图与整条肌丝等同。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Sarcomere | 肌节 | 相邻两条Z线之间的收缩结构单位 |
+| Z line | Z线 | 肌节边界并锚定细肌丝的位置 |
+| H zone | H带 | 肌节中央仅有粗肌丝的区域 |
+| M line | M线 | 肌节中央联系粗肌丝的结构 |
+| Lighter I band | 较浅的I带（明带） | 仅有细肌丝区域并跨越Z线 |
+| Darker A band | 较深的A带（暗带） | 对应粗肌丝全长含重叠区域 |
+| Portion of a thick filament | 一段粗肌丝 | 中左放大结构由许多肌球蛋白组成 |
+| Portion of a thin filament | 一段细肌丝 | 中右放大结构含肌动及调节蛋白 |
+| Head | 头部 | 粗肌丝上突出的肌球蛋白头部 |
+| Troponin | 肌钙蛋白 | 细肌丝上参与钙调节的蛋白复合物 |
+| Actin | 肌动蛋白 | 绿色珠状结构组成细肌丝骨架 |
+| Tropomyosin | 原肌球蛋白 | 沿肌动蛋白延伸的长链调节蛋白 |
+| Actin-binding sites | 肌动蛋白结合位点 | 下左肌球蛋白头与细肌丝作用处 |
+| ATP-binding site | ATP结合位点 | 肌球蛋白头利用ATP相关能量变化 |
+| Tail | 尾部 | 肌球蛋白分子较长的杆状部分 |
+| Heads | 头部 | 一分子肌球蛋白的两个球状头 |
+| Myosin molecule | 肌球蛋白分子 | 下左显示双头和长尾的单个分子 |
+| Flexible hinge region | 可屈曲铰链区 | 肌球蛋白头尾连接附近的活动区 |
+| Binding site for myosin | 肌球蛋白结合位点 | 下右肌动蛋白上与肌球蛋白相接处 |
+| Actin subunits | 肌动蛋白亚基 | 下右一颗颗绿色单位构成肌动蛋白链 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 10.5](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-2-skeletal-muscle)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -42,9 +89,23 @@
 
 ![收缩时缩短的是肌节](../assets/images/05-03.jpg)
 
-**读图：** 对照收缩前后Z线距离与重叠区；肌丝彼此滑行，并非粗细肌丝本身同步变短。
+#### 中文读图说明
 
-**标注对应：** sliding filament 肌丝滑行；Z disc Z线。
+上下两图比较同一类肌节在较长和缩短状态下的排列。先固定中央M线，再找到左右Z线：下图两端Z线靠近，黑色大箭头提示两端向内的相对移动，表示肌节整体缩短。
+
+绿色细肌丝由两侧向中央滑入，紫色粗肌丝长度保持不变，两者重叠增加。对比底部括号可见I带缩小，中央H带也变窄，而对应粗肌丝全长的A带宽度基本不变。
+
+下图画出肌球蛋白头与细肌丝接触的关系，强调滑行而非肌丝自身缩短。绿色和紫色是蛋白识别色，黑箭头不是外力必须从外侧推压肌肉，也不表示所有收缩都必然让整块肌肉缩短。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Z | Z线 | 左右肌节边界随图示缩短相互靠近 |
+| M | M线 | 中央标记便于比较粗肌丝的位置 |
+| H | H带 | 中央仅有粗肌丝的区域缩小时变窄 |
+| Lighter I band | 较浅的I带（明带） | 两侧仅有细肌丝的区域在下图缩小 |
+| Darker A band | 较深的A带（暗带） | 粗肌丝对应区域在两图宽度基本相同 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 10.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

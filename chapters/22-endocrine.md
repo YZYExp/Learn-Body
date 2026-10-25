@@ -16,9 +16,32 @@
 
 ![内分泌结构分散在全身](../assets/images/22-01.jpg)
 
-**读图：** 从头部到颈、胸腹与盆部定位腺体。胰等器官兼有内分泌和其他功能，不能只按外形归类。
+#### 中文读图说明
 
-**标注对应：** pituitary 垂体；thyroid 甲状腺；adrenal 肾上腺。
+先从左侧人体轮廓由上向下定位：头部下丘脑、垂体和松果体，颈部甲状腺及甲状旁腺，上胸部胸腺，再到腹部肾上腺和胰腺。图省略了很多邻近器官，并不是完整解剖剖面。
+
+两支灰色大箭头仅表示局部放大。头部框用于分清松果体、下丘脑和垂体；颈部框把通常位于甲状腺后侧的甲状旁腺透出显示，四个小点不表示它们都能从正面直接看见。
+
+下方把卵巢和睾丸两类性腺并置于同一轮廓内以便比较，并非一名个体的实际器官组合。子宫、气管与甲状软骨是位置参照，不能因被标出就把它们等同于图中独立内分泌腺。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Pineal gland | 松果体 | 位于间脑后上部并产生褪黑素的结构 |
+| Hypothalamus | 下丘脑 | 位于间脑下部并联系神经与内分泌调节 |
+| Pituitary gland | 垂体 | 位于下丘脑下方并由垂体柄相连 |
+| Thymus | 胸腺 | 位于胸腔前上部的免疫相关器官 |
+| Thyroid | 甲状腺局部图 | 右中放大框展示甲状腺邻近结构 |
+| Thyroid cartilage of the larynx | 喉的甲状软骨 | 位于甲状腺上方的喉部软骨参照 |
+| Thyroid gland | 甲状腺 | 位于颈前并分列气管上段两侧 |
+| Parathyroid glands (on posterior side of thyroid) | 甲状旁腺（位于甲状腺后侧） | 小型独立腺体借透视方式显示在图中 |
+| Trachea | 气管 | 颈部放大图中用于定位的管状结构 |
+| Adrenal glands | 肾上腺 | 位于两侧肾的上方并分皮质与髓质 |
+| Pancreas | 胰腺 | 腹部横向结构兼有内外分泌功能 |
+| Uterus | 子宫 | 此处作为卵巢位置关系的盆腔参照 |
+| Ovaries (female) | 卵巢（女性常见性腺） | 位于子宫两侧并兼具生殖与内分泌作用 |
+| Testes (male) | 睾丸（男性常见性腺） | 通常位于阴囊并兼具生殖与内分泌作用 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 17.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -39,9 +62,23 @@
 
 ![下丘脑与垂体的连接](../assets/images/22-02.jpg)
 
-**读图：** 比较前后部与下丘脑的不同连接；神经联系和垂体门脉系统不是同一条通路。
+#### 中文读图说明
 
-**标注对应：** hypothalamus 下丘脑；anterior pituitary 腺垂体；posterior pituitary 神经垂体。
+先看左上头部正中剖面，方框圈出颅底附近的下丘脑与垂体区域；灰色箭头将它放大到右图。脸部在左，脑干在右下，因此图中左右不能直接解释为人体左右侧。
+
+右图先找到较大的丘脑，再向其前下方找蓝绿色下丘脑。向下沿橙色漏斗部到达垂体，左侧浅绿色部分为垂体前叶，右侧紫色部分为垂体后叶，两者借同一柄部与下丘脑邻接。
+
+这幅图直接显示的是位置和外形，不包含神经轴突或垂体门脉血管的完整细线。前叶经门脉信号调节、后叶由下丘脑轴突延伸等关系需结合正文理解，不能宣称已由此图逐条展示。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Thalamus | 丘脑 | 位于下丘脑上方的间脑主要结构 |
+| Hypothalamus | 下丘脑 | 蓝绿色区域并位于丘脑前下方 |
+| Infundibulum | 漏斗部（垂体柄相关部分） | 橙色柄部连接下丘脑与下方垂体 |
+| Anterior pituitary | 垂体前叶 | 图左浅绿色部分以腺性组织为主 |
+| Posterior pituitary | 垂体后叶 | 图右紫色部分与下丘脑神经轴突相续 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 17.7](https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

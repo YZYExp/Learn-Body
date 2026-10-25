@@ -12,9 +12,35 @@
 
 ![肾脏剖面与尿液汇集](../assets/images/17-01.jpg)
 
-**读图：** 从外层皮质进入髓质，再沿肾乳头、肾盏、肾盂到输尿管；这不是血液流动路线。
+#### 中文读图说明
 
-**标注对应：** cortex 皮质；medulla 髓质；renal pelvis 肾盂。
+左上小框先交代两肾在上腹后部的位置，右侧大图展开左肾。先由最外薄囊进入皮质，再认内部放射状肾锥体及锥体间的肾柱；肾髓质主要包括这些锥体区域。
+
+沿淡黄色尿路，从锥体尖端的肾乳头进入肾小盏，汇入肾大盏、肾盂，再向下到输尿管。这是尿液汇集方向，不是红蓝血液从肾门进入后直接流走的路线。
+
+最后读红蓝血管：叶间血管走在锥体之间，弓状血管绕锥体底部，再分到皮质。黄色实心分支是神经，肾门是这些结构出入的区域；三者即使靠近，也不是同一管腔。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Capsule | 肾纤维囊 | 紧贴肾表面的薄被膜，包绕肾组织 |
+| Cortex | 肾皮质 | 外周较均匀区域，位于髓质外侧 |
+| Medulla | 肾髓质 | 内部包含多个肾锥体的组织区域 |
+| Pyramid | 肾锥体 | 髓质内放射状三角形区域，尖端朝肾窦 |
+| Papilla | 肾乳头 | 肾锥体尖端，尿液从此流入肾小盏 |
+| Renal column | 肾柱 | 锥体之间延伸进入深部的皮质组织 |
+| Minor calyx | 肾小盏 | 包接肾乳头的较小尿液收集结构 |
+| Major calyx | 肾大盏 | 由多个肾小盏汇合形成的较大通路 |
+| Renal pelvis | 肾盂 | 肾中央漏斗形汇集部，向输尿管延续 |
+| Ureter | 输尿管 | 图中向下延伸的尿液运输管道 |
+| Renal hilum | 肾门 | 内侧凹入处，血管神经及尿路出入 |
+| Renal artery | 肾动脉 | 红色入肾血管，向肾内逐级分支 |
+| Renal vein | 肾静脉 | 蓝色出肾血管，汇集肾内回流血液 |
+| Renal nerve | 肾神经 | 黄色实心分支，参与肾脏神经调节 |
+| Interlobar blood vessels | 叶间血管 | 走在肾锥体之间的血管，沿肾柱分布 |
+| Arcuate blood vessels | 弓状血管 | 在锥体底部附近弯行的红蓝血管 |
+| Cortical blood vessels | 皮质血管 | 分布在肾外周皮质中的细小血管 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 25.8](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -30,9 +56,28 @@
 
 ![肾单位与周围血管](../assets/images/17-02.jpg)
 
-**读图：** 分别沿血流和小管液走向读图，观察过滤与后续回收发生在不同位置。集合管由多个肾单位汇入。
+#### 中文读图说明
 
-**标注对应：** glomerulus 肾小球；proximal tubule 近端小管；collecting duct 集合管。
+先分清两套通路：红蓝细管是血管，淡黄色粗一些的管道是肾小管及集合系统。左上杯状肾小囊包住一团肾小球毛细血管；不要把整只杯子与杯内血管混为一物。
+
+血流由左侧皮质辐射动脉分支，经入球小动脉进入肾小球，再经出球小动脉去周围毛细血管网，最终汇入微静脉和蓝色皮质辐射静脉。血管引线并非血流方向箭头。
+
+小管液则从肾小囊走向近端曲小管，经过向下弯回的肾单位袢和后续管段，进入右侧未标名的集合管。底部黑箭头明确表示尿液流向肾乳头；血液不会直接流进这根黄色管。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Glomerular capsule | 肾小囊（鲍曼囊） | 左上杯状结构，包围肾小球并接收滤液 |
+| Afferent arteriole | 入球小动脉 | 从左侧动脉进入肾小球的供血分支 |
+| Efferent arteriole | 出球小动脉 | 离开肾小球后接续另一毛细血管网 |
+| Proximal convoluted tubule | 近端曲小管 | 肾小囊之后弯曲黄色管段，回收多种物质 |
+| Cortical radiate artery | 皮质辐射动脉 | 左侧红色主干，发出肾小球供血分支 |
+| Cortical radiate vein | 皮质辐射静脉 | 左侧蓝色主干，汇集周围微静脉血液 |
+| Venule | 微静脉 | 连接毛细血管网与蓝色较大静脉 |
+| Loop of the nephron | 肾单位袢（亨利袢） | 淡黄色向下后折返的细长小管段 |
+| Peritubular capillary network | 肾小管周围毛细血管网 | 围绕黄色小管的细血管，参与物质交换 |
+| Urine flows into renal papilla | 尿液流向肾乳头 | 底部黑箭头，指集合系统中尿液去向 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 25.10](https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

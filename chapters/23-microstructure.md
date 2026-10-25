@@ -29,9 +29,31 @@
 
 ![上皮细胞的排列方式](../assets/images/23-01.jpg)
 
-**读图：** 分别观察层数与表层细胞形状，这两条分类线索共同决定名称；假复层不能单凭细胞核高低判断层数。
+#### 中文读图说明
 
-**标注对应：** simple 单层；stratified 复层；squamous 鳞状；columnar 柱状。
+这是一张按两个维度排列的分类表，不是连续剥开身体的步骤图。先横看列标题：左列单层，中列复层；再竖看行标题：从上到下依次为鳞状、立方状、柱状，组合起来才是上皮类型的名称。
+
+各小格底部紫色细带表示细胞附着的基底侧，顶部为自由表面。比较同一行的左右两格可看清层数差异，比较单层一列的上下三格则能看清细胞由扁到高的形状变化。
+
+右下单独的小格是假复层柱状上皮，细胞核高度不齐，但所有细胞都接触基底膜。复层上皮按最表层细胞形状命名，不能用底层细胞形状或细胞核的排数代替分类判断。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Simple | 单层 | 列标题表示上皮只有一层细胞 |
+| Stratified | 复层 | 列标题表示上皮由多层细胞构成 |
+| Squamous | 鳞状（扁平） | 行标题表示表层细胞呈扁平形态 |
+| Cuboidal | 立方状 | 行标题表示细胞高度与宽度较接近 |
+| Columnar | 柱状 | 行标题表示表层细胞高度明显较大 |
+| Pseudostratified | 假复层 | 看似多层但所有细胞均接触基底膜 |
+| Simple squamous epithelium | 单层鳞状上皮 | 左上格为一层扁平细胞覆盖的表面 |
+| Stratified squamous epithelium | 复层鳞状上皮 | 右上格有多层且表层细胞较扁平 |
+| Simple cuboidal epithelium | 单层立方上皮 | 左中格为一层近立方形细胞排列 |
+| Stratified cuboidal epithelium | 复层立方上皮 | 右中格由多层近立方形细胞构成 |
+| Simple columnar epithelium | 单层柱状上皮 | 左下格为一层较高柱形细胞排列 |
+| Stratified columnar epithelium | 复层柱状上皮 | 中下格的表面一层呈较高柱形 |
+| Pseudostratified columnar epithelium | 假复层柱状上皮 | 右下格细胞核高低不齐但不是真复层 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 4.6](https://openstax.org/books/anatomy-and-physiology-2e/pages/4-2-epithelial-tissue)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -53,9 +75,37 @@
 
 ![一个概括性的人体细胞示意](../assets/images/23-02.jpg)
 
-**读图：** 把细胞膜、细胞核与细胞质细胞器区分开。该图是综合示意，成熟红细胞等特化细胞并不具备图中所有结构。
+#### 中文读图说明
 
-**标注对应：** nucleus 细胞核；mitochondrion 线粒体；ribosome 核糖体。
+先沿外圈找到细胞膜，再把内部紫色大圆的细胞核与周围细胞质分开。核内深色核仁和细线状染色质是不同成分；这是一张综合模式图，不代表每种人体细胞都长成同样外形。
+
+沿细胞核外围蓝色折叠膜找粗面内质网，红色小点是核糖体；再向左下找到粉色高尔基体及附近囊泡，理解部分蛋白质从合成、加工到分拣运输的联系，图中并未画出完整运输箭头。
+
+最后找橙色线粒体、粉色溶酶体、绿色过氧化物酶体及三类细胞骨架。图中比例和数量为便于识别而简化，浅蓝液泡也不是人体细胞普遍具有的植物式大中央液泡。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Intermediate filament | 中间丝 | 图中较细纤维之一参与承受细胞牵拉 |
+| Ribosomes | 核糖体 | 红色小点参与细胞内的蛋白质合成 |
+| Rough endoplasmic reticulum | 粗面内质网 | 细胞核附近附有核糖体的蓝色膜网 |
+| Nucleus | 细胞核 | 包含主要遗传信息的紫色大结构 |
+| Nucleolus | 核仁 | 细胞核内较深色并与核糖体生成相关 |
+| Chromatin | 染色质 | 细胞核内由遗传物质与蛋白构成 |
+| Golgi apparatus | 高尔基体 | 左下粉色扁囊参与分拣加工细胞产物 |
+| Golgi vesicle | 高尔基体囊泡 | 高尔基体附近用于运输的膜性小泡 |
+| Cytoplasm | 细胞质 | 细胞膜内而位于细胞核之外的部分 |
+| Vacuole | 液泡（概括性囊泡） | 原图浅蓝囊泡并非植物式大中央液泡 |
+| Mitochondria | 线粒体 | 橙色双膜结构参与细胞能量转换 |
+| Plasma membrane | 细胞膜 | 围住整个细胞并形成选择性交换界面 |
+| Microtubule | 微管 | 较粗的骨架管状成分参与运输和分裂 |
+| Centrosome | 中心体 | 细胞内与微管组织相关的结构区域 |
+| Microfilament | 微丝 | 细胞骨架成分并参与形态和运动 |
+| Lysosome | 溶酶体 | 粉色囊泡内的酶参与分解与回收 |
+| Smooth endoplasmic reticulum | 滑面内质网 | 无表面核糖体的膜网参与脂质等代谢 |
+| Secretory vesicle | 分泌囊泡 | 图右靠近细胞膜并将产物送往胞外 |
+| Peroxisome | 过氧化物酶体 | 绿色小体参与脂质与过氧化物的代谢 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 3.13](https://openstax.org/books/anatomy-and-physiology-2e/pages/3-2-the-cytoplasm-and-cellular-organelles)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

@@ -20,9 +20,35 @@
 
 ![胃的入口、出口和壁层](../assets/images/16-01.jpg)
 
-**读图：** 从食管入口到十二指肠出口，观察弯曲的胃形和肌层。胃襞随充盈改变，图示不是固定折纸结构。
+#### 中文读图说明
 
-**标注对应：** cardia 贲门；pylorus 幽门；rugae 胃襞。
+从左上食管进入贲门，先认右上隆起的胃底和右侧较大的胃体，再沿下部胃窦、幽门管找到左侧十二指肠。图把胃壁局部翻开，才同时看到肌层和胃腔。
+
+左上三条引线分别指出纵行、环行、斜行肌层；斜行肌束是胃壁搅拌能力的一项结构基础。右侧最外面薄层为浆膜，胃腔内的起伏则是黏膜皱襞，不是同一层肌束。
+
+靠幽门出口的环形增厚为幽门括约肌，参与控制排空。胃大弯和小弯旁的黑色双向弧箭头只标示两条弯曲边缘的范围，不表示食物沿胃外缘来回流动。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Esophagus | 食管 | 左上管道，经贲门将食物送入胃 |
+| Muscularis externa: | 肌层 | 图中被翻开显示的平滑肌层总称 |
+| Longitudinal layer | 纵行肌层 | 肌层外部，肌束大体沿胃长轴走行 |
+| Circular layer | 环行肌层 | 肌层中间，肌束环绕胃腔方向排列 |
+| Oblique layer | 斜行肌层 | 胃的内侧斜行肌束，帮助混合内容物 |
+| Cardia | 贲门部 | 食管接入胃的入口附近区域名称 |
+| Fundus | 胃底 | 画面右上方穹隆状隆起，邻近膈下 |
+| Body | 胃体 | 图中胃的主要中部，大括号标出范围 |
+| Serosa | 浆膜 | 胃壁最外表面的薄层，与腹膜相关 |
+| Lumen | 胃腔 | 容纳胃内容物的内部空间，不是胃壁 |
+| Rugae of mucosa | 胃黏膜皱襞（胃襞） | 胃腔面的起伏，可随充盈而展开 |
+| Lesser curvature | 胃小弯 | 画面左侧凹入边缘，弧箭头标示范围 |
+| Greater curvature | 胃大弯 | 画面右下凸出长边缘，弧箭头标范围 |
+| Pyloric antrum | 幽门窦 | 靠出口较宽的区域，向幽门管过渡 |
+| Pyloric canal | 幽门管 | 幽门窦之后较窄部分，通向出口 |
+| Pyloric sphincter (valve) at pylorus | 幽门处的幽门括约肌 | 出口环形增厚平滑肌，帮助控制排空 |
+| Duodenum | 十二指肠 | 图中左下离开胃的管道，接幽门 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 23.15](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -45,9 +71,32 @@
 
 ![肝胆胰与十二指肠的联系](../assets/images/16-02.jpg)
 
-**读图：** 从肝胆和胰分别追踪导管到肠腔，区分胆汁与消化酶的来源。胆囊储存浓缩胆汁，胆汁由肝产生。
+#### 中文读图说明
 
-**标注对应：** bile duct 胆管；pancreatic duct 胰管；duodenum 十二指肠。
+先找棕红色肝、绿色胆囊和下方黄色胰，紫色脾在画面右侧。人体右侧在画面左边；背景身体和其他消化器官被淡化，是为显露这些深部器官，并不表示它们悬在空处。
+
+沿肝的绿色导管读：左右肝管汇成肝总管，胆囊经胆囊管接入，合并后的通路称胆总管。胆汁由肝产生，胆囊负责储存和浓缩；引线指出位置，不是表示流向的箭头。
+
+再看胰内的胰管，它把外分泌胰液引向十二指肠。肝分叶名称用于辨认形态，不能当成四个独立器官；脾作为邻近结构一并显示，却不向肠道分泌消化液。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Liver: | 肝 | 上方棕红色大器官，图中标出形态分叶 |
+| Right lobe | 肝右叶 | 画面左侧较大部分，属于人体右侧 |
+| Quadrate lobe | 肝方叶 | 肝脏面上的分叶，图为显露而简化 |
+| Left lobe | 肝左叶 | 画面右上较薄延伸部分，按引线辨认 |
+| Caudate lobe | 肝尾状叶 | 肝后方相关分叶，并非尾部额外器官 |
+| Gallbladder | 胆囊 | 肝下方绿色小囊，储存并浓缩胆汁 |
+| Right hepatic duct | 右肝管 | 汇集肝右侧胆汁，与左肝管相接 |
+| Left hepatic duct | 左肝管 | 汇集肝左侧胆汁，汇向共同胆道 |
+| Common hepatic duct | 肝总管 | 左右肝管汇合后的一段胆汁通道 |
+| Cystic duct | 胆囊管 | 连接胆囊与肝外胆道的绿色短管 |
+| Common bile duct | 胆总管 | 肝总管与胆囊管汇合后的下行胆道 |
+| Spleen | 脾 | 画面右方紫色器官，不分泌消化液 |
+| Pancreas | 胰腺 | 肝下黄色横向腺体，兼具两类分泌 |
+| Pancreatic duct | 胰管 | 胰内部细管，输送外分泌胰液入肠 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 23.24](https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

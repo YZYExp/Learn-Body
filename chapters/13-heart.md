@@ -27,9 +27,41 @@
 
 ![体循环与肺循环串联](../assets/images/13-01.jpg)
 
-**读图：** 沿箭头走完整圈，确认右心到肺、左心到全身；红蓝色表示含氧状态的教学编码，不是血液的真实蓝色。
+#### 中文读图说明
 
-**标注对应：** pulmonary circuit 肺循环；systemic circuit 体循环。
+先看下半幅的全身图：这是正面示意，人体右侧在画面左侧。沿蓝色静脉进入右心，再到两肺；红色血液回到左心后，经上下两路进入全身毛细血管，最后返回右心。
+
+再看上方放大的心脏。依白箭头从右心房、三尖瓣到右心室，经肺动脉瓣进入肺动脉干；肺静脉带血回左心房，再经二尖瓣进入左心室，经主动脉瓣离开心脏。
+
+肺循环与体循环串联，不能把两幅图看成两套独立血液。红蓝表示含氧相对高低，蓝色不是血液真色；肺动脉虽画蓝色，仍因离开心脏而称动脉。灰色大箭头只表示放大对应。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Superior vena cava | 上腔静脉 | 上方蓝色大血管，将血送回右心房 |
+| Inferior vena cava | 下腔静脉 | 下方蓝色大血管，接收下部回流血液 |
+| Right atrium | 右心房 | 画面左侧上腔室，接收体循环回流 |
+| Right ventricle | 右心室 | 画面左侧下腔室，将血泵向肺循环 |
+| Tricuspid valve | 三尖瓣 | 位于右心房与右心室之间的瓣膜 |
+| Pulmonary semilunar valve | 肺动脉瓣 | 右心室流出端的半月瓣，限制倒流 |
+| Pulmonary trunk | 肺动脉干 | 离开右心室后分向左右肺的血管 |
+| Right pulmonary arteries | 右肺动脉分支 | 伸向画面左边，把血带往人体右肺 |
+| Left pulmonary arteries | 左肺动脉分支 | 伸向画面右边，把血带往人体左肺 |
+| Right pulmonary veins | 右肺静脉 | 来自人体右肺，含氧血流向左心房 |
+| Left pulmonary veins | 左肺静脉 | 来自人体左肺，含氧血流向左心房 |
+| Left atrium | 左心房 | 画面右侧上腔室，接收肺静脉血液 |
+| Mitral valve | 二尖瓣 | 位于左心房与左心室之间的瓣膜 |
+| Left ventricle | 左心室 | 画面右侧下腔室，将血泵向体循环 |
+| Aortic semilunar valve | 主动脉瓣 | 左心室接主动脉处的半月形瓣膜 |
+| Aorta | 主动脉 | 上方红色弓形大血管，通向全身 |
+| Systemic arteries to upper body | 通往身体上部的体循环动脉 | 下图向头颈及上肢方向送血的红管 |
+| Systemic capillaries of upper body | 身体上部的体循环毛细血管 | 下图头颈区域交换物质的血管网 |
+| Systemic veins from upper body | 来自身体上部的体循环静脉 | 下图头颈区域向右心回流的蓝管 |
+| Pulmonary capillaries in lungs | 肺内毛细血管 | 下图两肺中的血管网，参与气体交换 |
+| Systemic arteries to lower body | 通往身体下部的体循环动脉 | 下图向腹部及下肢方向送血的红管 |
+| Systemic capillaries of lower body | 身体下部的体循环毛细血管 | 下图最下方发生组织交换的血管网 |
+| Systemic veins from lower body | 来自身体下部的体循环静脉 | 下图由身体下部向右心回流的蓝管 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 19.4](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -45,9 +77,44 @@
 
 ![心脏四腔、瓣膜与大血管](../assets/images/13-02.jpg)
 
-**读图：** 先辨左右心，再沿房室瓣和流出道追踪血液。图中人体左侧通常在画面右侧。
+#### 中文读图说明
 
-**标注对应：** atrium 心房；ventricle 心室；septum 中隔。
+这是一幅从前方观看、切去部分前壁的心脏图，并非三张不同照片。人体右心在画面左边，左心在右边；先找上方两心房、下方两心室，再看中间较厚的室间隔。
+
+沿房室之间的白色瓣叶向下，能找到腱索和乳头肌。它们帮助瓣叶在心室收缩时保持位置，并不负责把瓣膜拉开；右侧三尖瓣与左侧二尖瓣需分别认读。
+
+随后找上方主动脉与蓝色肺动脉干的出口，辨认两处半月瓣。最后看画面右下的心壁，从外到内依次为心外膜、心肌层与心内膜；心室内起伏的肉柱不应当作额外隔墙。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Anterior view | 前面观 | 表示从人体前方观察，左右需反转 |
+| Aorta | 主动脉 | 上方红色弓形血管，离开左心室 |
+| Superior vena cava | 上腔静脉 | 画面左上蓝色大管，进入右心房 |
+| Inferior vena cava | 下腔静脉 | 画面左下蓝色大管，进入右心房 |
+| Right pulmonary artery | 右肺动脉 | 画面左上横行分支，通往人体右肺 |
+| Left pulmonary artery | 左肺动脉 | 画面右上蓝色分支，通往人体左肺 |
+| Pulmonary trunk | 肺动脉干 | 上方中央蓝色血管，连接右心室出口 |
+| Right pulmonary veins | 右肺静脉 | 人体右肺回流血管，图中从左方进入 |
+| Left pulmonary veins | 左肺静脉 | 画面右上红色短管，回流至左心房 |
+| Right atrium | 右心房 | 画面左上的腔室，汇集体循环回流 |
+| Left atrium | 左心房 | 画面右上的腔室，接收来自肺的血液 |
+| Fossa ovalis | 卵圆窝 | 房间隔右房面上的凹陷，为胎儿通道遗迹 |
+| Tricuspid valve | 三尖瓣 | 右心房与右心室之间的房室瓣膜 |
+| Mitral (bicuspid) valve | 二尖瓣（左房室瓣） | 左心房与左心室之间的房室瓣膜 |
+| Aortic valve | 主动脉瓣 | 左心室流入主动脉前经过的半月瓣 |
+| Pulmonary valve | 肺动脉瓣 | 右心室接肺动脉干处的半月瓣膜 |
+| Right ventricle | 右心室 | 画面左下腔室，与肺循环出口相连 |
+| Left ventricle | 左心室 | 画面右下腔室，肌壁较右心室厚 |
+| Chordae tendineae | 腱索 | 连接房室瓣叶与乳头肌的白色细索 |
+| Papillary muscle | 乳头肌 | 心室壁突起，收缩时帮助拉紧腱索 |
+| Trabeculae carneae | 肉柱 | 心室内壁的肌性起伏，并非腱索 |
+| Moderator band | 节制索（隔缘肉柱） | 横跨右心室的肌束，传导纤维经此 |
+| Interventricular septum | 室间隔 | 中央分隔左右心室的肌性组织壁 |
+| Epicardium | 心外膜 | 心壁最外侧，也属于浆膜心包脏层 |
+| Myocardium | 心肌层 | 心壁中主要产生收缩力的厚肌层 |
+| Endocardium | 心内膜 | 贴衬心腔内面并覆盖相关结构的薄层 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 19.9](https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 

@@ -14,9 +14,35 @@
 
 ![皮肤与皮下组织的连续层次](../assets/images/03-01.jpg)
 
-**读图：** 从表面向下依次找表皮、真皮和皮下组织，随后追踪毛囊、汗腺与血管。皮下组织与皮肤紧密相接，但严格说并非皮肤本体的一层。
+#### 中文读图说明
 
-**标注对应：** epidermis 表皮；dermis 真皮；hypodermis 皮下组织。
+先看右侧括号：最上方表皮覆盖表面，中部真皮含毛囊、腺体、神经和血管，更深处是有黄色脂肪团的皮下组织。皮下组织与皮肤紧密相接，但严格说不属于皮肤本体的第三层。
+
+沿一根毛向下，可见毛囊、毛根和周围神经丛；斜行红色束是立毛肌，旁边黄色分叶结构是皮脂腺。右侧卷曲小汗腺另有导管通向表面汗孔，并非借毛干排汗。
+
+再找深处同心层状的环层小体和底部血管丛。黄线表示神经，红蓝线表示血管，都是识别配色；图把多种结构集中并放大，不能按画面比例推算皮肤厚度、感受器大小或每处皮肤的配置。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Epidermis | 表皮 | 右侧最上括号所示无血管上皮层 |
+| Dermis | 真皮 | 右侧中部括号含纤维血管神经等 |
+| Hypodermis | 皮下组织 | 右侧深部括号含脂肪及疏松组织 |
+| Hair shaft | 毛干 | 伸出皮肤表面的角化毛发部分 |
+| Hair follicle | 毛囊 | 包围毛根并向皮肤深部延伸 |
+| Hair root | 毛根 | 位于皮表以下且嵌于毛囊内 |
+| Arrector pili muscle | 立毛肌 | 斜连毛囊与浅层组织的平滑肌 |
+| Sebaceous (oil) gland | 皮脂腺 | 毛囊旁分叶状腺体向毛囊分泌 |
+| Hair root plexus | 毛根神经丛 | 毛根周围感受毛发活动的神经网 |
+| Hair follicle receptor | 毛囊感受器 | 指向毛囊周围的感觉神经末梢 |
+| Sensory nerve fiber | 感觉神经纤维 | 传递来自皮肤等部位的感觉信息 |
+| Motor nerve fiber | 运动性神经纤维 | 图示通向腺体或平滑肌的调节纤维 |
+| Adipose tissue | 脂肪组织 | 深部黄色团块参与缓冲与储能 |
+| Pore of sweat gland duct | 汗腺导管开口（汗孔） | 表皮表面的排汗出口位置 |
+| Eccrine sweat gland | 小汗腺（外泌汗腺） | 右侧卷曲分泌部经导管直达表面 |
+| Pacinian corpuscle | 环层小体（帕西尼小体） | 深部洋葱状结构感受压力振动 |
+| Cutaneous vascular plexus | 皮肤血管丛 | 底部红蓝血管再向真皮分支 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 5.2](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
@@ -50,9 +76,29 @@
 
 ![毛囊及其附属结构](../assets/images/03-02.jpg)
 
-**读图：** 顺着毛干向下找毛根，再辨认旁侧腺体和立毛肌。图中呈现的是有毛皮肤，并不能代表掌跖厚皮。
+#### 中文读图说明
 
-**标注对应：** hair shaft 毛干；hair follicle 毛囊；sebaceous gland 皮脂腺。
+顺着棕色毛干从表面向下，毛囊末端膨大形成毛球。右上括号把毛干拆成髓质、皮质和毛小皮三个同心部分；这些是毛发自身的组成，不能与包围毛根的根鞘混为一层。
+
+在毛根两侧辨认内根鞘与外根鞘，再看毛球底部的毛母质和毛乳头：前者参与产生毛发细胞，后者是伸入毛球的结缔组织结构，图中画有进入其内的血管。
+
+旁侧黄色分叶结构是皮脂腺，斜行红束是立毛肌。本图没有汗腺，不能把皮脂腺当作排汗结构；各层颜色与厚度经过示意化，毛乳头不是毛干最下面的一截，外根鞘也不只局限在毛球。
+
+#### 图中英文标注逐项对照
+
+| 图中英文 | 中文名称 | 在图中怎样理解 |
+| --- | --- | --- |
+| Hair shaft | 毛干 | 表面伸出的毛发并在图中局部剖开 |
+| Medulla | 毛髓质 | 毛干中心部分，部分毛发不明显 |
+| Cortex | 毛皮质 | 毛干中间主要角化结构区域 |
+| Cuticle | 毛小皮 | 毛干最外层薄的角化保护结构 |
+| Sebaceous gland | 皮脂腺 | 右侧分叶腺体把皮脂送入毛囊 |
+| Arrector pili muscle | 立毛肌 | 左侧斜行红色平滑肌牵连毛囊 |
+| Inner root sheath | 内根鞘 | 毛根周围靠内侧的鞘性结构 |
+| Outer root sheath | 外根鞘 | 内根鞘外方并与表皮连续的结构 |
+| Hair bulb | 毛球 | 毛囊最下端膨大的生长相关区域 |
+| Hair matrix | 毛母质 | 毛乳头周围增殖细胞参与毛发生长 |
+| Hair papilla | 毛乳头 | 毛球底部结缔组织突起含血管 |
 
 *来源：[OpenStax《Anatomy and Physiology 2e》原图 5.11](https://openstax.org/books/anatomy-and-physiology-2e/pages/5-2-accessory-structures-of-the-skin)；OpenStax, Anatomy and Physiology 2e; J. Gordon Betts et al.; Rice University；[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。*
 
