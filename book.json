@@ -178,8 +178,8 @@
       "title": "盆腔与生殖：同一空间的不同安排",
       "source": "chapters/18-pelvis.md",
       "sections": [
-        "27-1-anatomy-and-physiology-of-the-male-reproductive-system",
-        "27-2-anatomy-and-physiology-of-the-female-reproductive-system"
+        "27-1-anatomy-and-physiology-of-the-testicular-reproductive-system",
+        "27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system"
       ]
     },
     {
@@ -240,5 +240,16 @@
         "1-5-homeostasis"
       ]
     }
-  ]
+  ],
+  "cover": "assets/cover.png",
+  "frontmatter": [
+    "appendices/00-preface.md"
+  ],
+  "backmatter": [
+    "appendices/25-glossary.md",
+    "appendices/26-imaging.md",
+    "appendices/27-sources.md"
+  ],
+  "edition": "2026-10-25",
+  "license": "CC BY-NC-SA 4.0"
 }
