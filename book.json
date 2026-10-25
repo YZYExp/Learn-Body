@@ -1,0 +1,244 @@
+{
+  "title": "人体，从外到内",
+  "subtitle": "一部沿着层次、空间与连接阅读身体的图解入门书",
+  "language": "zh-CN",
+  "chapters": [
+    {
+      "id": "01",
+      "slug": "orientation",
+      "title": "先会定位：体表、方向与切面",
+      "source": "chapters/01-orientation.md",
+      "sections": [
+        "1-6-anatomical-terminology"
+      ]
+    },
+    {
+      "id": "02",
+      "slug": "tissues",
+      "title": "放大一层：组织如何组成身体",
+      "source": "chapters/02-tissues.md",
+      "sections": [
+        "4-1-types-of-tissues",
+        "4-3-connective-tissue-supports-and-protects"
+      ]
+    },
+    {
+      "id": "03",
+      "slug": "skin",
+      "title": "皮肤：屏障、感觉与散热",
+      "source": "chapters/03-skin.md",
+      "sections": [
+        "5-1-layers-of-the-skin",
+        "5-2-accessory-structures-of-the-skin"
+      ]
+    },
+    {
+      "id": "04",
+      "slug": "fascia",
+      "title": "皮下脂肪与筋膜：形体之间的连接",
+      "source": "chapters/04-fascia.md",
+      "sections": [
+        "4-3-connective-tissue-supports-and-protects"
+      ]
+    },
+    {
+      "id": "05",
+      "slug": "muscle",
+      "title": "肌肉：从轮廓走向收缩",
+      "source": "chapters/05-muscle.md",
+      "sections": [
+        "10-2-skeletal-muscle",
+        "10-3-muscle-fiber-contraction-and-relaxation"
+      ]
+    },
+    {
+      "id": "06",
+      "slug": "skeleton",
+      "title": "骨骼：有生命的支架",
+      "source": "chapters/06-skeleton.md",
+      "sections": [
+        "6-3-bone-structure",
+        "7-1-divisions-of-the-skeletal-system"
+      ]
+    },
+    {
+      "id": "07",
+      "slug": "joints",
+      "title": "关节：稳定与活动的交换",
+      "source": "chapters/07-joints.md",
+      "sections": [
+        "9-4-synovial-joints",
+        "9-5-types-of-body-movements"
+      ]
+    },
+    {
+      "id": "08",
+      "slug": "head",
+      "title": "头面部：颅骨、表情与咀嚼",
+      "source": "chapters/08-head.md",
+      "sections": [
+        "7-2-the-skull",
+        "11-3-axial-muscles-of-the-head-neck-and-back"
+      ]
+    },
+    {
+      "id": "09",
+      "slug": "spine",
+      "title": "颈背与脊柱：支撑、通道和姿势",
+      "source": "chapters/09-spine.md",
+      "sections": [
+        "7-3-the-vertebral-column",
+        "11-4-axial-muscles-of-the-abdominal-wall-and-thorax"
+      ]
+    },
+    {
+      "id": "10",
+      "slug": "upper-limb",
+      "title": "肩到手：把力量送到指尖",
+      "source": "chapters/10-upper-limb.md",
+      "sections": [
+        "8-1-the-pectoral-girdle",
+        "8-2-bones-of-the-upper-limb",
+        "11-5-muscles-of-the-pectoral-girdle-and-upper-limbs"
+      ]
+    },
+    {
+      "id": "11",
+      "slug": "lower-limb",
+      "title": "髋到足：承重、步行与足弓",
+      "source": "chapters/11-lower-limb.md",
+      "sections": [
+        "8-4-bones-of-the-lower-limb",
+        "11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs"
+      ]
+    },
+    {
+      "id": "12",
+      "slug": "thorax",
+      "title": "打开胸廓：肺、胸膜与呼吸",
+      "source": "chapters/12-thorax.md",
+      "sections": [
+        "22-1-organs-and-structures-of-the-respiratory-system",
+        "22-2-the-lungs"
+      ]
+    },
+    {
+      "id": "13",
+      "slug": "heart",
+      "title": "心脏：四个腔室与两条循环",
+      "source": "chapters/13-heart.md",
+      "sections": [
+        "19-1-heart-anatomy",
+        "19-4-cardiac-physiology"
+      ]
+    },
+    {
+      "id": "14",
+      "slug": "vessels",
+      "title": "血管与淋巴：遍布层间的运输网",
+      "source": "chapters/14-vessels.md",
+      "sections": [
+        "20-1-structure-and-function-of-blood-vessels",
+        "21-1-anatomy-of-the-lymphatic-and-immune-systems"
+      ]
+    },
+    {
+      "id": "15",
+      "slug": "abdomen",
+      "title": "走进腹部：腹壁、腹膜与器官位置",
+      "source": "chapters/15-abdomen.md",
+      "sections": [
+        "23-1-overview-of-the-digestive-system",
+        "23-5-the-small-and-large-intestines"
+      ]
+    },
+    {
+      "id": "16",
+      "slug": "digestion",
+      "title": "消化管与肝胰：食物在体内的旅程",
+      "source": "chapters/16-digestion.md",
+      "sections": [
+        "23-4-the-stomach",
+        "23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+      ]
+    },
+    {
+      "id": "17",
+      "slug": "urinary",
+      "title": "肾与泌尿道：过滤、回收和排出",
+      "source": "chapters/17-urinary.md",
+      "sections": [
+        "25-3-gross-anatomy-of-the-kidney",
+        "25-4-microscopic-anatomy-of-the-kidney"
+      ]
+    },
+    {
+      "id": "18",
+      "slug": "pelvis",
+      "title": "盆腔与生殖：同一空间的不同安排",
+      "source": "chapters/18-pelvis.md",
+      "sections": [
+        "27-1-anatomy-and-physiology-of-the-male-reproductive-system",
+        "27-2-anatomy-and-physiology-of-the-female-reproductive-system"
+      ]
+    },
+    {
+      "id": "19",
+      "slug": "brain",
+      "title": "脑与脊髓：骨性保护中的中枢",
+      "source": "chapters/19-brain.md",
+      "sections": [
+        "13-2-the-central-nervous-system",
+        "13-3-circulation-and-the-central-nervous-system"
+      ]
+    },
+    {
+      "id": "20",
+      "slug": "nerves",
+      "title": "周围神经：感觉、运动与自主调节",
+      "source": "chapters/20-nerves.md",
+      "sections": [
+        "13-4-the-peripheral-nervous-system",
+        "15-1-divisions-of-the-autonomic-nervous-system"
+      ]
+    },
+    {
+      "id": "21",
+      "slug": "senses",
+      "title": "眼耳鼻舌：感觉器官怎样接入神经",
+      "source": "chapters/21-senses.md",
+      "sections": [
+        "14-1-sensory-perception"
+      ]
+    },
+    {
+      "id": "22",
+      "slug": "endocrine",
+      "title": "内分泌：分散在身体里的化学信号站",
+      "source": "chapters/22-endocrine.md",
+      "sections": [
+        "17-1-an-overview-of-the-endocrine-system",
+        "17-3-the-pituitary-gland-and-hypothalamus"
+      ]
+    },
+    {
+      "id": "23",
+      "slug": "microstructure",
+      "title": "从器官走到细胞：结构如何跨越尺度",
+      "source": "chapters/23-microstructure.md",
+      "sections": [
+        "3-2-the-cytoplasm-and-cellular-organelles",
+        "4-2-epithelial-tissue"
+      ]
+    },
+    {
+      "id": "24",
+      "slug": "integration",
+      "title": "把身体重新连起来：动作、呼吸与稳态",
+      "source": "chapters/24-integration.md",
+      "sections": [
+        "1-5-homeostasis"
+      ]
+    }
+  ]
+}
