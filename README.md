@@ -48,7 +48,7 @@ python scripts/check.py
 
 阅读包输出至 `build/Human-Body-Outside-In.epub`，合并主稿输出至 `build/Human-Body-Outside-In.md`。EPUB保持图片纵横比，供移动端逐章阅读；原图在 `assets/images/`，阅读包会另生成尺寸适合阅读器的图像副本，不改动原图。
 
-`book.json` 是章节顺序、标题和资源路径的单一清单，后续主页可直接消费它与分章Markdown。本阶段没有生成网站或部署流程。
+`book.json` 是章节顺序、标题和资源路径的单一清单，后续主页可直接消费它与分章Markdown。网站由轻量 CI 从同一份清单与分章内容构建。
 
 ## 编辑文件
 
@@ -61,3 +61,15 @@ python scripts/check.py
 ## 许可
 
 本书按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 提供。图源和显微照片署名就近保留，图像为教材示意与组织样本，不将其视为每位个体的精确模板。未使用OpenStax商标图案或教材封面。
+
+## 网页阅读与发布
+
+GitHub Pages 的 Source 设为 GitHub Actions 后，推送 main 自动构建并发布。PR 仅构建与检查，不部署。
+
+```bash
+python -m pip install Markdown==3.7
+python scripts/build_site.py
+python -m http.server 8000 --directory _site
+```
+
+构建检查所有站内链接和配图路径。输出在 `_site/`，不执行 EPUB、PDF、图像生成或外部素材下载。目录、逐章导航、附录和原有来源署名从现有稿件生成。
